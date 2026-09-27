@@ -6,7 +6,7 @@
     "portal_americas": { "nombre": "Portal de las Américas", "lat": 4.6280, "lon": -74.1660 },
     "univ_pedagogica": { "nombre": "Universidad Pedagógica", "lat": 4.6570, "lon": -74.0630 },
     "el_campin": { "nombre": "Estadio El Campín", "lat": 4.6486, "lon": -74.0776 },
-    "galerias": { "nombre": "Galerías", "lat": 4.500, "lon": -74.0700 },
+    "galerias": { "nombre": "Galerías", "lat": 4.6500, "lon": -74.0700 },
     "univ_nacional": { "nombre": "Universidad Nacional", "lat": 4.6380, "lon": -74.0840 },
     "salitre": { "nombre": "Salitre", "lat": 4.6470, "lon": -74.1020 },
     "estadio_techo": { "nombre": "Estadio de Techo", "lat": 4.6300, "lon": -74.1460 },

@@ -1,0 +1,9 @@
+# requirements.txt
+#
+# Este proyecto NO tiene dependencias externas: funciona solo con la biblioteca
+# estándar de Python 3.8 o superior, así que este archivo queda vacío a
+# propósito y se conserva únicamente para dejar constancia de ello.
+#
+#   python3 src/main.py <id_origen> <id_destino>
+#
+# No agregues paquetes aquí salvo que realmente se importen en src/*.py.
