@@ -27,35 +27,66 @@ todos los hechos "circula" derivados, para que el motor de búsqueda
 (motor_busqueda.py) explore sobre ella.
 """
 
-from hechos import RUTAS, RUTAS_CIRCULARES, TIEMPO_ENTRE_PARADEROS, TIEMPO_TRANSBORDO
+from hechos import (
+    RUTAS,
+    RUTAS_CIRCULARES,
+    TIEMPO_ENTRE_PARADEROS,
+    TIEMPO_TRANSBORDO,
+)
+
+# Número mínimo de paraderos para que una ruta circular pueda cerrarse sin
+# repetir arcos: con 1 no hay ciclo y con 2 el arco de cierre duplicaría el
+# arco directo ya generado.
+MIN_PARADEROS_RUTA_CIRCULAR = 3
 
 
-def regla_generar_conexiones():
+def regla_generar_conexiones(
+    rutas=None,
+    circulares=None,
+    tiempo_entre_paraderos=None,
+):
     """
     Aplica la Regla 1 sobre la base de conocimiento: recorre cada ruta y
     genera el predicado circula(A, B, Ruta, Tiempo) entre paraderos
     consecutivos. Las rutas normales son bidireccionales; las rutas
     circulares (RUTAS_CIRCULARES) solo se recorren en el sentido publicado.
 
-    Retorna:
+    La función es pura: no lee estado global. Los parámetros `None` significan
+    "usar el valor de la base de conocimiento" (hechos.py), lo que permite
+    construir grafos alternativos para pruebas sin mutar los hechos.
+
+    Args:
+        rutas: {id_ruta: [id_paradero, ...]}. Por defecto, RUTAS.
+        circulares: ids de rutas unidireccionales. Por defecto, RUTAS_CIRCULARES.
+        tiempo_entre_paraderos: costo de cada tramo. Por defecto,
+            TIEMPO_ENTRE_PARADEROS.
+
+    Returns:
         dict: { paradero_id: [ (paradero_vecino, ruta, tiempo), ... ] }
     """
+    rutas = RUTAS if rutas is None else rutas
+    circulares = RUTAS_CIRCULARES if circulares is None else circulares
+    tiempo = (
+        TIEMPO_ENTRE_PARADEROS
+        if tiempo_entre_paraderos is None
+        else tiempo_entre_paraderos
+    )
+
     grafo = {}
 
     def agregar_arco(origen, destino, ruta, tiempo):
         grafo.setdefault(origen, []).append((destino, ruta, tiempo))
 
-    for ruta, paraderos in RUTAS.items():
-        es_circular = ruta in RUTAS_CIRCULARES
+    for ruta, paraderos in rutas.items():
+        es_circular = ruta in circulares
         n = len(paraderos)
-        pares = zip(paraderos, paraderos[1:])
-        for a, b in pares:
-            agregar_arco(a, b, ruta, TIEMPO_ENTRE_PARADEROS)
+        for a, b in zip(paraderos, paraderos[1:]):
+            agregar_arco(a, b, ruta, tiempo)
             if not es_circular:
-                agregar_arco(b, a, ruta, TIEMPO_ENTRE_PARADEROS)
-        if es_circular and n > 2:
+                agregar_arco(b, a, ruta, tiempo)
+        if es_circular and n >= MIN_PARADEROS_RUTA_CIRCULAR:
             # Cierra el ciclo: del último paradero de vuelta al primero.
-            agregar_arco(paraderos[-1], paraderos[0], ruta, TIEMPO_ENTRE_PARADEROS)
+            agregar_arco(paraderos[-1], paraderos[0], ruta, tiempo)
 
     return grafo
 
@@ -84,5 +115,36 @@ def regla_meta(paradero_actual, paradero_destino):
     return paradero_actual == paradero_destino
 
 
-# Grafo lógico derivado de los hechos; se calcula una sola vez al importar.
+# Grafo lógico derivado de los hechos. Se calcula una sola vez al importar el
+# módulo para que el resto del sistema no lo repita en cada consulta.
 GRAFO = regla_generar_conexiones()
+
+
+def grafo_actual():
+    """
+    Devuelve el grafo lógico vigente.
+
+    Se consulta por indirección (y no importando GRAFO directamente) para que
+    una llamada a `reconstruir_grafo` se refleje en los módulos que ya están
+    importados.
+    """
+    return GRAFO
+
+
+def reconstruir_grafo(rutas=None, circulares=None, tiempo_entre_paraderos=None):
+    """
+    Vuelve a derivar el grafo lógico y reemplaza el global `GRAFO`.
+
+    Útil en pruebas o después de editar los hechos en caliente, sin tener que
+    reiniciar el proceso. Devuelve el grafo nuevo.
+
+    Returns:
+        dict: el grafo que quedó activo.
+    """
+    global GRAFO
+    GRAFO = regla_generar_conexiones(
+        rutas=rutas,
+        circulares=circulares,
+        tiempo_entre_paraderos=tiempo_entre_paraderos,
+    )
+    return GRAFO

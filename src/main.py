@@ -5,13 +5,17 @@ Interfaz de línea de comandos del sistema inteligente de ruteo sobre la red
 zonal del SITP (Bogotá).
 
 Uso interactivo:
-    python3 main.py
+    python3 src/main.py
 
 Uso directo (sin menú), útil para pruebas y para el video:
-    python3 main.py <id_paradero_origen> <id_paradero_destino>
+    python3 src/main.py <id_paradero_origen> <id_paradero_destino>
 
 Ejemplo:
-    python3 main.py chapinero_central portal_americas
+    python3 src/main.py chapinero_central portal_americas
+
+En ambos modos hay que ejecutarlo desde la raíz del repositorio: los módulos
+del paquete plano se importan por nombre (`from hechos import ...`) y solo
+resuelven porque el directorio del script entra en `sys.path`.
 """
 
 import sys
@@ -32,7 +36,7 @@ def mostrar_resultado(origen, destino, resultado):
         print(f"\nRuta de '{origen}' a '{destino}'")
         print("-" * 50)
         print("Error: uno de los paraderos no existe en la base de conocimiento.")
-        print("Use el modo interactivo (python3 main.py) para ver los ids válidos.")
+        print("Use el modo interactivo (python3 src/main.py) para ver los ids válidos.")
         return
 
     nombre_origen = PARADEROS[origen][0]
@@ -64,10 +68,32 @@ def mostrar_resultado(origen, destino, resultado):
 
 def modo_interactivo():
     listar_paraderos()
-    origen = input("Ingrese el id del paradero de ORIGEN: ").strip()
-    destino = input("Ingrese el id del paradero de DESTINO: ").strip()
+    origen = pedir_paradero("ORIGEN")
+    if origen is None:
+        return
+    destino = pedir_paradero("DESTINO")
+    if destino is None:
+        return
     resultado = buscar_ruta(origen, destino)
     mostrar_resultado(origen, destino, resultado)
+
+
+def pedir_paradero(rol):
+    """
+    Pide un id de paradero válido. Repite la pregunta si el id no existe, en
+    lugar de terminar el programa con el primer error.
+
+    Returns:
+        str: el id válido,         o None si el usuario decidió salir.
+    """
+    while True:
+        respuesta = input(f"Ingrese el id del paradero de {rol}: ").strip()
+        if not respuesta:
+            print("Saliendo.")
+            return None
+        if respuesta in PARADEROS:
+            return respuesta
+        print(f"'{respuesta}' no es un id válido. Consulte la lista anterior.")
 
 
 def main():
@@ -78,7 +104,7 @@ def main():
     elif len(sys.argv) == 1:
         modo_interactivo()
     else:
-        print("Uso: python3 main.py [id_origen id_destino]")
+        print("Uso: python3 src/main.py [id_origen id_destino]")
         sys.exit(1)
 
 
