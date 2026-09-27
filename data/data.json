@@ -1,0 +1,44 @@
+{
+  "paraderos": {
+    "chapinero_central": { "nombre": "Chapinero Central", "lat": 4.6480, "lon": -74.0620 },
+    "can": { "nombre": "CAN", "lat": 4.6484, "lon": -74.0932 },
+    "biblioteca_tintal": { "nombre": "Biblioteca El Tintal", "lat": 4.6296, "lon": -74.1553 },
+    "portal_americas": { "nombre": "Portal de las Américas", "lat": 4.6280, "lon": -74.1660 },
+    "univ_pedagogica": { "nombre": "Universidad Pedagógica", "lat": 4.6570, "lon": -74.0630 },
+    "el_campin": { "nombre": "Estadio El Campín", "lat": 4.6486, "lon": -74.0776 },
+    "galerias": { "nombre": "Galerías", "lat": 4.500, "lon": -74.0700 },
+    "univ_nacional": { "nombre": "Universidad Nacional", "lat": 4.6380, "lon": -74.0840 },
+    "salitre": { "nombre": "Salitre", "lat": 4.6470, "lon": -74.1020 },
+    "estadio_techo": { "nombre": "Estadio de Techo", "lat": 4.6300, "lon": -74.1460 },
+    "hospital_kennedy": { "nombre": "Hospital de Kennedy", "lat": 4.6280, "lon": -74.1560 },
+    "villa_del_rio": { "nombre": "Villa del Río", "lat": 4.6150, "lon": -74.1450 },
+    "dg57_tv4e": { "nombre": "Dg 57 - Tv 4 Este", "lat": 4.6465, "lon": -74.0605 },
+    "cl60a_kr3a": { "nombre": "Cl 60A - Kr 3A", "lat": 4.6478, "lon": -74.0615 },
+    "kr4_cl58bis": { "nombre": "Kr 4 - Cl 58 Bis", "lat": 4.6455, "lon": -74.0600 },
+    "kr4_cl59a": { "nombre": "Kr 4 - Cl 59A", "lat": 4.6462, "lon": -74.0598 },
+    "cl53_kr4": { "nombre": "Cl 53 - Kr 4", "lat": 4.6400, "lon": -74.0605 },
+    "cl54_kr6": { "nombre": "Cl 54 - Kr 6", "lat": 4.6410, "lon": -74.0630 },
+    "ac53_kr3": { "nombre": "AC 53 - Kr 3", "lat": 4.6398, "lon": -74.0590 },
+    "ac60bis_tv1a": { "nombre": "AC 60 Bis x Tv 1A", "lat": 4.6480, "lon": -74.0590 },
+    "dg57_tv2e": { "nombre": "Dg 57 - Tv 2 Este", "lat": 4.6468, "lon": -74.0585 }
+  },
+  "rutas": {
+    "urbana_14": [
+      "chapinero_central", "el_campin", "can", "biblioteca_tintal", "portal_americas"
+    ],
+    "c11": [
+      "univ_pedagogica", "chapinero_central", "el_campin", "galerias",
+      "univ_nacional", "salitre", "estadio_techo", "hospital_kennedy", "villa_del_rio"
+    ],
+    "complementaria_18_8": [
+      "dg57_tv4e", "cl60a_kr3a", "kr4_cl58bis", "kr4_cl59a", "cl53_kr4",
+      "cl54_kr6", "ac53_kr3", "ac60bis_tv1a", "dg57_tv2e"
+    ]
+  },
+  "rutas_circulares": ["complementaria_18_8"],
+  "constantes": {
+    "tiempo_entre_paraderos": 3.0,
+    "tiempo_transbordo": 8.0,
+    "velocidad_promedio_km_min": 0.30
+  }
+}
