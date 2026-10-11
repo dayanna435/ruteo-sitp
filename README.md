@@ -121,6 +121,10 @@ los resultados paginados y elegir un paradero **por número**, por lo que nunca
 necesita escribir el id o el nombre exactos. El menú además permite ver
 paraderos e ids, rutas y su detalle, la flota de buses y estadísticas de la red.
 
+## Arbol
+
+<img src="./docs/images/Arbol.png" alt="mapa conceptual">
+
 ## ¿Cómo funciona el Sistema?
 
 1. **Procesamiento de Datos:** Ingiere y valida el formato GTFS normalizado, estructurándolo en JSON eficientes para su consulta rápida en memoria.
