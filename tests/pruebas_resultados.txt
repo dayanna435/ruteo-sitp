@@ -1,0 +1,83 @@
+Dataset: (5000, 9)
+demanda
+BAJA     3089
+MEDIA    1413
+ALTA      498
+Name: count, dtype: int64 
+
+== Árbol de decisión ==
+Exactitud: 0.764
+CV (5 folds): [0.762 0.757 0.759 0.751 0.761]
+              precision    recall  f1-score   support
+
+        ALTA       0.78      0.17      0.28       125
+        BAJA       0.84      0.93      0.88       772
+       MEDIA       0.58      0.62      0.60       353
+
+    accuracy                           0.76      1250
+   macro avg       0.73      0.57      0.59      1250
+weighted avg       0.76      0.76      0.74      1250
+
+Matriz de confusión:
+ [[716  55   1]
+ [130 218   5]
+ [  2 102  21]]
+
+Reglas aprendidas:
+ |--- hora <= 8.50
+|   |--- dia_semana <= 4.50
+|   |   |--- hora <= 5.50
+|   |   |   |--- lluvia <= 0.50
+|   |   |   |   |--- truncated branch of depth 2
+|   |   |   |--- lluvia >  0.50
+|   |   |   |   |--- truncated branch of depth 2
+|   |   |--- hora >  5.50
+|   |   |   |--- estacion_Portal Sur <= 0.50
+|   |   |   |   |--- truncated branch of depth 2
+|   |   |   |--- estacion_Portal Sur >  0.50
+|   |   |   |   |--- truncated branch of depth 2
+|   |--- dia_semana >  4.50
+|   |   |--- evento_cercano <= 0.50
+|   |   |   |--- lluvia <= 0.50
+|   |   |   |   |--- truncated branch of depth 2
+|   |   |   |--- lluvia >  0.50
+|   |   |   |   |--- truncated branch of depth 2
+|   |   |--- evento_cercano >  0.50
+|   |   |   |--- class: MEDIA
+|--- hora >  8.50
+|   |--- hora <= 16.50
+|   |   |--- lluvia <= 0.50
+|   |   |   |--- evento_cercano <= 0.50
+|   |   |   |   |--- truncated branch of depth 2
+|   |   |   |--- evento_cercano >  0.50
+|   |   |   |   |--- truncated branch of depth 2
+|   |   |--- lluvia >  0.50
+|   |   |   |--- estacion_Portal Sur <= 0.50
+|   |   |   |   |--- truncated branch of depth 2
+|   |   |   |--- estacion_Portal Sur >  0.50
+|   |   |   |   |--- truncated branch of depth 2
+|   |--- hora >  16.50
+|   |   |--- hora <= 19.50
+|   |   |   |--- dia_semana <= 4.50
+|   |   |   |   |--- truncated branch of depth 2
+|   |   |   |--- dia_semana >  4.50
+|   |   |   |   |--- truncated branch of depth 2
+|   |   |--- hora >  19.50
+|   |   |   |--- evento_cercano <= 0.50
+|   |   |   |   |--- truncated branch of depth 2
+|   |   |   |--- evento_cercano >  0.50
+|   |   |   |   |--- truncated branch of depth 2
+
+== Random Forest ==
+Exactitud: 0.81
+
+Importancia de variables (árbol):
+ hora                     0.416
+dia_semana               0.212
+estacion_Portal Sur      0.109
+evento_cercano           0.098
+lluvia                   0.071
+estacion_Portal Norte    0.039
+dtype: float64
+
+Predicción caso (Portal Norte, martes 7am, lluvia, 15 buses): MEDIA
