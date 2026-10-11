@@ -1,0 +1,5001 @@
+estacion,hora,dia_semana,lluvia,festivo,evento_cercano,buses_disponibles,pasajeros_estimados,demanda
+Portal Norte,8,2,0,0,0,35,828,MEDIA
+Portal Sur,5,1,1,0,1,26,926,MEDIA
+Museo del Oro,16,3,0,0,0,34,359,BAJA
+Av. Jiménez,17,4,0,0,0,16,942,MEDIA
+Av. Jiménez,18,1,0,0,0,18,894,MEDIA
+Alcalá,22,5,1,0,0,12,416,BAJA
+Portal Norte,13,4,1,0,0,30,579,BAJA
+Portal Sur,19,1,1,0,0,32,1077,ALTA
+Calle 72,17,6,0,0,0,18,654,MEDIA
+Portal Norte,9,0,0,0,0,21,639,BAJA
+Museo del Oro,20,4,0,0,0,27,251,BAJA
+Alcalá,5,3,0,0,0,33,299,BAJA
+Portal Sur,15,4,0,0,0,19,585,BAJA
+Portal Sur,21,5,0,0,0,25,610,BAJA
+Portal Sur,16,4,1,0,0,15,743,MEDIA
+Portal Sur,21,4,0,0,0,35,712,MEDIA
+Museo del Oro,6,5,1,0,0,37,327,BAJA
+Portal Norte,14,4,0,0,0,32,553,BAJA
+Alcalá,19,5,0,0,0,35,175,BAJA
+Av. Jiménez,16,2,0,0,0,33,501,BAJA
+Museo del Oro,20,1,0,0,0,35,333,BAJA
+Av. Jiménez,13,1,0,0,0,23,602,BAJA
+Calle 72,17,4,0,1,0,16,661,MEDIA
+Alcalá,12,3,0,0,0,39,151,BAJA
+Portal Sur,20,0,0,0,0,10,933,MEDIA
+Museo del Oro,7,1,0,0,0,22,832,MEDIA
+Av. Jiménez,9,6,1,0,1,32,774,MEDIA
+Portal Sur,6,5,1,0,0,34,692,MEDIA
+Museo del Oro,17,5,0,0,0,31,384,BAJA
+Av. Jiménez,9,1,0,0,0,25,537,BAJA
+Av. Jiménez,10,0,0,0,0,38,452,BAJA
+Calle 72,20,2,0,0,0,17,575,BAJA
+Portal Norte,11,5,0,0,0,14,705,MEDIA
+Museo del Oro,7,3,0,0,0,29,678,MEDIA
+Alcalá,5,5,0,0,0,19,495,BAJA
+Portal Norte,9,3,1,1,0,24,554,BAJA
+Alcalá,21,3,0,0,0,24,360,BAJA
+Portal Sur,14,4,1,0,0,18,775,MEDIA
+Calle 72,22,6,0,0,0,40,364,BAJA
+Museo del Oro,8,3,0,0,0,21,768,MEDIA
+Portal Norte,11,4,1,0,1,30,894,MEDIA
+Portal Sur,7,6,0,0,0,14,501,BAJA
+Portal Sur,12,2,0,0,0,40,642,BAJA
+Av. Jiménez,15,5,1,0,0,40,614,BAJA
+Portal Norte,19,3,0,0,0,12,914,MEDIA
+Alcalá,11,6,0,0,0,29,337,BAJA
+Av. Jiménez,18,3,0,0,0,28,871,MEDIA
+Alcalá,16,4,0,0,0,15,334,BAJA
+Portal Sur,10,2,0,0,0,33,601,BAJA
+Portal Sur,21,4,0,0,0,33,423,BAJA
+Portal Sur,12,2,1,0,0,36,663,MEDIA
+Calle 72,7,4,0,0,0,28,838,MEDIA
+Av. Jiménez,22,5,0,0,0,31,460,BAJA
+Av. Jiménez,21,3,0,0,0,32,339,BAJA
+Av. Jiménez,5,3,0,1,0,33,178,BAJA
+Portal Norte,21,2,1,0,0,28,757,MEDIA
+Museo del Oro,22,5,0,0,0,33,355,BAJA
+Portal Norte,19,4,0,0,0,11,1036,ALTA
+Portal Sur,9,3,1,0,0,29,921,MEDIA
+Portal Sur,16,0,1,0,0,16,710,MEDIA
+Alcalá,14,0,1,0,0,22,490,BAJA
+Portal Sur,16,0,0,0,0,33,581,BAJA
+Av. Jiménez,16,5,0,0,0,13,723,MEDIA
+Alcalá,16,5,0,1,0,33,30,BAJA
+Av. Jiménez,14,0,0,0,0,18,580,BAJA
+Calle 72,17,0,1,0,0,33,962,ALTA
+Alcalá,14,5,0,0,0,33,157,BAJA
+Av. Jiménez,5,3,0,0,0,10,510,BAJA
+Portal Norte,5,2,1,1,0,17,416,BAJA
+Av. Jiménez,22,4,1,0,0,34,633,BAJA
+Portal Sur,21,1,0,0,0,20,659,MEDIA
+Calle 72,15,1,1,0,0,23,565,BAJA
+Av. Jiménez,8,2,0,0,0,10,1090,ALTA
+Portal Norte,19,6,0,0,0,31,375,BAJA
+Portal Sur,7,5,0,0,0,12,584,BAJA
+Av. Jiménez,11,1,1,0,0,18,452,BAJA
+Calle 72,10,3,1,0,0,24,673,MEDIA
+Calle 72,5,6,0,1,0,33,94,BAJA
+Museo del Oro,19,6,0,0,0,25,447,BAJA
+Portal Sur,14,5,0,0,0,40,511,BAJA
+Alcalá,10,0,0,0,0,26,366,BAJA
+Av. Jiménez,14,1,1,0,1,17,898,MEDIA
+Portal Norte,5,1,0,0,0,15,663,MEDIA
+Portal Sur,12,1,1,0,0,34,697,MEDIA
+Museo del Oro,14,1,0,0,0,24,403,BAJA
+Portal Sur,11,2,0,0,1,28,977,ALTA
+Portal Norte,19,3,0,0,0,21,864,MEDIA
+Calle 72,9,2,1,0,0,18,607,BAJA
+Portal Sur,7,2,0,0,0,28,1008,ALTA
+Portal Sur,14,1,0,0,0,19,650,BAJA
+Av. Jiménez,20,1,0,0,0,40,368,BAJA
+Portal Sur,11,6,1,0,0,32,645,BAJA
+Alcalá,5,4,1,0,0,35,472,BAJA
+Av. Jiménez,22,1,1,0,0,18,646,BAJA
+Alcalá,12,5,0,0,0,10,575,BAJA
+Calle 72,8,5,1,0,0,11,696,MEDIA
+Calle 72,16,6,0,1,0,36,61,BAJA
+Portal Sur,10,1,1,0,1,37,952,ALTA
+Museo del Oro,21,4,0,0,0,31,343,BAJA
+Portal Norte,10,6,0,0,0,28,659,MEDIA
+Portal Sur,14,5,1,0,0,16,691,MEDIA
+Calle 72,14,1,1,0,0,33,378,BAJA
+Portal Sur,9,6,0,0,0,26,633,BAJA
+Portal Norte,13,2,0,0,0,28,619,BAJA
+Portal Sur,6,3,1,0,0,10,1243,ALTA
+Portal Sur,16,3,1,0,0,26,778,MEDIA
+Portal Sur,18,5,1,0,0,31,736,MEDIA
+Museo del Oro,22,0,0,0,0,33,204,BAJA
+Av. Jiménez,10,3,0,0,0,14,578,BAJA
+Portal Sur,10,5,1,0,0,10,925,MEDIA
+Calle 72,14,3,1,0,0,36,518,BAJA
+Portal Sur,17,1,1,0,0,19,1061,ALTA
+Museo del Oro,22,0,0,0,0,24,349,BAJA
+Av. Jiménez,5,3,0,0,0,29,511,BAJA
+Museo del Oro,9,4,0,0,0,25,514,BAJA
+Museo del Oro,9,3,1,0,0,39,249,BAJA
+Portal Norte,9,6,0,0,0,36,533,BAJA
+Portal Norte,13,4,0,0,0,22,513,BAJA
+Calle 72,20,3,1,0,1,15,921,MEDIA
+Portal Norte,5,0,1,1,0,40,347,BAJA
+Av. Jiménez,19,3,0,0,0,31,835,MEDIA
+Portal Sur,16,1,1,0,0,33,733,MEDIA
+Museo del Oro,16,5,0,0,0,24,467,BAJA
+Av. Jiménez,17,1,0,0,0,25,877,MEDIA
+Alcalá,7,6,0,1,1,15,193,BAJA
+Museo del Oro,18,2,0,0,0,23,896,MEDIA
+Portal Norte,9,3,1,0,0,26,750,MEDIA
+Portal Sur,14,1,1,0,0,14,841,MEDIA
+Museo del Oro,17,1,0,0,1,29,941,MEDIA
+Museo del Oro,15,6,1,0,0,29,545,BAJA
+Museo del Oro,10,1,0,0,0,36,467,BAJA
+Museo del Oro,12,3,1,0,0,11,564,BAJA
+Portal Norte,13,6,1,1,0,16,452,BAJA
+Museo del Oro,5,4,0,0,0,23,297,BAJA
+Portal Sur,18,0,0,0,1,37,1130,ALTA
+Calle 72,6,2,0,0,0,17,812,MEDIA
+Museo del Oro,13,2,0,0,0,40,290,BAJA
+Portal Norte,16,1,1,0,0,39,579,BAJA
+Av. Jiménez,6,1,0,0,1,12,1248,ALTA
+Av. Jiménez,22,3,0,0,0,21,443,BAJA
+Alcalá,11,2,0,0,0,18,319,BAJA
+Calle 72,5,2,1,0,1,25,744,MEDIA
+Calle 72,16,2,0,0,0,38,387,BAJA
+Av. Jiménez,15,2,1,0,0,21,503,BAJA
+Alcalá,16,1,0,0,0,30,272,BAJA
+Alcalá,18,3,0,0,0,14,734,MEDIA
+Portal Norte,13,6,0,0,0,27,572,BAJA
+Calle 72,19,3,0,0,0,20,748,MEDIA
+Portal Sur,11,4,0,0,0,38,584,BAJA
+Portal Norte,14,6,1,0,0,34,612,BAJA
+Alcalá,7,4,1,0,0,16,881,MEDIA
+Calle 72,16,1,0,0,0,29,276,BAJA
+Alcalá,9,2,0,0,0,20,221,BAJA
+Calle 72,17,3,0,0,0,23,831,MEDIA
+Av. Jiménez,19,3,0,0,0,24,1006,ALTA
+Museo del Oro,20,1,1,0,0,35,472,BAJA
+Portal Norte,21,0,1,0,0,18,742,MEDIA
+Museo del Oro,7,2,1,0,0,10,906,MEDIA
+Museo del Oro,7,6,0,1,0,15,41,BAJA
+Portal Sur,21,5,0,0,0,35,572,BAJA
+Alcalá,11,5,0,1,0,19,82,BAJA
+Museo del Oro,5,1,1,0,0,11,591,BAJA
+Av. Jiménez,10,2,0,0,0,22,645,BAJA
+Av. Jiménez,20,4,1,0,0,36,489,BAJA
+Av. Jiménez,11,3,0,0,0,37,432,BAJA
+Portal Sur,6,2,0,0,0,39,791,MEDIA
+Calle 72,17,2,1,0,0,31,951,ALTA
+Calle 72,8,0,0,0,0,35,908,MEDIA
+Av. Jiménez,11,6,0,0,0,33,359,BAJA
+Portal Norte,5,6,0,0,0,10,727,MEDIA
+Portal Norte,15,0,1,0,0,22,823,MEDIA
+Portal Norte,13,2,0,0,0,26,509,BAJA
+Portal Sur,20,3,1,0,0,24,773,MEDIA
+Portal Sur,11,5,0,0,0,35,676,MEDIA
+Portal Sur,8,6,0,0,0,40,538,BAJA
+Av. Jiménez,7,2,0,0,0,26,947,MEDIA
+Portal Sur,8,5,0,0,0,12,546,BAJA
+Portal Norte,13,6,1,0,0,21,762,MEDIA
+Alcalá,6,5,1,0,0,16,505,BAJA
+Museo del Oro,12,2,1,0,0,24,390,BAJA
+Alcalá,20,5,1,1,1,17,331,BAJA
+Portal Norte,18,2,0,0,0,12,1096,ALTA
+Av. Jiménez,16,0,0,0,0,15,526,BAJA
+Portal Sur,21,5,1,0,0,25,819,MEDIA
+Av. Jiménez,19,5,0,0,0,14,581,BAJA
+Av. Jiménez,16,2,1,0,0,10,705,MEDIA
+Portal Norte,20,3,0,0,0,18,598,BAJA
+Av. Jiménez,7,2,0,0,0,29,889,MEDIA
+Calle 72,19,0,0,0,0,29,890,MEDIA
+Calle 72,10,6,0,0,0,22,511,BAJA
+Portal Sur,18,0,0,0,0,30,946,MEDIA
+Museo del Oro,21,3,0,0,0,15,529,BAJA
+Museo del Oro,13,0,0,1,1,32,331,BAJA
+Av. Jiménez,6,4,0,0,0,10,1011,ALTA
+Alcalá,11,6,0,0,0,14,363,BAJA
+Portal Norte,12,4,0,0,0,38,532,BAJA
+Av. Jiménez,21,4,0,0,0,24,349,BAJA
+Portal Norte,21,5,1,0,0,27,697,MEDIA
+Av. Jiménez,15,6,0,0,0,22,639,BAJA
+Alcalá,22,6,0,0,0,30,278,BAJA
+Av. Jiménez,12,1,0,0,0,33,449,BAJA
+Alcalá,12,3,0,0,1,34,438,BAJA
+Av. Jiménez,20,5,0,0,0,17,577,BAJA
+Portal Sur,17,2,0,0,0,29,970,ALTA
+Av. Jiménez,14,4,0,0,0,34,541,BAJA
+Calle 72,13,0,0,0,0,22,399,BAJA
+Portal Sur,17,6,0,0,0,21,598,BAJA
+Alcalá,18,4,0,0,0,29,618,BAJA
+Calle 72,13,5,0,0,0,27,585,BAJA
+Portal Sur,5,5,0,0,0,17,643,BAJA
+Calle 72,6,1,0,0,1,39,972,ALTA
+Portal Sur,7,3,1,0,0,27,951,ALTA
+Portal Sur,13,6,0,0,1,27,775,MEDIA
+Av. Jiménez,16,1,0,0,0,16,586,BAJA
+Portal Sur,19,5,0,0,0,30,622,BAJA
+Calle 72,9,2,0,0,0,38,320,BAJA
+Portal Norte,19,4,0,0,0,32,880,MEDIA
+Portal Norte,16,3,1,0,0,25,839,MEDIA
+Av. Jiménez,5,4,1,0,0,29,802,MEDIA
+Alcalá,11,5,0,0,0,17,430,BAJA
+Portal Norte,10,2,0,0,0,11,779,MEDIA
+Av. Jiménez,20,1,1,0,0,29,728,MEDIA
+Portal Sur,21,2,0,0,0,15,847,MEDIA
+Calle 72,19,4,0,1,0,12,604,BAJA
+Portal Sur,14,5,1,0,0,34,606,BAJA
+Calle 72,13,5,0,0,0,23,609,BAJA
+Portal Sur,10,2,0,0,0,36,467,BAJA
+Museo del Oro,18,6,0,0,1,36,472,BAJA
+Museo del Oro,6,0,0,0,1,13,1012,ALTA
+Calle 72,9,0,0,0,0,33,391,BAJA
+Av. Jiménez,7,0,0,1,0,20,461,BAJA
+Alcalá,13,6,0,0,0,31,139,BAJA
+Portal Norte,10,1,0,0,0,11,604,BAJA
+Portal Sur,8,4,0,0,0,24,920,MEDIA
+Av. Jiménez,11,5,1,0,1,29,921,MEDIA
+Portal Sur,20,5,0,1,1,23,573,BAJA
+Museo del Oro,15,6,1,0,0,27,524,BAJA
+Av. Jiménez,19,0,0,1,0,10,717,MEDIA
+Calle 72,21,2,0,0,0,10,523,BAJA
+Museo del Oro,21,3,0,0,0,28,431,BAJA
+Portal Norte,11,4,0,0,0,22,624,BAJA
+Museo del Oro,20,4,0,0,0,27,333,BAJA
+Portal Norte,21,3,1,0,0,21,579,BAJA
+Museo del Oro,22,2,1,0,0,10,622,BAJA
+Museo del Oro,11,0,1,0,0,31,353,BAJA
+Portal Norte,9,3,0,0,0,14,666,MEDIA
+Portal Sur,15,1,0,0,1,34,812,MEDIA
+Av. Jiménez,21,3,0,0,0,10,471,BAJA
+Portal Sur,21,5,0,0,0,38,553,BAJA
+Portal Norte,15,3,1,0,0,17,753,MEDIA
+Calle 72,7,4,1,0,0,37,914,MEDIA
+Av. Jiménez,12,0,0,0,0,10,592,BAJA
+Calle 72,17,4,1,0,1,23,1180,ALTA
+Calle 72,15,3,1,0,0,22,635,BAJA
+Museo del Oro,11,0,0,0,0,15,375,BAJA
+Portal Norte,11,1,1,0,0,24,610,BAJA
+Portal Sur,6,5,0,0,0,16,718,MEDIA
+Portal Norte,10,6,0,0,0,23,657,MEDIA
+Calle 72,17,3,0,0,0,21,922,MEDIA
+Museo del Oro,9,6,0,0,0,16,407,BAJA
+Portal Sur,22,1,0,0,0,34,401,BAJA
+Calle 72,6,2,1,0,0,26,1083,ALTA
+Calle 72,15,6,0,0,1,35,484,BAJA
+Alcalá,13,1,0,0,0,35,277,BAJA
+Alcalá,19,4,0,0,0,18,901,MEDIA
+Museo del Oro,20,1,0,0,0,19,418,BAJA
+Av. Jiménez,14,2,1,0,0,39,549,BAJA
+Av. Jiménez,16,3,0,0,0,19,556,BAJA
+Museo del Oro,17,2,1,0,0,12,984,ALTA
+Museo del Oro,14,6,0,0,0,26,552,BAJA
+Calle 72,8,6,0,0,0,39,299,BAJA
+Portal Norte,12,3,0,0,0,17,541,BAJA
+Portal Norte,9,3,0,0,0,29,520,BAJA
+Alcalá,13,0,1,0,0,20,579,BAJA
+Av. Jiménez,16,1,0,0,0,21,468,BAJA
+Av. Jiménez,8,0,0,0,0,24,930,MEDIA
+Av. Jiménez,9,5,0,0,0,14,642,BAJA
+Portal Sur,19,1,1,0,0,21,1216,ALTA
+Portal Norte,11,2,0,0,0,18,693,MEDIA
+Portal Norte,8,5,1,0,0,35,743,MEDIA
+Calle 72,17,4,1,0,0,17,1043,ALTA
+Av. Jiménez,17,4,0,0,0,36,787,MEDIA
+Portal Sur,19,0,0,0,0,10,1112,ALTA
+Av. Jiménez,18,3,0,0,1,22,1131,ALTA
+Av. Jiménez,22,3,0,0,0,18,734,MEDIA
+Alcalá,15,2,1,0,0,23,379,BAJA
+Portal Norte,10,5,0,0,0,33,561,BAJA
+Museo del Oro,20,6,1,0,0,39,286,BAJA
+Museo del Oro,9,1,0,0,0,32,339,BAJA
+Av. Jiménez,10,2,0,0,0,25,467,BAJA
+Portal Sur,19,2,1,0,0,25,1184,ALTA
+Calle 72,20,5,0,0,0,40,416,BAJA
+Alcalá,11,0,0,0,0,40,313,BAJA
+Calle 72,18,6,0,0,0,33,509,BAJA
+Museo del Oro,21,5,0,0,0,15,425,BAJA
+Museo del Oro,19,3,1,0,0,18,856,MEDIA
+Alcalá,5,4,0,0,1,18,516,BAJA
+Av. Jiménez,16,6,1,0,0,17,682,MEDIA
+Calle 72,8,5,0,0,0,39,379,BAJA
+Portal Norte,20,1,0,0,0,14,657,MEDIA
+Av. Jiménez,6,0,0,1,0,36,481,BAJA
+Portal Sur,22,4,1,0,0,34,791,MEDIA
+Portal Norte,8,1,0,0,0,26,846,MEDIA
+Alcalá,12,0,0,0,0,19,279,BAJA
+Museo del Oro,9,6,0,0,0,18,326,BAJA
+Portal Norte,19,3,0,0,1,30,1173,ALTA
+Calle 72,12,4,1,0,0,30,640,BAJA
+Museo del Oro,18,1,0,0,0,26,741,MEDIA
+Calle 72,6,0,1,1,0,27,666,MEDIA
+Portal Norte,13,0,0,0,0,35,563,BAJA
+Museo del Oro,21,2,0,0,0,33,295,BAJA
+Portal Sur,21,0,0,0,0,33,593,BAJA
+Portal Norte,8,2,1,0,0,18,1152,ALTA
+Calle 72,12,2,0,0,0,11,444,BAJA
+Calle 72,12,3,0,0,0,24,419,BAJA
+Museo del Oro,15,4,0,0,0,20,428,BAJA
+Portal Sur,14,2,0,1,0,20,443,BAJA
+Portal Sur,6,3,0,0,0,26,1107,ALTA
+Alcalá,18,0,1,0,0,38,900,MEDIA
+Portal Sur,9,2,0,0,0,34,595,BAJA
+Calle 72,10,6,0,0,0,30,387,BAJA
+Portal Norte,20,6,0,0,0,32,523,BAJA
+Museo del Oro,17,3,0,0,0,22,779,MEDIA
+Alcalá,12,6,0,0,0,27,245,BAJA
+Alcalá,21,3,1,0,0,23,453,BAJA
+Calle 72,12,0,0,0,0,35,424,BAJA
+Calle 72,15,6,1,0,0,40,386,BAJA
+Portal Norte,9,2,0,0,0,23,669,MEDIA
+Portal Norte,8,4,1,0,0,32,901,MEDIA
+Museo del Oro,13,4,0,0,0,11,436,BAJA
+Museo del Oro,15,2,1,0,0,22,600,BAJA
+Av. Jiménez,19,5,0,0,0,36,473,BAJA
+Calle 72,12,3,0,0,0,31,385,BAJA
+Portal Sur,21,2,0,0,0,26,762,MEDIA
+Av. Jiménez,15,2,0,0,0,16,509,BAJA
+Portal Sur,6,5,0,0,0,35,390,BAJA
+Alcalá,18,1,0,1,0,40,336,BAJA
+Calle 72,15,0,1,0,0,22,446,BAJA
+Calle 72,12,6,1,0,0,35,443,BAJA
+Alcalá,13,2,0,1,0,28,30,BAJA
+Museo del Oro,10,4,1,0,0,22,471,BAJA
+Calle 72,16,5,0,0,0,20,526,BAJA
+Museo del Oro,15,5,0,0,0,25,277,BAJA
+Museo del Oro,13,4,0,0,0,22,457,BAJA
+Alcalá,10,4,0,0,0,29,131,BAJA
+Calle 72,12,5,0,0,0,14,621,BAJA
+Alcalá,13,6,0,0,1,24,508,BAJA
+Alcalá,13,0,0,0,0,32,370,BAJA
+Calle 72,10,5,0,0,0,36,317,BAJA
+Portal Norte,15,1,1,0,0,18,886,MEDIA
+Museo del Oro,9,6,0,0,0,28,275,BAJA
+Portal Norte,14,0,1,1,0,19,282,BAJA
+Calle 72,7,1,0,0,0,34,799,MEDIA
+Av. Jiménez,13,1,0,0,0,20,619,BAJA
+Alcalá,19,4,0,1,0,30,423,BAJA
+Alcalá,19,0,1,0,0,23,915,MEDIA
+Portal Norte,17,0,0,0,0,18,1077,ALTA
+Alcalá,18,3,0,0,0,27,612,BAJA
+Portal Norte,6,6,1,0,0,29,727,MEDIA
+Portal Sur,11,3,1,0,0,31,701,MEDIA
+Alcalá,16,3,0,0,0,34,179,BAJA
+Alcalá,19,4,0,0,0,30,674,MEDIA
+Calle 72,15,3,0,0,0,36,379,BAJA
+Alcalá,20,2,0,0,0,23,415,BAJA
+Portal Norte,9,4,1,0,0,25,649,BAJA
+Museo del Oro,7,0,0,0,0,24,731,MEDIA
+Av. Jiménez,6,1,0,0,0,27,822,MEDIA
+Calle 72,15,4,0,0,0,14,668,MEDIA
+Portal Norte,16,2,0,0,0,36,453,BAJA
+Portal Sur,10,0,0,0,0,26,708,MEDIA
+Av. Jiménez,19,0,0,0,0,27,795,MEDIA
+Museo del Oro,18,6,0,0,0,37,339,BAJA
+Av. Jiménez,11,2,0,0,0,24,517,BAJA
+Av. Jiménez,9,0,0,0,0,24,595,BAJA
+Alcalá,18,5,0,0,0,27,365,BAJA
+Portal Norte,17,3,0,0,0,39,893,MEDIA
+Portal Sur,8,3,0,0,0,17,1015,ALTA
+Portal Sur,9,6,1,0,1,14,1176,ALTA
+Av. Jiménez,13,2,1,0,0,13,631,BAJA
+Calle 72,14,4,1,0,0,32,347,BAJA
+Portal Norte,7,5,0,0,0,10,511,BAJA
+Alcalá,22,4,0,0,0,31,125,BAJA
+Alcalá,11,1,0,0,0,37,266,BAJA
+Calle 72,11,4,1,0,0,31,711,MEDIA
+Portal Norte,6,5,0,0,0,15,467,BAJA
+Portal Norte,20,0,0,0,0,30,477,BAJA
+Portal Norte,9,1,0,0,0,23,589,BAJA
+Portal Sur,22,4,0,0,0,10,824,MEDIA
+Alcalá,13,0,1,0,0,16,401,BAJA
+Portal Norte,20,6,0,0,0,33,569,BAJA
+Portal Sur,8,0,0,0,0,27,978,ALTA
+Calle 72,7,6,1,0,0,25,779,MEDIA
+Av. Jiménez,19,4,0,0,1,34,1098,ALTA
+Museo del Oro,19,3,0,0,0,26,792,MEDIA
+Portal Sur,14,1,0,0,0,40,527,BAJA
+Alcalá,5,2,0,0,1,11,591,BAJA
+Portal Norte,21,5,0,0,1,18,938,MEDIA
+Calle 72,12,5,0,0,0,15,417,BAJA
+Calle 72,21,1,1,0,0,22,428,BAJA
+Calle 72,20,3,0,0,0,38,360,BAJA
+Alcalá,20,6,0,0,0,22,373,BAJA
+Portal Sur,17,1,0,0,0,19,1000,ALTA
+Calle 72,17,4,1,0,1,12,1313,ALTA
+Alcalá,14,1,0,1,0,22,30,BAJA
+Av. Jiménez,5,5,1,0,0,17,743,MEDIA
+Museo del Oro,11,1,0,0,0,15,482,BAJA
+Av. Jiménez,18,2,0,0,0,14,958,ALTA
+Portal Norte,19,3,1,0,0,29,1079,ALTA
+Alcalá,15,2,0,0,0,31,143,BAJA
+Portal Norte,17,1,0,0,1,32,1070,ALTA
+Calle 72,5,4,1,0,0,11,644,BAJA
+Calle 72,13,0,0,0,0,38,413,BAJA
+Calle 72,14,6,0,0,0,25,495,BAJA
+Portal Norte,21,0,1,0,1,27,899,MEDIA
+Portal Norte,10,2,1,0,0,37,678,MEDIA
+Portal Sur,9,6,1,1,0,18,586,BAJA
+Alcalá,11,1,1,0,0,25,403,BAJA
+Portal Norte,8,0,0,0,0,12,1073,ALTA
+Calle 72,15,5,1,0,0,25,553,BAJA
+Museo del Oro,16,0,0,0,0,18,402,BAJA
+Alcalá,19,6,0,0,0,15,364,BAJA
+Portal Sur,22,3,0,0,1,29,972,ALTA
+Portal Sur,6,6,1,0,1,14,1119,ALTA
+Museo del Oro,9,1,0,0,0,40,346,BAJA
+Av. Jiménez,10,0,1,1,1,17,572,BAJA
+Calle 72,9,6,0,0,0,12,456,BAJA
+Alcalá,19,5,0,0,0,23,333,BAJA
+Portal Sur,7,6,0,0,0,22,727,MEDIA
+Portal Norte,5,2,0,0,0,30,678,MEDIA
+Portal Sur,20,2,0,0,0,30,384,BAJA
+Portal Norte,22,4,0,0,0,28,748,MEDIA
+Portal Sur,9,3,0,0,0,27,631,BAJA
+Portal Sur,10,1,0,0,0,34,629,BAJA
+Portal Norte,14,2,0,0,1,30,651,MEDIA
+Av. Jiménez,14,4,0,1,0,14,237,BAJA
+Portal Norte,22,0,0,0,0,24,642,BAJA
+Museo del Oro,12,2,0,0,0,31,240,BAJA
+Alcalá,5,2,0,0,0,18,101,BAJA
+Portal Norte,12,0,0,0,0,36,531,BAJA
+Av. Jiménez,15,0,0,0,0,24,492,BAJA
+Alcalá,14,3,0,0,0,19,441,BAJA
+Calle 72,14,0,0,0,0,21,461,BAJA
+Portal Norte,21,2,0,0,0,29,539,BAJA
+Av. Jiménez,19,3,0,0,0,31,910,MEDIA
+Museo del Oro,9,6,0,0,0,17,501,BAJA
+Museo del Oro,11,0,0,0,0,15,373,BAJA
+Calle 72,17,3,1,0,0,12,1124,ALTA
+Alcalá,12,0,0,0,0,25,248,BAJA
+Museo del Oro,12,3,0,0,0,38,293,BAJA
+Calle 72,8,3,1,0,0,39,940,MEDIA
+Alcalá,9,5,0,0,1,27,596,BAJA
+Alcalá,18,3,0,0,0,26,709,MEDIA
+Av. Jiménez,20,6,1,0,0,25,524,BAJA
+Portal Norte,19,0,0,0,0,17,868,MEDIA
+Museo del Oro,10,0,1,0,1,22,743,MEDIA
+Museo del Oro,7,0,0,0,0,39,764,MEDIA
+Portal Norte,7,2,0,0,0,29,982,ALTA
+Museo del Oro,12,1,0,0,1,17,687,MEDIA
+Alcalá,14,0,0,1,0,12,67,BAJA
+Portal Norte,21,1,1,0,0,33,667,MEDIA
+Portal Sur,21,6,0,0,0,37,458,BAJA
+Portal Norte,5,5,0,0,1,13,954,ALTA
+Portal Sur,17,0,0,0,0,21,1102,ALTA
+Av. Jiménez,10,6,1,0,0,36,516,BAJA
+Portal Norte,8,1,0,0,0,17,1053,ALTA
+Alcalá,14,2,1,0,0,15,333,BAJA
+Portal Norte,5,2,0,0,0,22,602,BAJA
+Museo del Oro,11,2,1,0,0,22,497,BAJA
+Calle 72,14,5,0,0,0,24,557,BAJA
+Alcalá,9,4,0,0,0,39,190,BAJA
+Portal Sur,15,4,0,0,0,40,589,BAJA
+Portal Sur,13,4,0,0,0,27,567,BAJA
+Av. Jiménez,19,5,0,0,0,12,385,BAJA
+Av. Jiménez,8,1,0,0,0,18,914,MEDIA
+Museo del Oro,6,2,1,0,1,15,1216,ALTA
+Portal Sur,14,0,1,0,0,10,832,MEDIA
+Alcalá,9,4,1,0,0,21,447,BAJA
+Portal Norte,17,3,1,0,1,10,1389,ALTA
+Museo del Oro,6,4,1,0,0,27,852,MEDIA
+Portal Norte,15,3,0,0,0,18,522,BAJA
+Calle 72,22,1,0,0,1,32,498,BAJA
+Portal Sur,6,0,1,0,0,26,1115,ALTA
+Calle 72,10,6,1,0,1,39,676,MEDIA
+Portal Sur,20,2,1,0,0,25,816,MEDIA
+Av. Jiménez,14,0,1,0,0,14,501,BAJA
+Calle 72,8,2,0,0,0,38,795,MEDIA
+Av. Jiménez,8,6,1,0,0,19,816,MEDIA
+Museo del Oro,18,1,1,0,0,33,827,MEDIA
+Portal Sur,20,6,0,0,0,34,556,BAJA
+Museo del Oro,11,3,1,0,0,38,446,BAJA
+Alcalá,13,6,0,0,0,29,306,BAJA
+Alcalá,19,4,1,0,0,25,777,MEDIA
+Portal Sur,8,0,0,0,0,21,953,ALTA
+Museo del Oro,8,3,1,0,0,23,954,ALTA
+Calle 72,18,2,0,0,0,34,643,BAJA
+Av. Jiménez,8,1,0,0,0,27,945,MEDIA
+Portal Norte,18,3,0,0,0,11,1023,ALTA
+Av. Jiménez,13,0,0,0,0,21,514,BAJA
+Alcalá,22,4,0,0,0,38,170,BAJA
+Av. Jiménez,5,5,1,0,0,16,778,MEDIA
+Portal Norte,22,0,0,0,0,24,596,BAJA
+Museo del Oro,9,3,1,0,0,35,404,BAJA
+Alcalá,5,4,0,0,1,19,548,BAJA
+Alcalá,18,0,0,0,0,31,642,BAJA
+Calle 72,14,2,1,0,0,34,708,MEDIA
+Av. Jiménez,20,1,1,0,0,20,535,BAJA
+Museo del Oro,6,0,0,0,0,37,785,MEDIA
+Calle 72,6,5,1,0,0,23,627,BAJA
+Calle 72,15,3,1,0,0,19,729,MEDIA
+Calle 72,20,5,0,0,0,16,554,BAJA
+Alcalá,12,4,1,0,0,18,452,BAJA
+Portal Sur,19,6,1,0,0,27,800,MEDIA
+Alcalá,21,6,0,1,0,16,62,BAJA
+Portal Sur,20,4,0,0,0,21,694,MEDIA
+Alcalá,14,2,0,0,0,32,362,BAJA
+Portal Norte,17,2,0,0,0,37,905,MEDIA
+Alcalá,14,5,1,0,0,31,340,BAJA
+Portal Norte,17,2,1,0,0,26,1032,ALTA
+Av. Jiménez,15,3,0,0,0,31,490,BAJA
+Museo del Oro,14,1,0,0,0,22,318,BAJA
+Av. Jiménez,12,6,0,0,0,18,504,BAJA
+Portal Norte,16,4,0,0,0,33,445,BAJA
+Calle 72,18,2,1,0,0,14,1077,ALTA
+Portal Sur,21,4,0,0,0,38,472,BAJA
+Calle 72,16,2,0,0,0,23,359,BAJA
+Calle 72,6,1,0,0,1,35,951,ALTA
+Alcalá,15,6,0,0,0,13,316,BAJA
+Portal Norte,10,6,1,0,0,25,652,MEDIA
+Alcalá,5,5,1,0,0,23,442,BAJA
+Alcalá,6,2,0,0,0,21,701,MEDIA
+Museo del Oro,15,1,0,0,0,25,400,BAJA
+Portal Norte,22,0,0,0,1,30,826,MEDIA
+Portal Norte,14,5,0,0,0,39,545,BAJA
+Calle 72,13,2,0,0,0,35,237,BAJA
+Museo del Oro,6,6,0,0,0,17,328,BAJA
+Portal Norte,17,6,1,0,0,40,644,BAJA
+Av. Jiménez,5,0,0,1,0,25,207,BAJA
+Portal Norte,20,6,0,0,0,24,654,MEDIA
+Museo del Oro,19,0,0,0,0,10,736,MEDIA
+Portal Norte,22,3,1,1,0,30,322,BAJA
+Portal Sur,10,3,0,1,0,37,214,BAJA
+Portal Norte,7,6,0,0,1,19,869,MEDIA
+Calle 72,10,4,1,0,0,36,507,BAJA
+Calle 72,19,6,0,0,0,12,566,BAJA
+Portal Sur,8,4,1,1,0,39,737,MEDIA
+Portal Norte,20,5,0,0,0,17,728,MEDIA
+Av. Jiménez,7,5,1,0,0,24,751,MEDIA
+Museo del Oro,5,6,1,0,0,10,491,BAJA
+Museo del Oro,8,2,0,1,0,37,402,BAJA
+Portal Sur,18,2,0,0,0,25,1074,ALTA
+Portal Sur,15,6,0,0,1,40,817,MEDIA
+Av. Jiménez,11,5,1,0,0,21,601,BAJA
+Portal Sur,16,6,1,0,1,11,1084,ALTA
+Calle 72,16,4,1,0,0,31,407,BAJA
+Alcalá,14,6,1,0,0,15,468,BAJA
+Museo del Oro,14,5,0,0,0,29,229,BAJA
+Portal Sur,6,5,0,0,0,11,735,MEDIA
+Alcalá,9,1,0,0,0,15,261,BAJA
+Portal Sur,14,3,1,0,0,29,719,MEDIA
+Alcalá,7,5,1,0,0,30,406,BAJA
+Museo del Oro,13,5,0,0,0,14,442,BAJA
+Portal Norte,7,6,0,1,0,15,279,BAJA
+Av. Jiménez,19,2,0,0,0,36,807,MEDIA
+Calle 72,6,2,1,1,0,10,854,MEDIA
+Alcalá,6,6,1,0,0,17,424,BAJA
+Calle 72,16,6,0,0,0,40,362,BAJA
+Calle 72,8,1,0,0,0,26,799,MEDIA
+Calle 72,11,2,0,0,0,10,622,BAJA
+Museo del Oro,10,6,0,0,1,37,554,BAJA
+Museo del Oro,8,1,1,0,0,20,859,MEDIA
+Alcalá,18,5,0,0,0,32,249,BAJA
+Av. Jiménez,17,0,0,0,1,29,1097,ALTA
+Calle 72,9,1,0,0,0,21,585,BAJA
+Portal Norte,17,5,0,0,0,21,590,BAJA
+Portal Norte,17,4,1,0,0,27,967,ALTA
+Av. Jiménez,14,3,0,0,0,21,554,BAJA
+Alcalá,15,5,0,0,0,15,493,BAJA
+Museo del Oro,21,2,0,0,0,32,424,BAJA
+Alcalá,13,3,1,0,0,30,292,BAJA
+Portal Norte,11,4,1,1,1,28,601,BAJA
+Portal Norte,14,5,0,0,0,32,526,BAJA
+Alcalá,20,2,0,0,0,26,283,BAJA
+Portal Norte,17,4,0,0,1,38,1172,ALTA
+Portal Norte,6,3,0,0,0,37,870,MEDIA
+Av. Jiménez,13,3,0,0,1,40,577,BAJA
+Alcalá,18,6,1,0,0,13,558,BAJA
+Portal Sur,9,2,1,0,0,13,712,MEDIA
+Portal Norte,22,4,0,0,0,24,512,BAJA
+Alcalá,19,6,0,0,0,31,164,BAJA
+Alcalá,20,5,0,0,0,17,387,BAJA
+Portal Sur,6,6,0,0,0,13,691,MEDIA
+Alcalá,15,4,0,0,0,11,445,BAJA
+Calle 72,14,1,0,0,0,27,375,BAJA
+Alcalá,16,6,1,0,0,40,220,BAJA
+Calle 72,20,4,0,0,0,24,420,BAJA
+Portal Sur,11,1,1,0,0,32,673,MEDIA
+Museo del Oro,14,2,0,0,0,11,471,BAJA
+Portal Sur,17,1,0,0,0,16,929,MEDIA
+Museo del Oro,18,5,0,0,0,31,372,BAJA
+Museo del Oro,18,0,1,0,0,22,836,MEDIA
+Museo del Oro,11,5,0,0,0,10,408,BAJA
+Portal Sur,22,3,0,0,0,17,752,MEDIA
+Portal Sur,5,0,1,0,0,34,501,BAJA
+Portal Norte,13,4,1,0,0,31,680,MEDIA
+Portal Sur,15,5,0,0,0,35,575,BAJA
+Museo del Oro,6,5,0,0,0,20,334,BAJA
+Calle 72,13,3,0,0,0,38,336,BAJA
+Museo del Oro,15,2,1,0,0,38,510,BAJA
+Alcalá,15,1,0,0,0,21,471,BAJA
+Alcalá,7,0,0,0,0,16,829,MEDIA
+Alcalá,9,2,0,0,0,39,357,BAJA
+Av. Jiménez,9,4,0,0,1,20,715,MEDIA
+Portal Sur,16,0,1,0,0,25,604,BAJA
+Av. Jiménez,10,6,1,0,0,38,528,BAJA
+Portal Sur,15,4,0,0,0,18,716,MEDIA
+Museo del Oro,18,2,1,0,0,37,670,MEDIA
+Calle 72,19,6,0,0,0,14,442,BAJA
+Calle 72,8,1,0,1,0,19,521,BAJA
+Portal Norte,21,6,0,0,0,22,617,BAJA
+Portal Norte,7,1,1,0,0,24,1114,ALTA
+Av. Jiménez,5,2,0,0,0,17,476,BAJA
+Av. Jiménez,5,2,0,0,0,37,432,BAJA
+Portal Norte,8,6,1,0,0,30,568,BAJA
+Av. Jiménez,20,1,0,1,0,30,126,BAJA
+Museo del Oro,8,6,1,1,0,32,47,BAJA
+Calle 72,17,2,0,0,0,29,814,MEDIA
+Av. Jiménez,12,1,0,0,0,29,402,BAJA
+Av. Jiménez,5,4,0,0,0,30,515,BAJA
+Museo del Oro,12,4,0,0,1,32,576,BAJA
+Av. Jiménez,5,2,0,0,0,38,394,BAJA
+Portal Sur,13,0,0,0,0,16,805,MEDIA
+Calle 72,15,2,1,0,0,26,595,BAJA
+Av. Jiménez,14,3,1,0,0,15,641,BAJA
+Av. Jiménez,10,0,1,0,0,15,623,BAJA
+Calle 72,18,0,0,0,1,39,922,MEDIA
+Portal Sur,15,6,0,1,0,24,311,BAJA
+Calle 72,9,0,0,0,0,31,439,BAJA
+Calle 72,12,2,0,0,1,32,505,BAJA
+Portal Sur,6,5,1,0,0,10,711,MEDIA
+Alcalá,21,2,0,0,0,25,249,BAJA
+Portal Sur,18,3,0,0,0,15,982,ALTA
+Alcalá,10,0,0,0,0,19,329,BAJA
+Alcalá,17,5,0,0,1,15,615,BAJA
+Av. Jiménez,17,4,0,0,0,30,850,MEDIA
+Portal Sur,15,5,0,0,0,14,720,MEDIA
+Calle 72,5,6,0,0,0,23,415,BAJA
+Av. Jiménez,20,2,0,1,0,19,222,BAJA
+Museo del Oro,22,0,0,0,0,39,206,BAJA
+Alcalá,22,2,1,0,0,34,379,BAJA
+Alcalá,22,1,0,0,0,20,326,BAJA
+Av. Jiménez,21,3,0,0,0,19,430,BAJA
+Museo del Oro,18,1,0,0,0,32,716,MEDIA
+Calle 72,6,6,0,0,0,29,423,BAJA
+Portal Sur,13,4,1,0,0,27,740,MEDIA
+Museo del Oro,9,1,0,0,0,12,473,BAJA
+Museo del Oro,8,6,1,0,0,12,510,BAJA
+Portal Sur,19,5,1,0,0,29,767,MEDIA
+Museo del Oro,19,3,0,0,0,24,818,MEDIA
+Portal Norte,14,1,0,0,1,35,702,MEDIA
+Calle 72,18,2,0,0,0,10,849,MEDIA
+Calle 72,7,4,0,0,0,15,858,MEDIA
+Portal Sur,8,5,0,0,0,34,438,BAJA
+Portal Norte,20,1,0,0,1,40,747,MEDIA
+Calle 72,13,5,0,0,0,32,503,BAJA
+Museo del Oro,14,1,0,0,0,10,574,BAJA
+Portal Sur,13,1,0,0,0,11,607,BAJA
+Museo del Oro,8,3,0,0,1,37,1011,ALTA
+Alcalá,19,1,1,0,0,25,817,MEDIA
+Alcalá,18,2,0,0,0,25,498,BAJA
+Portal Norte,17,2,0,0,0,39,859,MEDIA
+Alcalá,11,1,1,1,0,17,123,BAJA
+Museo del Oro,16,5,0,0,0,18,509,BAJA
+Museo del Oro,22,2,0,0,1,31,514,BAJA
+Portal Norte,16,4,0,0,0,38,537,BAJA
+Museo del Oro,13,5,0,0,0,21,385,BAJA
+Portal Sur,9,4,1,0,0,14,680,MEDIA
+Museo del Oro,14,1,0,0,0,11,410,BAJA
+Portal Norte,11,5,0,0,0,10,783,MEDIA
+Museo del Oro,16,1,0,0,0,21,380,BAJA
+Alcalá,5,1,0,1,0,26,56,BAJA
+Portal Sur,8,6,0,0,0,25,678,MEDIA
+Portal Norte,19,2,1,0,0,17,1102,ALTA
+Alcalá,11,4,0,0,0,30,157,BAJA
+Alcalá,12,0,0,0,0,37,126,BAJA
+Calle 72,14,4,0,0,0,17,614,BAJA
+Portal Sur,12,6,1,0,0,30,712,MEDIA
+Av. Jiménez,18,4,0,0,0,26,745,MEDIA
+Museo del Oro,9,4,0,0,0,31,401,BAJA
+Av. Jiménez,18,5,0,0,0,10,437,BAJA
+Portal Sur,8,2,1,0,0,30,1034,ALTA
+Alcalá,11,2,0,0,1,33,499,BAJA
+Portal Sur,15,0,1,1,0,31,596,BAJA
+Alcalá,20,4,0,0,0,36,289,BAJA
+Alcalá,9,5,1,0,0,33,323,BAJA
+Portal Norte,15,5,1,0,0,40,602,BAJA
+Calle 72,6,5,0,0,0,30,494,BAJA
+Portal Sur,6,0,0,0,0,23,1136,ALTA
+Museo del Oro,18,4,0,0,0,35,690,MEDIA
+Portal Norte,17,5,0,0,0,31,517,BAJA
+Portal Norte,11,1,0,0,0,27,492,BAJA
+Museo del Oro,16,3,0,0,0,27,411,BAJA
+Museo del Oro,11,6,1,0,0,20,602,BAJA
+Calle 72,9,2,0,0,0,29,271,BAJA
+Calle 72,12,5,0,0,0,24,424,BAJA
+Portal Norte,10,3,0,0,0,14,539,BAJA
+Museo del Oro,19,4,0,0,0,23,794,MEDIA
+Portal Norte,12,4,0,0,0,39,387,BAJA
+Museo del Oro,10,4,0,0,0,20,294,BAJA
+Av. Jiménez,14,5,0,0,0,30,550,BAJA
+Av. Jiménez,18,6,1,0,0,22,615,BAJA
+Portal Sur,9,2,0,0,0,18,647,BAJA
+Museo del Oro,21,6,1,0,0,21,549,BAJA
+Portal Sur,13,4,0,0,0,39,604,BAJA
+Portal Sur,16,4,0,0,0,13,649,BAJA
+Alcalá,22,2,0,0,0,30,228,BAJA
+Portal Sur,12,2,0,0,0,35,519,BAJA
+Museo del Oro,8,4,1,1,0,15,737,MEDIA
+Av. Jiménez,18,2,0,0,0,33,837,MEDIA
+Calle 72,5,2,0,0,0,29,403,BAJA
+Museo del Oro,13,5,1,0,0,20,551,BAJA
+Portal Norte,22,2,0,0,0,15,777,MEDIA
+Alcalá,12,4,1,0,0,39,332,BAJA
+Alcalá,17,0,0,0,0,16,722,MEDIA
+Portal Norte,14,0,1,0,0,39,761,MEDIA
+Portal Sur,8,5,0,0,0,30,686,MEDIA
+Portal Norte,10,0,0,0,0,36,599,BAJA
+Portal Sur,14,5,0,0,0,19,606,BAJA
+Portal Norte,6,6,0,0,0,10,612,BAJA
+Av. Jiménez,12,3,1,0,0,30,433,BAJA
+Museo del Oro,12,6,0,0,0,21,471,BAJA
+Portal Sur,20,2,0,0,0,27,604,BAJA
+Av. Jiménez,7,6,0,0,0,24,352,BAJA
+Alcalá,20,1,1,0,0,19,542,BAJA
+Portal Sur,12,2,0,0,0,32,541,BAJA
+Calle 72,16,2,1,0,0,25,553,BAJA
+Portal Sur,15,5,0,0,0,29,465,BAJA
+Portal Sur,10,0,1,0,0,30,739,MEDIA
+Av. Jiménez,21,5,0,0,0,31,494,BAJA
+Portal Sur,9,0,0,0,0,20,636,BAJA
+Alcalá,5,2,0,0,0,33,209,BAJA
+Portal Sur,18,4,0,0,0,16,1274,ALTA
+Portal Sur,16,1,1,0,0,39,550,BAJA
+Museo del Oro,21,3,1,1,0,35,72,BAJA
+Calle 72,13,6,0,0,0,27,495,BAJA
+Portal Sur,5,5,1,0,0,15,709,MEDIA
+Av. Jiménez,5,0,0,0,0,38,325,BAJA
+Museo del Oro,12,4,0,1,0,27,149,BAJA
+Calle 72,9,4,0,0,0,35,438,BAJA
+Calle 72,21,0,0,0,1,10,829,MEDIA
+Portal Norte,7,4,0,0,0,20,1015,ALTA
+Alcalá,20,3,0,0,0,19,271,BAJA
+Portal Norte,8,4,0,0,0,35,890,MEDIA
+Portal Norte,7,2,1,0,0,24,1090,ALTA
+Alcalá,9,1,1,0,0,13,550,BAJA
+Museo del Oro,7,5,0,0,0,29,380,BAJA
+Av. Jiménez,12,5,0,0,0,14,482,BAJA
+Portal Sur,10,1,1,0,0,23,805,MEDIA
+Av. Jiménez,14,1,0,0,0,40,266,BAJA
+Portal Norte,14,4,1,0,0,23,676,MEDIA
+Portal Sur,5,5,0,0,0,23,531,BAJA
+Calle 72,7,1,0,0,0,11,865,MEDIA
+Museo del Oro,7,1,0,0,0,24,930,MEDIA
+Alcalá,8,5,1,0,0,39,208,BAJA
+Alcalá,6,4,1,0,0,39,660,MEDIA
+Av. Jiménez,10,6,0,0,0,39,447,BAJA
+Portal Sur,14,5,1,0,0,21,716,MEDIA
+Museo del Oro,10,6,1,0,0,12,580,BAJA
+Av. Jiménez,10,1,0,0,0,17,652,MEDIA
+Portal Norte,13,1,1,0,0,16,796,MEDIA
+Av. Jiménez,14,1,0,0,0,12,531,BAJA
+Museo del Oro,10,0,0,0,0,31,323,BAJA
+Alcalá,8,5,0,0,1,26,576,BAJA
+Portal Norte,12,4,1,0,0,32,699,MEDIA
+Portal Sur,5,0,1,0,0,16,786,MEDIA
+Alcalá,13,1,0,0,0,31,283,BAJA
+Alcalá,21,1,0,1,0,12,97,BAJA
+Av. Jiménez,12,2,0,0,0,32,441,BAJA
+Portal Norte,6,3,1,1,0,35,682,MEDIA
+Calle 72,17,2,1,0,0,17,1077,ALTA
+Alcalá,7,6,0,0,0,20,343,BAJA
+Alcalá,8,1,0,0,0,23,536,BAJA
+Museo del Oro,7,3,0,0,0,27,692,MEDIA
+Portal Norte,20,3,0,1,1,26,476,BAJA
+Portal Norte,22,2,0,0,0,13,626,BAJA
+Av. Jiménez,15,5,0,1,0,21,310,BAJA
+Museo del Oro,16,6,0,0,0,25,626,BAJA
+Portal Norte,16,0,0,0,0,29,349,BAJA
+Portal Sur,15,3,1,1,0,29,430,BAJA
+Museo del Oro,14,0,0,0,0,30,346,BAJA
+Portal Norte,22,3,0,1,0,23,268,BAJA
+Portal Norte,18,4,1,0,0,25,1133,ALTA
+Av. Jiménez,6,2,1,0,0,20,1052,ALTA
+Portal Sur,12,2,0,0,0,18,623,BAJA
+Portal Sur,22,2,0,0,0,19,648,BAJA
+Av. Jiménez,12,2,0,0,1,23,797,MEDIA
+Calle 72,8,2,0,0,1,13,1209,ALTA
+Alcalá,20,2,0,0,0,16,359,BAJA
+Av. Jiménez,16,4,0,0,0,13,515,BAJA
+Calle 72,15,0,0,0,0,22,694,MEDIA
+Av. Jiménez,12,0,0,0,0,25,519,BAJA
+Portal Norte,7,3,1,0,0,15,1211,ALTA
+Calle 72,11,4,0,0,0,14,475,BAJA
+Museo del Oro,12,1,0,1,0,26,79,BAJA
+Alcalá,21,1,0,0,0,16,359,BAJA
+Portal Sur,10,4,1,0,0,36,511,BAJA
+Portal Sur,7,2,0,0,0,15,1013,ALTA
+Museo del Oro,12,5,0,1,0,24,30,BAJA
+Portal Norte,22,1,0,0,0,34,468,BAJA
+Av. Jiménez,13,0,0,0,0,13,476,BAJA
+Alcalá,11,3,1,0,0,23,426,BAJA
+Portal Norte,17,2,1,0,0,24,1208,ALTA
+Alcalá,16,5,0,0,0,27,288,BAJA
+Portal Sur,10,3,0,0,0,37,443,BAJA
+Calle 72,22,2,0,0,0,28,350,BAJA
+Portal Sur,15,1,0,0,0,21,604,BAJA
+Alcalá,6,1,0,0,0,22,595,BAJA
+Portal Norte,12,5,1,0,0,29,690,MEDIA
+Portal Norte,21,1,1,0,1,19,1084,ALTA
+Museo del Oro,12,3,0,0,0,31,288,BAJA
+Alcalá,15,5,0,0,0,21,320,BAJA
+Portal Norte,16,6,0,0,0,11,620,BAJA
+Museo del Oro,17,1,0,0,0,26,714,MEDIA
+Portal Norte,20,0,0,0,0,17,633,BAJA
+Museo del Oro,7,5,1,1,0,21,161,BAJA
+Museo del Oro,14,4,1,0,0,20,455,BAJA
+Portal Norte,14,2,0,0,0,14,506,BAJA
+Portal Sur,7,4,0,0,0,18,1057,ALTA
+Alcalá,17,1,0,0,0,38,697,MEDIA
+Alcalá,7,4,1,0,0,19,903,MEDIA
+Portal Norte,13,5,0,0,0,32,647,BAJA
+Calle 72,10,2,0,0,0,22,414,BAJA
+Calle 72,7,3,0,0,0,12,996,ALTA
+Av. Jiménez,19,2,0,0,0,35,742,MEDIA
+Portal Norte,9,0,0,0,1,38,799,MEDIA
+Alcalá,9,0,0,0,0,17,470,BAJA
+Portal Sur,20,6,0,0,0,15,710,MEDIA
+Portal Sur,20,3,1,0,0,38,785,MEDIA
+Calle 72,5,1,0,0,0,13,474,BAJA
+Portal Norte,10,0,0,0,0,37,487,BAJA
+Alcalá,17,2,1,0,0,15,797,MEDIA
+Calle 72,19,6,0,0,0,36,387,BAJA
+Museo del Oro,22,2,0,0,0,38,314,BAJA
+Alcalá,14,6,0,0,0,17,340,BAJA
+Portal Norte,5,3,0,0,0,16,586,BAJA
+Portal Norte,20,5,1,0,0,13,723,MEDIA
+Portal Norte,7,5,0,0,0,34,544,BAJA
+Portal Norte,7,0,0,0,0,20,987,ALTA
+Portal Norte,17,0,0,0,0,29,854,MEDIA
+Portal Sur,15,6,0,0,0,29,434,BAJA
+Museo del Oro,6,6,0,0,0,26,316,BAJA
+Alcalá,8,0,1,0,0,17,747,MEDIA
+Portal Sur,15,4,1,0,0,21,687,MEDIA
+Alcalá,9,6,1,0,0,25,376,BAJA
+Calle 72,17,6,0,0,0,12,516,BAJA
+Calle 72,12,2,0,0,0,22,415,BAJA
+Alcalá,15,5,1,0,0,32,543,BAJA
+Calle 72,13,4,0,0,0,23,361,BAJA
+Portal Norte,11,6,0,0,0,22,685,MEDIA
+Portal Sur,11,1,1,0,0,36,651,MEDIA
+Portal Sur,17,4,0,0,0,26,951,ALTA
+Alcalá,14,0,0,0,0,32,295,BAJA
+Alcalá,15,2,1,0,0,11,458,BAJA
+Portal Norte,15,0,0,0,0,38,427,BAJA
+Portal Sur,8,3,0,1,0,34,799,MEDIA
+Alcalá,21,5,0,0,0,35,54,BAJA
+Portal Sur,15,4,1,0,0,31,674,MEDIA
+Portal Sur,17,2,0,0,1,26,1269,ALTA
+Alcalá,20,2,1,0,0,26,517,BAJA
+Av. Jiménez,21,2,0,0,0,29,434,BAJA
+Portal Norte,17,5,0,0,0,25,783,MEDIA
+Av. Jiménez,19,1,0,0,0,32,909,MEDIA
+Calle 72,13,0,0,0,0,20,291,BAJA
+Portal Norte,18,3,0,0,1,33,1056,ALTA
+Portal Norte,10,5,0,0,0,20,619,BAJA
+Portal Sur,17,3,0,1,0,24,624,BAJA
+Museo del Oro,6,1,0,0,0,12,892,MEDIA
+Museo del Oro,21,0,1,0,0,37,382,BAJA
+Portal Sur,9,6,1,0,0,31,598,BAJA
+Museo del Oro,16,5,0,0,1,17,591,BAJA
+Museo del Oro,5,1,0,0,0,11,522,BAJA
+Portal Norte,7,0,0,0,0,36,742,MEDIA
+Alcalá,22,0,0,0,0,10,464,BAJA
+Av. Jiménez,20,2,0,0,0,24,582,BAJA
+Portal Norte,9,5,0,0,0,10,633,BAJA
+Portal Sur,7,1,0,0,0,31,862,MEDIA
+Portal Sur,19,5,0,0,0,16,708,MEDIA
+Portal Norte,22,0,1,0,1,23,913,MEDIA
+Calle 72,8,5,0,0,0,27,317,BAJA
+Portal Norte,16,1,0,0,0,21,747,MEDIA
+Calle 72,10,6,0,1,0,31,43,BAJA
+Portal Norte,18,3,0,0,0,25,852,MEDIA
+Portal Sur,12,1,0,0,0,23,645,BAJA
+Museo del Oro,7,1,0,0,0,19,801,MEDIA
+Alcalá,10,5,1,0,0,22,547,BAJA
+Portal Sur,14,2,0,0,0,19,616,BAJA
+Museo del Oro,19,2,0,0,0,27,728,MEDIA
+Museo del Oro,5,5,0,0,0,33,349,BAJA
+Portal Norte,22,3,1,0,0,28,688,MEDIA
+Portal Norte,16,4,1,0,0,10,798,MEDIA
+Museo del Oro,20,3,1,0,0,36,446,BAJA
+Portal Norte,21,0,0,0,0,34,529,BAJA
+Portal Norte,7,0,0,0,0,35,877,MEDIA
+Calle 72,6,0,0,0,0,11,1001,ALTA
+Alcalá,18,4,1,0,0,35,721,MEDIA
+Av. Jiménez,8,3,1,0,0,24,1080,ALTA
+Portal Sur,7,5,1,0,0,36,775,MEDIA
+Av. Jiménez,13,6,0,0,0,34,382,BAJA
+Calle 72,21,1,1,0,0,37,690,MEDIA
+Av. Jiménez,19,6,1,0,0,13,625,BAJA
+Portal Norte,14,6,0,0,0,27,502,BAJA
+Portal Sur,8,4,0,0,0,32,1011,ALTA
+Calle 72,11,3,0,0,0,28,467,BAJA
+Av. Jiménez,17,1,0,0,1,35,1086,ALTA
+Alcalá,7,1,0,0,0,32,713,MEDIA
+Museo del Oro,14,0,0,0,0,11,474,BAJA
+Av. Jiménez,5,4,1,0,0,16,829,MEDIA
+Museo del Oro,10,3,1,0,0,29,462,BAJA
+Portal Sur,9,1,1,0,0,21,686,MEDIA
+Calle 72,17,0,0,0,0,21,830,MEDIA
+Museo del Oro,21,0,0,0,0,38,330,BAJA
+Alcalá,7,4,0,0,0,12,807,MEDIA
+Museo del Oro,19,4,1,0,0,26,901,MEDIA
+Av. Jiménez,16,4,0,1,0,19,158,BAJA
+Portal Norte,22,0,1,0,0,11,863,MEDIA
+Calle 72,21,0,0,0,0,21,629,BAJA
+Alcalá,6,0,0,0,0,22,710,MEDIA
+Museo del Oro,18,5,1,1,1,24,591,BAJA
+Calle 72,15,5,0,0,1,14,835,MEDIA
+Av. Jiménez,7,2,1,0,0,32,1145,ALTA
+Museo del Oro,9,0,0,1,0,21,132,BAJA
+Museo del Oro,21,2,0,1,0,27,69,BAJA
+Portal Sur,14,5,0,0,0,26,671,MEDIA
+Calle 72,11,1,1,0,0,27,523,BAJA
+Museo del Oro,10,5,0,0,0,25,403,BAJA
+Av. Jiménez,20,3,1,0,0,19,752,MEDIA
+Alcalá,10,0,1,0,0,25,476,BAJA
+Portal Norte,7,6,0,0,0,26,562,BAJA
+Portal Norte,15,3,1,0,0,10,796,MEDIA
+Av. Jiménez,22,4,1,0,0,32,629,BAJA
+Museo del Oro,8,0,0,0,0,23,840,MEDIA
+Portal Sur,9,2,1,0,1,19,1076,ALTA
+Av. Jiménez,13,4,0,0,0,10,607,BAJA
+Alcalá,8,4,0,0,0,19,660,MEDIA
+Av. Jiménez,16,0,0,0,0,22,455,BAJA
+Portal Norte,9,4,1,0,0,35,667,MEDIA
+Portal Norte,7,6,0,0,0,30,607,BAJA
+Alcalá,9,5,0,1,0,22,64,BAJA
+Portal Norte,21,1,0,0,0,13,588,BAJA
+Alcalá,21,6,0,0,0,18,320,BAJA
+Calle 72,14,4,1,0,0,38,398,BAJA
+Portal Norte,12,0,1,0,0,13,651,MEDIA
+Calle 72,19,0,0,0,1,29,1083,ALTA
+Museo del Oro,8,6,0,0,0,26,473,BAJA
+Av. Jiménez,16,1,1,0,0,16,672,MEDIA
+Portal Sur,17,0,0,0,0,37,1091,ALTA
+Museo del Oro,17,3,0,0,1,22,1025,ALTA
+Av. Jiménez,8,3,1,0,0,30,982,ALTA
+Museo del Oro,17,4,1,0,0,13,883,MEDIA
+Alcalá,16,4,0,0,0,39,178,BAJA
+Av. Jiménez,20,6,0,0,0,10,485,BAJA
+Portal Norte,8,5,1,0,0,19,602,BAJA
+Av. Jiménez,16,0,0,0,0,38,318,BAJA
+Alcalá,19,0,0,0,0,29,673,MEDIA
+Calle 72,10,0,1,0,0,30,481,BAJA
+Alcalá,18,2,0,0,0,19,686,MEDIA
+Museo del Oro,6,2,0,0,0,34,749,MEDIA
+Museo del Oro,17,6,0,0,0,38,168,BAJA
+Calle 72,15,2,0,0,0,29,432,BAJA
+Alcalá,8,0,0,0,0,16,812,MEDIA
+Portal Norte,6,6,0,0,0,38,567,BAJA
+Calle 72,18,1,0,0,0,10,981,ALTA
+Av. Jiménez,9,6,1,0,0,37,534,BAJA
+Av. Jiménez,13,5,0,0,0,10,530,BAJA
+Av. Jiménez,6,6,0,0,0,11,567,BAJA
+Portal Norte,22,5,0,0,0,11,786,MEDIA
+Calle 72,14,1,0,0,0,15,532,BAJA
+Portal Norte,21,4,1,0,1,32,889,MEDIA
+Museo del Oro,7,2,0,0,0,22,833,MEDIA
+Av. Jiménez,8,4,0,0,0,12,972,ALTA
+Museo del Oro,15,5,1,1,0,20,238,BAJA
+Museo del Oro,15,3,0,0,0,40,260,BAJA
+Portal Sur,19,2,0,0,0,26,971,ALTA
+Museo del Oro,21,6,1,0,0,32,528,BAJA
+Museo del Oro,19,4,0,0,0,18,656,MEDIA
+Museo del Oro,7,6,1,0,0,26,522,BAJA
+Museo del Oro,10,1,1,0,0,34,398,BAJA
+Museo del Oro,21,5,1,0,0,30,308,BAJA
+Calle 72,14,2,0,0,0,10,462,BAJA
+Calle 72,20,3,1,0,0,28,549,BAJA
+Portal Sur,15,6,1,1,0,34,384,BAJA
+Av. Jiménez,5,2,0,0,0,14,615,BAJA
+Museo del Oro,13,1,1,0,0,22,573,BAJA
+Calle 72,19,6,0,0,0,29,302,BAJA
+Av. Jiménez,16,6,1,0,0,10,730,MEDIA
+Museo del Oro,7,2,0,0,0,32,786,MEDIA
+Museo del Oro,8,2,0,0,0,36,722,MEDIA
+Museo del Oro,20,1,0,0,0,26,404,BAJA
+Av. Jiménez,22,0,1,0,0,23,467,BAJA
+Alcalá,18,3,0,0,0,12,689,MEDIA
+Museo del Oro,6,1,0,0,0,32,837,MEDIA
+Portal Sur,16,5,0,0,0,39,504,BAJA
+Portal Sur,19,1,1,0,0,37,1236,ALTA
+Museo del Oro,16,4,0,0,0,27,256,BAJA
+Alcalá,15,3,0,0,0,11,499,BAJA
+Portal Norte,13,4,0,0,0,18,563,BAJA
+Alcalá,9,0,0,0,0,18,401,BAJA
+Alcalá,10,3,0,0,0,10,356,BAJA
+Museo del Oro,18,4,0,0,0,13,851,MEDIA
+Portal Sur,6,2,1,0,0,27,1166,ALTA
+Museo del Oro,6,6,1,0,1,13,763,MEDIA
+Calle 72,12,3,0,0,0,11,598,BAJA
+Portal Sur,18,2,0,0,0,39,905,MEDIA
+Calle 72,16,0,0,0,1,28,696,MEDIA
+Calle 72,15,1,1,0,0,34,304,BAJA
+Museo del Oro,14,3,0,0,0,17,391,BAJA
+Alcalá,6,2,0,0,0,21,815,MEDIA
+Av. Jiménez,10,6,1,0,0,28,648,BAJA
+Av. Jiménez,6,5,0,0,1,31,775,MEDIA
+Portal Norte,18,1,0,0,0,21,998,ALTA
+Portal Norte,18,4,0,0,0,38,1026,ALTA
+Portal Norte,9,3,0,0,0,31,557,BAJA
+Portal Norte,10,0,0,0,0,16,571,BAJA
+Alcalá,10,4,1,0,1,13,800,MEDIA
+Alcalá,21,3,0,0,0,10,454,BAJA
+Portal Sur,13,0,0,0,0,36,594,BAJA
+Portal Norte,18,3,1,0,0,35,998,ALTA
+Portal Norte,13,5,1,0,0,24,719,MEDIA
+Calle 72,17,2,0,0,0,32,919,MEDIA
+Museo del Oro,14,2,1,0,0,37,456,BAJA
+Av. Jiménez,10,0,0,0,0,14,438,BAJA
+Av. Jiménez,20,1,0,0,1,40,600,BAJA
+Calle 72,17,6,0,0,0,25,396,BAJA
+Portal Sur,18,4,0,0,0,23,962,ALTA
+Calle 72,22,1,1,0,0,14,467,BAJA
+Portal Norte,9,3,1,0,0,30,811,MEDIA
+Portal Sur,6,1,0,0,0,28,922,MEDIA
+Alcalá,15,3,0,0,0,10,316,BAJA
+Portal Norte,10,1,1,0,0,30,505,BAJA
+Av. Jiménez,12,4,0,0,0,14,625,BAJA
+Portal Sur,9,3,0,0,0,18,645,BAJA
+Portal Sur,12,4,0,0,0,28,564,BAJA
+Alcalá,12,3,0,1,0,34,30,BAJA
+Av. Jiménez,11,2,0,0,0,14,603,BAJA
+Av. Jiménez,18,1,1,0,0,24,978,ALTA
+Portal Sur,15,1,0,0,0,18,493,BAJA
+Portal Norte,13,3,0,0,0,31,431,BAJA
+Calle 72,7,3,1,1,0,35,503,BAJA
+Museo del Oro,15,4,0,0,0,29,368,BAJA
+Portal Sur,8,0,1,0,0,34,1150,ALTA
+Portal Norte,10,1,0,0,0,23,699,MEDIA
+Museo del Oro,12,5,0,0,0,28,221,BAJA
+Av. Jiménez,7,6,0,0,0,19,576,BAJA
+Museo del Oro,12,6,1,0,0,40,351,BAJA
+Alcalá,9,2,1,1,0,16,398,BAJA
+Portal Norte,20,0,1,0,0,38,723,MEDIA
+Alcalá,20,1,0,0,0,33,378,BAJA
+Av. Jiménez,5,0,0,0,0,40,464,BAJA
+Portal Sur,15,6,1,1,0,29,437,BAJA
+Av. Jiménez,16,6,0,0,0,20,488,BAJA
+Calle 72,11,5,1,0,0,18,564,BAJA
+Portal Sur,13,5,0,0,0,15,606,BAJA
+Portal Sur,19,2,0,0,0,39,975,ALTA
+Portal Norte,11,3,1,0,0,13,887,MEDIA
+Portal Sur,6,5,0,0,0,35,521,BAJA
+Portal Sur,11,5,0,0,0,31,516,BAJA
+Av. Jiménez,9,3,0,0,0,13,443,BAJA
+Alcalá,11,5,1,0,0,38,352,BAJA
+Museo del Oro,9,2,0,0,0,15,528,BAJA
+Av. Jiménez,7,2,0,0,0,14,1058,ALTA
+Portal Norte,22,5,1,0,0,26,794,MEDIA
+Portal Sur,7,2,0,0,0,13,1115,ALTA
+Calle 72,17,5,1,0,0,13,649,BAJA
+Portal Sur,17,3,1,1,0,29,909,MEDIA
+Museo del Oro,16,2,0,0,0,39,197,BAJA
+Av. Jiménez,21,1,1,0,0,11,659,MEDIA
+Portal Norte,5,4,0,0,0,29,683,MEDIA
+Portal Sur,10,3,0,0,0,28,506,BAJA
+Portal Norte,8,2,0,1,0,12,745,MEDIA
+Av. Jiménez,15,5,0,0,0,14,607,BAJA
+Alcalá,16,0,0,0,0,23,309,BAJA
+Alcalá,21,0,0,0,0,31,346,BAJA
+Alcalá,11,6,0,0,0,16,466,BAJA
+Alcalá,9,4,0,0,0,23,340,BAJA
+Museo del Oro,21,3,0,0,1,25,731,MEDIA
+Calle 72,17,0,1,0,0,32,854,MEDIA
+Alcalá,18,4,0,1,0,17,425,BAJA
+Portal Sur,13,3,0,0,0,31,766,MEDIA
+Alcalá,13,4,0,0,0,35,385,BAJA
+Museo del Oro,12,0,0,0,0,28,250,BAJA
+Portal Norte,18,3,0,0,0,32,927,MEDIA
+Museo del Oro,8,4,0,0,0,15,841,MEDIA
+Av. Jiménez,22,2,0,0,0,38,445,BAJA
+Alcalá,8,0,1,0,0,19,948,MEDIA
+Av. Jiménez,13,6,0,0,0,16,691,MEDIA
+Calle 72,10,4,0,0,0,27,441,BAJA
+Portal Norte,16,4,1,0,0,21,804,MEDIA
+Alcalá,17,5,0,0,0,24,348,BAJA
+Portal Sur,21,4,0,0,0,34,554,BAJA
+Portal Norte,19,0,0,0,0,26,828,MEDIA
+Av. Jiménez,9,3,0,0,0,21,595,BAJA
+Av. Jiménez,8,6,0,0,1,34,734,MEDIA
+Av. Jiménez,20,2,0,0,0,21,545,BAJA
+Alcalá,13,6,0,0,0,39,127,BAJA
+Portal Norte,6,0,1,0,0,40,1157,ALTA
+Calle 72,19,2,0,0,0,24,868,MEDIA
+Calle 72,16,2,0,0,0,33,311,BAJA
+Calle 72,5,4,0,0,0,31,310,BAJA
+Alcalá,19,1,1,1,0,36,498,BAJA
+Alcalá,15,1,0,0,1,24,603,BAJA
+Portal Norte,16,4,0,0,1,22,801,MEDIA
+Museo del Oro,20,1,0,0,0,18,449,BAJA
+Calle 72,13,6,1,0,0,28,605,BAJA
+Calle 72,13,6,0,0,0,29,437,BAJA
+Calle 72,16,2,0,0,0,23,406,BAJA
+Calle 72,8,3,0,0,0,19,963,ALTA
+Av. Jiménez,7,2,0,0,0,23,969,ALTA
+Alcalá,20,2,0,0,0,25,335,BAJA
+Museo del Oro,8,4,0,1,0,13,475,BAJA
+Portal Sur,14,2,0,0,0,30,474,BAJA
+Av. Jiménez,9,1,1,0,0,36,550,BAJA
+Portal Norte,9,1,1,0,0,19,800,MEDIA
+Portal Norte,15,6,0,0,0,22,671,MEDIA
+Calle 72,19,1,0,0,0,12,975,ALTA
+Calle 72,12,2,0,1,0,28,96,BAJA
+Alcalá,7,4,0,0,0,23,638,BAJA
+Alcalá,9,0,0,0,0,36,223,BAJA
+Alcalá,7,1,0,0,0,38,611,BAJA
+Museo del Oro,20,1,1,0,0,33,531,BAJA
+Museo del Oro,10,6,0,0,0,16,386,BAJA
+Museo del Oro,11,6,1,0,0,16,512,BAJA
+Av. Jiménez,6,5,0,0,0,25,654,MEDIA
+Portal Sur,13,1,0,0,0,29,710,MEDIA
+Portal Sur,21,4,0,1,0,10,329,BAJA
+Portal Sur,12,4,0,0,0,25,728,MEDIA
+Museo del Oro,16,6,0,0,0,12,358,BAJA
+Portal Norte,8,1,0,0,0,18,977,ALTA
+Portal Sur,7,5,0,0,0,21,608,BAJA
+Av. Jiménez,18,1,0,0,0,11,968,ALTA
+Portal Sur,6,3,0,0,0,18,1102,ALTA
+Museo del Oro,13,6,0,0,1,29,605,BAJA
+Alcalá,10,0,0,0,0,40,249,BAJA
+Av. Jiménez,5,1,1,0,0,34,524,BAJA
+Alcalá,14,5,0,0,0,19,356,BAJA
+Alcalá,22,0,0,0,0,39,212,BAJA
+Calle 72,6,4,0,0,0,23,751,MEDIA
+Av. Jiménez,19,3,0,0,0,21,953,ALTA
+Museo del Oro,14,2,0,0,0,36,312,BAJA
+Portal Sur,18,6,0,0,0,22,571,BAJA
+Portal Sur,6,5,0,0,0,32,534,BAJA
+Alcalá,20,2,0,0,0,15,318,BAJA
+Av. Jiménez,5,0,0,0,0,20,500,BAJA
+Museo del Oro,21,0,1,0,0,40,541,BAJA
+Av. Jiménez,16,0,1,0,0,17,825,MEDIA
+Alcalá,11,6,0,0,0,36,30,BAJA
+Calle 72,5,4,0,0,0,24,495,BAJA
+Museo del Oro,15,4,0,0,0,39,362,BAJA
+Portal Norte,6,1,0,1,0,22,671,MEDIA
+Alcalá,15,5,0,0,0,25,364,BAJA
+Av. Jiménez,18,5,0,0,0,22,640,BAJA
+Av. Jiménez,9,5,0,0,0,16,434,BAJA
+Museo del Oro,9,3,0,0,0,36,315,BAJA
+Av. Jiménez,8,4,0,0,0,27,1035,ALTA
+Alcalá,9,3,1,1,0,25,30,BAJA
+Museo del Oro,7,2,1,0,0,21,905,MEDIA
+Museo del Oro,9,4,0,0,0,33,286,BAJA
+Portal Norte,16,2,0,0,0,20,684,MEDIA
+Portal Norte,10,6,0,0,0,17,713,MEDIA
+Av. Jiménez,19,5,0,0,0,12,581,BAJA
+Alcalá,19,5,0,0,0,37,221,BAJA
+Alcalá,18,5,1,0,0,12,350,BAJA
+Museo del Oro,14,3,0,0,1,36,668,MEDIA
+Museo del Oro,10,6,0,0,0,21,366,BAJA
+Av. Jiménez,21,1,1,0,0,10,689,MEDIA
+Calle 72,8,3,0,0,0,38,850,MEDIA
+Portal Norte,13,0,0,0,1,32,794,MEDIA
+Av. Jiménez,13,2,1,1,0,32,348,BAJA
+Calle 72,18,4,1,0,0,26,1012,ALTA
+Calle 72,14,3,0,0,0,33,418,BAJA
+Calle 72,19,6,1,0,0,14,661,MEDIA
+Portal Norte,21,4,0,0,0,17,528,BAJA
+Museo del Oro,12,2,0,0,1,26,602,BAJA
+Alcalá,20,2,0,0,0,32,335,BAJA
+Portal Sur,8,4,1,0,0,28,1040,ALTA
+Av. Jiménez,21,5,1,0,0,22,571,BAJA
+Av. Jiménez,8,1,0,0,0,30,790,MEDIA
+Calle 72,20,4,0,0,0,11,546,BAJA
+Portal Norte,12,4,1,0,0,25,802,MEDIA
+Museo del Oro,22,0,0,0,0,22,432,BAJA
+Museo del Oro,7,6,0,0,0,25,196,BAJA
+Portal Norte,13,3,1,0,0,14,808,MEDIA
+Av. Jiménez,21,1,0,0,0,38,377,BAJA
+Calle 72,5,4,0,0,0,36,425,BAJA
+Calle 72,9,4,0,0,0,39,354,BAJA
+Portal Sur,6,6,0,0,0,36,475,BAJA
+Museo del Oro,10,0,1,0,0,30,454,BAJA
+Museo del Oro,12,2,0,0,0,18,377,BAJA
+Portal Sur,16,1,0,0,0,13,707,MEDIA
+Alcalá,9,4,0,0,0,28,201,BAJA
+Portal Sur,7,3,0,0,0,39,836,MEDIA
+Museo del Oro,8,3,0,0,0,21,853,MEDIA
+Alcalá,21,6,0,0,0,40,289,BAJA
+Av. Jiménez,22,3,0,0,0,14,602,BAJA
+Alcalá,8,2,0,0,1,18,930,MEDIA
+Portal Sur,8,0,0,0,0,30,921,MEDIA
+Museo del Oro,5,2,0,0,0,25,315,BAJA
+Alcalá,22,6,0,0,0,33,313,BAJA
+Museo del Oro,17,3,0,0,0,20,734,MEDIA
+Portal Sur,18,6,0,0,0,34,627,BAJA
+Calle 72,10,3,0,1,0,19,237,BAJA
+Alcalá,16,3,0,0,0,14,455,BAJA
+Museo del Oro,6,3,1,0,0,27,963,ALTA
+Portal Sur,17,3,0,0,0,25,1053,ALTA
+Av. Jiménez,15,0,1,1,0,27,181,BAJA
+Alcalá,10,0,1,0,0,10,549,BAJA
+Portal Norte,17,3,0,0,0,22,997,ALTA
+Portal Norte,16,4,0,0,0,12,618,BAJA
+Museo del Oro,12,3,0,0,0,34,425,BAJA
+Portal Sur,8,3,0,0,0,12,1076,ALTA
+Portal Sur,5,2,0,0,0,38,490,BAJA
+Av. Jiménez,21,4,0,0,0,11,664,MEDIA
+Museo del Oro,10,4,1,0,1,28,690,MEDIA
+Museo del Oro,10,0,0,0,0,20,354,BAJA
+Alcalá,17,3,1,0,0,13,792,MEDIA
+Museo del Oro,9,4,1,0,0,21,448,BAJA
+Av. Jiménez,11,5,0,0,0,11,515,BAJA
+Alcalá,17,2,1,1,0,31,524,BAJA
+Portal Norte,15,6,1,0,0,36,542,BAJA
+Alcalá,16,4,0,0,0,20,171,BAJA
+Portal Norte,5,3,0,0,0,23,606,BAJA
+Calle 72,13,4,0,0,0,14,465,BAJA
+Portal Sur,13,6,0,0,0,24,615,BAJA
+Portal Sur,16,1,0,0,0,39,629,BAJA
+Alcalá,7,1,0,0,0,26,690,MEDIA
+Portal Sur,7,3,0,0,1,37,1309,ALTA
+Museo del Oro,18,0,1,0,1,34,1081,ALTA
+Av. Jiménez,17,5,0,0,0,13,643,BAJA
+Portal Norte,19,6,0,0,0,11,610,BAJA
+Portal Norte,9,4,0,0,0,21,603,BAJA
+Calle 72,22,6,1,1,0,39,111,BAJA
+Portal Norte,9,0,0,0,0,15,565,BAJA
+Museo del Oro,16,4,0,0,0,11,436,BAJA
+Portal Sur,7,3,0,0,0,39,820,MEDIA
+Alcalá,21,1,0,0,0,16,357,BAJA
+Av. Jiménez,10,2,1,0,1,21,860,MEDIA
+Alcalá,19,3,0,0,0,34,655,MEDIA
+Alcalá,10,4,0,0,0,13,257,BAJA
+Alcalá,19,1,0,0,0,15,806,MEDIA
+Av. Jiménez,13,4,1,0,0,32,704,MEDIA
+Calle 72,6,6,1,0,0,10,779,MEDIA
+Alcalá,8,0,0,0,0,32,800,MEDIA
+Calle 72,17,6,1,0,0,26,567,BAJA
+Av. Jiménez,8,4,0,0,0,17,910,MEDIA
+Portal Norte,9,2,1,0,0,29,705,MEDIA
+Portal Sur,14,5,1,0,0,19,747,MEDIA
+Museo del Oro,9,4,0,0,0,39,147,BAJA
+Portal Norte,7,5,0,0,0,22,654,MEDIA
+Calle 72,16,0,0,1,0,33,83,BAJA
+Museo del Oro,17,0,0,0,0,18,695,MEDIA
+Museo del Oro,18,4,0,0,0,35,669,MEDIA
+Portal Sur,21,2,0,0,0,18,635,BAJA
+Calle 72,7,1,0,0,0,25,851,MEDIA
+Alcalá,12,2,0,0,0,34,238,BAJA
+Av. Jiménez,9,5,0,0,0,38,522,BAJA
+Portal Sur,21,1,0,0,0,33,459,BAJA
+Calle 72,14,6,0,0,0,30,408,BAJA
+Portal Norte,6,2,0,0,0,31,864,MEDIA
+Portal Norte,17,1,1,0,0,22,1208,ALTA
+Av. Jiménez,5,0,1,0,0,31,529,BAJA
+Alcalá,9,6,0,0,0,27,250,BAJA
+Portal Norte,17,0,0,0,0,26,1048,ALTA
+Av. Jiménez,14,2,0,1,0,19,332,BAJA
+Portal Norte,18,4,1,0,0,20,1238,ALTA
+Alcalá,15,3,0,0,0,13,231,BAJA
+Portal Sur,20,1,1,0,0,32,727,MEDIA
+Portal Sur,15,0,0,0,0,10,722,MEDIA
+Portal Sur,6,4,0,0,0,13,1078,ALTA
+Museo del Oro,6,3,0,0,0,19,811,MEDIA
+Portal Sur,18,0,1,0,0,14,1299,ALTA
+Portal Norte,5,1,1,0,0,33,725,MEDIA
+Alcalá,11,3,0,0,0,13,434,BAJA
+Portal Sur,5,1,0,0,0,24,633,BAJA
+Portal Sur,10,2,0,1,1,32,700,MEDIA
+Av. Jiménez,15,0,1,0,0,28,560,BAJA
+Portal Sur,8,5,0,0,0,28,463,BAJA
+Av. Jiménez,13,4,1,0,0,20,619,BAJA
+Portal Norte,22,5,0,0,0,23,587,BAJA
+Alcalá,6,0,0,0,0,33,746,MEDIA
+Calle 72,6,2,0,0,0,24,815,MEDIA
+Portal Norte,9,1,0,0,1,31,823,MEDIA
+Museo del Oro,19,4,1,0,0,35,712,MEDIA
+Calle 72,12,5,1,0,0,17,705,MEDIA
+Alcalá,16,1,1,0,1,13,737,MEDIA
+Av. Jiménez,5,5,0,0,0,24,474,BAJA
+Portal Norte,18,4,1,0,1,21,1535,ALTA
+Alcalá,6,5,0,0,0,14,442,BAJA
+Museo del Oro,17,0,0,0,1,33,889,MEDIA
+Calle 72,7,6,0,0,0,29,417,BAJA
+Portal Sur,20,3,0,0,0,30,799,MEDIA
+Museo del Oro,10,1,0,0,1,31,742,MEDIA
+Portal Norte,8,1,0,0,0,23,1056,ALTA
+Portal Sur,11,6,0,0,0,25,462,BAJA
+Av. Jiménez,5,6,0,0,0,16,651,MEDIA
+Portal Sur,7,0,0,0,0,32,917,MEDIA
+Alcalá,15,3,0,0,0,39,312,BAJA
+Museo del Oro,10,5,1,0,0,37,360,BAJA
+Portal Sur,11,4,0,0,0,22,667,MEDIA
+Calle 72,19,1,0,0,0,11,883,MEDIA
+Calle 72,7,2,1,0,0,37,869,MEDIA
+Av. Jiménez,12,2,1,0,0,27,648,BAJA
+Alcalá,8,2,1,1,0,34,350,BAJA
+Museo del Oro,13,6,1,0,0,19,716,MEDIA
+Av. Jiménez,10,1,1,0,0,36,462,BAJA
+Portal Sur,5,4,0,0,0,35,463,BAJA
+Alcalá,6,6,1,0,0,10,550,BAJA
+Alcalá,20,5,1,0,0,27,501,BAJA
+Calle 72,6,5,0,1,0,24,130,BAJA
+Portal Sur,19,1,1,0,0,30,1014,ALTA
+Museo del Oro,21,0,1,0,0,18,458,BAJA
+Av. Jiménez,13,5,1,0,0,13,600,BAJA
+Av. Jiménez,10,5,1,0,0,18,677,MEDIA
+Portal Norte,18,5,0,1,0,26,258,BAJA
+Calle 72,22,2,0,0,0,18,526,BAJA
+Museo del Oro,7,3,0,0,0,24,805,MEDIA
+Alcalá,22,0,1,0,0,22,494,BAJA
+Alcalá,21,2,1,0,0,31,341,BAJA
+Calle 72,7,3,1,0,0,22,929,MEDIA
+Portal Sur,5,0,1,0,0,14,809,MEDIA
+Portal Norte,17,0,1,0,0,29,1062,ALTA
+Portal Sur,6,0,0,0,0,16,1084,ALTA
+Av. Jiménez,15,1,1,0,0,19,589,BAJA
+Av. Jiménez,6,6,0,0,0,31,505,BAJA
+Portal Sur,17,4,0,0,0,18,958,ALTA
+Av. Jiménez,9,6,0,0,0,11,539,BAJA
+Portal Sur,6,1,0,0,0,21,1124,ALTA
+Museo del Oro,6,4,0,0,0,22,697,MEDIA
+Alcalá,8,6,0,0,0,31,338,BAJA
+Museo del Oro,14,2,0,0,0,31,221,BAJA
+Calle 72,6,4,1,0,0,10,933,MEDIA
+Portal Sur,19,4,0,0,0,33,842,MEDIA
+Av. Jiménez,15,5,0,0,0,33,451,BAJA
+Museo del Oro,10,6,0,0,0,15,488,BAJA
+Portal Norte,22,4,0,0,0,20,703,MEDIA
+Portal Norte,16,4,0,0,0,33,619,BAJA
+Museo del Oro,17,6,0,0,0,27,427,BAJA
+Calle 72,8,4,1,0,0,20,933,MEDIA
+Alcalá,17,2,0,0,0,33,575,BAJA
+Alcalá,15,4,1,0,0,29,449,BAJA
+Portal Sur,22,3,0,0,0,25,724,MEDIA
+Portal Sur,13,1,1,0,1,10,988,ALTA
+Museo del Oro,17,3,1,0,0,30,964,ALTA
+Portal Norte,11,4,0,0,0,15,476,BAJA
+Av. Jiménez,5,6,0,0,0,38,443,BAJA
+Av. Jiménez,7,4,0,0,0,15,942,MEDIA
+Alcalá,20,1,0,0,0,10,364,BAJA
+Calle 72,18,6,0,0,0,21,477,BAJA
+Av. Jiménez,11,4,0,0,0,20,452,BAJA
+Av. Jiménez,17,2,1,0,0,20,1076,ALTA
+Portal Norte,5,5,1,0,1,38,867,MEDIA
+Portal Norte,5,2,0,0,0,18,687,MEDIA
+Av. Jiménez,14,2,0,0,0,35,557,BAJA
+Portal Norte,16,5,0,0,0,15,640,BAJA
+Portal Norte,21,6,0,0,0,29,481,BAJA
+Av. Jiménez,18,3,1,0,1,14,1235,ALTA
+Calle 72,9,2,0,0,0,17,634,BAJA
+Museo del Oro,19,6,0,0,0,14,562,BAJA
+Portal Norte,13,1,0,0,0,20,671,MEDIA
+Calle 72,19,5,0,0,0,24,461,BAJA
+Av. Jiménez,8,4,0,0,0,36,889,MEDIA
+Alcalá,5,5,0,0,0,33,346,BAJA
+Museo del Oro,6,2,0,0,0,31,685,MEDIA
+Alcalá,22,5,0,0,0,25,292,BAJA
+Av. Jiménez,6,0,1,0,0,18,964,ALTA
+Av. Jiménez,21,5,0,0,0,19,516,BAJA
+Av. Jiménez,18,0,1,0,0,14,1200,ALTA
+Alcalá,7,4,0,0,0,30,746,MEDIA
+Alcalá,20,1,0,0,0,34,247,BAJA
+Alcalá,7,6,1,0,0,26,189,BAJA
+Portal Sur,7,5,0,0,0,27,546,BAJA
+Museo del Oro,15,0,0,0,0,21,402,BAJA
+Museo del Oro,10,6,0,0,0,39,269,BAJA
+Alcalá,10,1,1,0,0,37,341,BAJA
+Calle 72,8,3,1,0,0,22,1007,ALTA
+Av. Jiménez,15,0,0,0,0,33,399,BAJA
+Alcalá,5,0,0,0,0,20,319,BAJA
+Av. Jiménez,9,1,0,0,0,13,550,BAJA
+Calle 72,14,3,0,0,0,19,430,BAJA
+Museo del Oro,13,3,0,1,0,35,158,BAJA
+Calle 72,17,5,0,0,0,24,418,BAJA
+Alcalá,8,1,1,0,0,36,564,BAJA
+Alcalá,16,5,0,0,0,20,463,BAJA
+Calle 72,18,0,1,0,0,24,908,MEDIA
+Museo del Oro,11,2,1,0,0,12,640,BAJA
+Alcalá,9,1,1,0,0,34,302,BAJA
+Portal Sur,14,0,0,0,0,19,692,MEDIA
+Calle 72,15,4,0,0,0,12,524,BAJA
+Museo del Oro,6,6,0,0,0,16,504,BAJA
+Museo del Oro,15,4,0,0,0,30,323,BAJA
+Museo del Oro,7,5,0,0,0,35,258,BAJA
+Portal Norte,15,4,0,0,1,39,757,MEDIA
+Calle 72,21,0,0,0,0,17,467,BAJA
+Alcalá,14,2,0,0,0,28,118,BAJA
+Calle 72,18,5,1,0,0,24,528,BAJA
+Calle 72,10,0,1,0,0,32,758,MEDIA
+Calle 72,21,0,0,0,0,30,274,BAJA
+Calle 72,19,5,1,0,0,12,667,MEDIA
+Portal Norte,21,0,0,1,0,14,317,BAJA
+Av. Jiménez,18,6,0,0,0,28,619,BAJA
+Alcalá,16,5,1,0,0,26,315,BAJA
+Portal Norte,14,4,0,0,0,37,506,BAJA
+Calle 72,21,3,0,0,0,36,439,BAJA
+Portal Norte,20,0,0,0,0,11,640,BAJA
+Museo del Oro,12,2,0,0,0,28,291,BAJA
+Calle 72,6,5,0,0,1,22,716,MEDIA
+Portal Sur,5,6,0,0,0,24,591,BAJA
+Museo del Oro,9,3,0,1,0,12,123,BAJA
+Portal Sur,6,5,0,0,0,36,618,BAJA
+Museo del Oro,8,5,0,0,0,15,462,BAJA
+Av. Jiménez,6,0,0,0,0,39,850,MEDIA
+Alcalá,22,4,1,0,0,38,358,BAJA
+Av. Jiménez,6,4,1,1,0,35,727,MEDIA
+Alcalá,16,3,0,0,1,13,716,MEDIA
+Alcalá,11,5,1,0,0,22,405,BAJA
+Museo del Oro,8,6,0,0,0,10,526,BAJA
+Portal Sur,17,3,0,1,0,28,588,BAJA
+Calle 72,22,2,0,0,0,36,204,BAJA
+Portal Sur,19,6,0,0,0,26,750,MEDIA
+Portal Sur,22,6,1,0,1,10,1043,ALTA
+Alcalá,15,4,1,0,0,19,466,BAJA
+Calle 72,17,4,0,0,0,15,812,MEDIA
+Portal Sur,7,0,0,0,0,23,920,MEDIA
+Av. Jiménez,20,2,0,0,0,21,457,BAJA
+Calle 72,18,1,0,0,0,35,841,MEDIA
+Calle 72,9,3,0,0,0,16,463,BAJA
+Museo del Oro,11,5,1,0,0,19,499,BAJA
+Calle 72,15,1,1,0,0,17,558,BAJA
+Portal Norte,5,6,1,0,0,37,711,MEDIA
+Av. Jiménez,19,0,0,0,0,19,995,ALTA
+Museo del Oro,10,0,0,0,0,40,241,BAJA
+Calle 72,6,6,0,0,0,30,475,BAJA
+Alcalá,10,0,1,0,1,19,676,MEDIA
+Portal Sur,20,5,0,0,0,28,565,BAJA
+Museo del Oro,9,5,0,0,0,13,438,BAJA
+Alcalá,14,2,0,0,0,38,263,BAJA
+Av. Jiménez,19,0,1,0,0,39,855,MEDIA
+Portal Norte,5,2,1,0,0,19,766,MEDIA
+Portal Norte,18,0,0,0,0,15,1230,ALTA
+Alcalá,10,4,0,0,0,23,317,BAJA
+Alcalá,17,6,1,0,0,33,365,BAJA
+Portal Sur,8,6,0,1,0,29,279,BAJA
+Portal Norte,7,5,0,0,0,11,692,MEDIA
+Calle 72,19,5,0,0,0,10,411,BAJA
+Portal Norte,19,6,0,0,0,17,754,MEDIA
+Portal Norte,22,5,0,0,1,33,850,MEDIA
+Calle 72,17,4,1,0,0,18,960,ALTA
+Museo del Oro,13,6,0,1,0,37,30,BAJA
+Portal Norte,8,2,0,0,0,19,961,ALTA
+Alcalá,10,2,0,0,0,37,242,BAJA
+Av. Jiménez,16,6,0,0,0,38,417,BAJA
+Calle 72,11,2,0,0,0,32,426,BAJA
+Museo del Oro,13,2,0,0,0,15,348,BAJA
+Portal Sur,8,1,0,0,0,12,1049,ALTA
+Calle 72,12,1,0,0,0,15,602,BAJA
+Portal Norte,9,4,1,0,0,29,623,BAJA
+Portal Norte,7,6,0,0,0,31,323,BAJA
+Alcalá,7,0,0,0,0,40,588,BAJA
+Portal Norte,14,4,0,1,1,39,629,BAJA
+Museo del Oro,11,5,0,0,0,19,474,BAJA
+Av. Jiménez,6,6,0,0,0,22,461,BAJA
+Portal Sur,14,5,1,0,0,33,678,MEDIA
+Portal Norte,7,1,0,0,0,33,976,ALTA
+Alcalá,5,3,1,0,0,19,305,BAJA
+Portal Sur,7,6,0,0,0,10,632,BAJA
+Av. Jiménez,13,6,1,0,0,12,720,MEDIA
+Calle 72,22,4,0,0,0,35,518,BAJA
+Alcalá,9,6,0,0,0,20,285,BAJA
+Calle 72,10,4,0,0,0,32,533,BAJA
+Av. Jiménez,9,0,0,0,0,34,376,BAJA
+Av. Jiménez,11,6,1,1,0,37,30,BAJA
+Calle 72,17,1,1,1,0,25,730,MEDIA
+Av. Jiménez,10,2,0,0,0,29,509,BAJA
+Portal Norte,16,1,0,0,0,16,683,MEDIA
+Portal Norte,21,5,0,0,0,39,542,BAJA
+Calle 72,22,0,0,0,0,37,393,BAJA
+Portal Norte,15,4,1,0,0,22,687,MEDIA
+Av. Jiménez,17,6,0,1,0,21,196,BAJA
+Alcalá,21,5,1,0,0,32,331,BAJA
+Portal Norte,19,2,0,0,0,22,956,ALTA
+Portal Norte,10,6,1,1,0,32,203,BAJA
+Portal Norte,7,2,0,0,0,12,951,ALTA
+Museo del Oro,7,4,0,0,0,18,799,MEDIA
+Calle 72,20,3,1,0,0,34,337,BAJA
+Av. Jiménez,15,0,0,0,0,38,251,BAJA
+Portal Norte,10,0,0,0,0,10,633,BAJA
+Calle 72,11,1,0,0,0,34,386,BAJA
+Av. Jiménez,10,6,0,0,0,12,543,BAJA
+Av. Jiménez,19,6,1,0,0,36,354,BAJA
+Museo del Oro,16,2,1,0,0,17,662,MEDIA
+Portal Sur,20,6,0,0,0,21,519,BAJA
+Av. Jiménez,10,0,1,0,0,32,503,BAJA
+Alcalá,13,6,0,0,0,36,123,BAJA
+Museo del Oro,7,1,1,0,0,22,1012,ALTA
+Calle 72,22,0,0,0,1,19,770,MEDIA
+Calle 72,14,5,0,0,1,40,572,BAJA
+Calle 72,14,2,0,0,0,39,323,BAJA
+Museo del Oro,12,2,0,0,0,26,378,BAJA
+Calle 72,9,5,1,0,0,10,560,BAJA
+Alcalá,22,2,0,0,1,40,480,BAJA
+Av. Jiménez,13,5,0,1,0,29,122,BAJA
+Alcalá,17,1,0,1,0,27,420,BAJA
+Portal Sur,5,0,0,0,0,13,721,MEDIA
+Av. Jiménez,9,2,0,0,0,40,353,BAJA
+Calle 72,19,4,0,0,0,32,644,BAJA
+Portal Sur,6,1,1,0,0,16,1164,ALTA
+Calle 72,6,1,0,1,0,21,458,BAJA
+Calle 72,19,5,1,0,0,20,606,BAJA
+Alcalá,10,3,1,0,0,36,323,BAJA
+Av. Jiménez,9,3,0,0,0,24,449,BAJA
+Portal Norte,15,1,0,0,0,37,394,BAJA
+Av. Jiménez,8,0,1,0,0,31,1069,ALTA
+Av. Jiménez,5,0,1,0,0,21,598,BAJA
+Alcalá,5,4,0,0,0,22,496,BAJA
+Portal Sur,6,0,1,0,0,35,1073,ALTA
+Calle 72,7,1,1,0,0,25,998,ALTA
+Portal Norte,17,6,0,0,0,31,537,BAJA
+Museo del Oro,10,2,1,0,0,13,589,BAJA
+Portal Norte,6,5,0,0,0,23,669,MEDIA
+Calle 72,5,2,1,0,0,27,646,BAJA
+Portal Norte,13,6,1,0,0,20,579,BAJA
+Portal Norte,20,5,0,0,0,36,572,BAJA
+Alcalá,11,3,0,0,0,16,384,BAJA
+Portal Norte,6,4,0,0,0,36,907,MEDIA
+Portal Norte,9,2,1,0,0,11,911,MEDIA
+Alcalá,13,6,0,0,0,23,442,BAJA
+Calle 72,8,2,1,0,0,26,1036,ALTA
+Portal Sur,22,5,0,0,1,17,865,MEDIA
+Portal Norte,18,4,0,0,0,26,869,MEDIA
+Portal Norte,11,4,1,0,0,37,678,MEDIA
+Portal Norte,22,2,0,0,0,23,691,MEDIA
+Portal Sur,10,5,0,0,0,26,442,BAJA
+Museo del Oro,7,5,0,0,0,39,373,BAJA
+Av. Jiménez,21,5,0,0,0,38,392,BAJA
+Calle 72,22,5,0,0,0,10,395,BAJA
+Portal Norte,10,1,0,0,0,32,566,BAJA
+Museo del Oro,15,6,0,0,0,36,377,BAJA
+Calle 72,8,5,0,0,0,39,338,BAJA
+Museo del Oro,16,1,0,0,0,34,231,BAJA
+Portal Sur,17,6,0,1,0,12,525,BAJA
+Alcalá,17,3,0,1,0,33,289,BAJA
+Av. Jiménez,15,2,1,0,0,36,637,BAJA
+Portal Norte,17,1,0,0,0,26,843,MEDIA
+Calle 72,14,2,0,0,0,10,573,BAJA
+Alcalá,19,0,0,0,0,15,781,MEDIA
+Museo del Oro,8,4,1,1,0,18,702,MEDIA
+Museo del Oro,13,4,1,0,0,36,543,BAJA
+Av. Jiménez,12,4,1,0,0,13,617,BAJA
+Portal Norte,14,3,1,0,0,33,684,MEDIA
+Alcalá,7,2,0,0,0,15,641,BAJA
+Portal Sur,10,5,1,0,0,35,560,BAJA
+Alcalá,22,6,0,0,0,10,334,BAJA
+Alcalá,6,0,1,0,0,17,891,MEDIA
+Calle 72,16,2,1,0,0,13,776,MEDIA
+Calle 72,16,6,1,0,0,27,707,MEDIA
+Calle 72,13,6,0,0,0,34,368,BAJA
+Alcalá,5,6,1,0,1,22,702,MEDIA
+Museo del Oro,5,1,0,0,0,26,439,BAJA
+Av. Jiménez,9,3,0,0,0,29,527,BAJA
+Alcalá,6,0,0,1,0,24,382,BAJA
+Museo del Oro,6,6,0,0,0,33,328,BAJA
+Alcalá,7,3,0,0,0,18,723,MEDIA
+Alcalá,8,1,0,0,0,15,733,MEDIA
+Portal Norte,20,0,0,0,0,15,603,BAJA
+Av. Jiménez,16,5,0,0,1,15,790,MEDIA
+Portal Sur,5,5,0,0,1,11,912,MEDIA
+Portal Sur,16,6,0,0,1,11,853,MEDIA
+Portal Norte,7,6,1,0,0,11,843,MEDIA
+Calle 72,12,5,0,0,0,14,557,BAJA
+Museo del Oro,5,5,1,0,0,29,616,BAJA
+Portal Sur,6,5,0,0,0,17,688,MEDIA
+Portal Norte,7,6,0,0,0,28,519,BAJA
+Museo del Oro,12,3,0,0,0,12,398,BAJA
+Calle 72,13,5,0,0,0,34,400,BAJA
+Calle 72,11,5,0,0,0,21,518,BAJA
+Museo del Oro,16,0,0,0,0,23,362,BAJA
+Av. Jiménez,17,4,0,0,0,30,742,MEDIA
+Museo del Oro,18,2,0,0,0,40,621,BAJA
+Calle 72,15,0,0,0,0,34,397,BAJA
+Portal Sur,14,1,0,0,0,22,687,MEDIA
+Portal Norte,13,0,1,0,0,20,601,BAJA
+Alcalá,9,6,0,0,0,20,341,BAJA
+Portal Norte,13,5,0,0,0,12,666,MEDIA
+Portal Sur,5,0,0,0,0,20,604,BAJA
+Av. Jiménez,22,4,0,0,0,33,395,BAJA
+Av. Jiménez,11,4,0,1,0,18,173,BAJA
+Portal Norte,18,3,0,0,0,22,999,ALTA
+Portal Sur,22,4,0,0,0,12,778,MEDIA
+Portal Norte,13,6,0,0,0,17,714,MEDIA
+Museo del Oro,20,3,0,0,0,12,358,BAJA
+Portal Sur,13,4,0,0,0,24,601,BAJA
+Alcalá,7,3,0,0,0,19,551,BAJA
+Portal Sur,5,2,1,0,0,40,649,BAJA
+Calle 72,7,6,0,0,0,28,480,BAJA
+Portal Sur,21,2,0,0,0,21,760,MEDIA
+Portal Sur,13,5,0,0,0,26,461,BAJA
+Calle 72,10,4,1,1,0,39,99,BAJA
+Portal Norte,13,4,1,0,0,15,762,MEDIA
+Alcalá,9,5,1,0,0,17,329,BAJA
+Portal Norte,20,5,0,0,0,26,578,BAJA
+Museo del Oro,22,3,0,0,0,13,492,BAJA
+Calle 72,6,4,1,0,0,26,861,MEDIA
+Portal Norte,17,3,0,0,0,14,1047,ALTA
+Portal Sur,11,2,1,1,0,36,267,BAJA
+Portal Norte,5,5,0,0,0,33,632,BAJA
+Portal Sur,21,6,0,0,0,11,711,MEDIA
+Portal Sur,6,4,0,0,0,26,953,ALTA
+Portal Norte,8,5,0,0,0,16,525,BAJA
+Calle 72,5,5,1,0,0,28,583,BAJA
+Portal Sur,13,2,0,0,0,26,713,MEDIA
+Museo del Oro,15,0,0,0,0,39,224,BAJA
+Portal Norte,10,2,0,0,0,15,595,BAJA
+Alcalá,6,5,1,0,0,25,350,BAJA
+Calle 72,7,5,0,0,0,39,490,BAJA
+Portal Norte,21,3,1,0,0,13,609,BAJA
+Alcalá,19,5,1,0,1,17,811,MEDIA
+Portal Norte,21,0,0,0,0,32,498,BAJA
+Museo del Oro,14,4,1,0,0,13,556,BAJA
+Alcalá,14,4,1,1,0,16,137,BAJA
+Museo del Oro,19,3,0,0,0,39,705,MEDIA
+Museo del Oro,16,5,0,0,0,28,294,BAJA
+Av. Jiménez,12,3,0,0,0,11,659,MEDIA
+Portal Norte,10,3,0,0,0,36,592,BAJA
+Museo del Oro,13,4,0,0,0,26,285,BAJA
+Alcalá,6,5,1,1,0,24,169,BAJA
+Portal Norte,8,1,0,0,0,40,851,MEDIA
+Alcalá,18,2,0,0,0,19,730,MEDIA
+Av. Jiménez,20,2,0,0,0,21,636,BAJA
+Museo del Oro,6,1,0,0,0,27,704,MEDIA
+Portal Norte,6,2,0,0,0,17,1092,ALTA
+Museo del Oro,6,2,0,1,0,13,579,BAJA
+Calle 72,19,2,0,0,0,14,900,MEDIA
+Calle 72,10,2,0,0,0,19,515,BAJA
+Portal Sur,10,3,0,0,0,12,708,MEDIA
+Portal Norte,5,4,1,0,1,25,847,MEDIA
+Av. Jiménez,22,2,0,0,0,40,351,BAJA
+Museo del Oro,12,5,0,0,0,17,334,BAJA
+Portal Norte,19,3,0,0,0,11,1032,ALTA
+Calle 72,17,5,1,0,0,11,762,MEDIA
+Av. Jiménez,7,0,0,0,0,15,996,ALTA
+Museo del Oro,19,1,0,0,0,28,637,BAJA
+Alcalá,14,3,0,0,0,24,274,BAJA
+Alcalá,15,2,0,0,0,22,327,BAJA
+Calle 72,8,3,0,0,0,33,862,MEDIA
+Portal Norte,20,1,0,0,0,22,536,BAJA
+Portal Norte,21,3,0,0,0,29,447,BAJA
+Museo del Oro,12,4,1,0,0,40,395,BAJA
+Portal Norte,6,5,0,0,1,15,926,MEDIA
+Calle 72,20,1,1,0,0,13,661,MEDIA
+Alcalá,20,2,0,0,0,16,273,BAJA
+Alcalá,14,3,0,0,0,14,496,BAJA
+Alcalá,15,3,0,0,0,35,222,BAJA
+Calle 72,9,5,0,1,0,37,93,BAJA
+Museo del Oro,6,2,0,0,0,27,705,MEDIA
+Museo del Oro,21,4,1,0,0,14,645,BAJA
+Calle 72,13,6,0,0,0,36,430,BAJA
+Museo del Oro,9,2,0,0,0,38,317,BAJA
+Museo del Oro,17,5,0,0,0,22,296,BAJA
+Av. Jiménez,5,2,0,0,0,30,548,BAJA
+Portal Sur,6,2,0,0,0,28,1053,ALTA
+Portal Sur,9,4,0,0,0,26,685,MEDIA
+Museo del Oro,13,4,0,0,0,20,403,BAJA
+Portal Sur,11,3,0,0,0,18,646,BAJA
+Portal Sur,8,1,0,0,0,18,1037,ALTA
+Museo del Oro,11,0,0,0,0,21,576,BAJA
+Calle 72,11,6,0,0,0,33,359,BAJA
+Portal Sur,14,6,0,0,0,35,455,BAJA
+Portal Sur,15,6,1,0,0,13,772,MEDIA
+Alcalá,20,3,1,0,0,11,451,BAJA
+Portal Norte,19,6,0,0,0,24,677,MEDIA
+Av. Jiménez,10,3,0,0,0,33,334,BAJA
+Alcalá,21,0,1,0,0,27,353,BAJA
+Museo del Oro,14,1,0,0,0,35,325,BAJA
+Alcalá,8,1,0,0,0,32,749,MEDIA
+Portal Norte,11,2,0,0,0,31,591,BAJA
+Portal Norte,18,6,0,0,0,26,694,MEDIA
+Portal Sur,19,2,1,0,0,11,1242,ALTA
+Av. Jiménez,11,4,1,0,0,15,654,MEDIA
+Museo del Oro,7,1,1,0,0,33,910,MEDIA
+Av. Jiménez,8,4,1,0,1,19,1187,ALTA
+Av. Jiménez,6,3,0,0,0,32,711,MEDIA
+Alcalá,17,1,1,0,0,20,918,MEDIA
+Portal Norte,14,3,0,0,0,10,677,MEDIA
+Portal Sur,13,0,0,0,1,30,907,MEDIA
+Alcalá,17,6,0,0,0,37,150,BAJA
+Museo del Oro,19,4,0,0,0,23,885,MEDIA
+Av. Jiménez,19,6,0,0,0,14,610,BAJA
+Portal Norte,7,6,0,0,1,22,836,MEDIA
+Portal Sur,15,1,0,0,0,39,543,BAJA
+Av. Jiménez,20,4,0,0,0,19,554,BAJA
+Portal Norte,18,0,0,0,0,12,979,ALTA
+Av. Jiménez,10,6,0,1,0,33,111,BAJA
+Alcalá,12,5,0,0,0,17,364,BAJA
+Calle 72,21,4,0,0,0,11,500,BAJA
+Calle 72,5,6,1,0,0,31,416,BAJA
+Portal Sur,14,5,0,0,0,20,664,MEDIA
+Calle 72,7,6,0,0,0,14,583,BAJA
+Alcalá,21,0,0,0,0,11,459,BAJA
+Alcalá,5,0,1,0,0,15,513,BAJA
+Alcalá,5,6,0,0,0,14,421,BAJA
+Alcalá,10,1,0,1,0,10,159,BAJA
+Calle 72,8,2,0,0,0,21,880,MEDIA
+Calle 72,13,0,1,0,1,35,590,BAJA
+Av. Jiménez,10,4,1,0,0,22,721,MEDIA
+Av. Jiménez,11,5,0,0,0,11,503,BAJA
+Alcalá,15,5,0,0,1,37,378,BAJA
+Portal Sur,15,4,0,0,0,29,498,BAJA
+Museo del Oro,21,4,0,0,0,39,485,BAJA
+Alcalá,13,3,1,0,0,28,427,BAJA
+Museo del Oro,15,3,1,0,0,24,413,BAJA
+Av. Jiménez,17,3,1,0,0,25,955,ALTA
+Av. Jiménez,8,6,1,0,1,10,950,MEDIA
+Museo del Oro,17,1,0,0,0,21,837,MEDIA
+Portal Norte,20,3,1,0,0,23,724,MEDIA
+Portal Sur,10,4,0,0,0,19,572,BAJA
+Museo del Oro,8,3,0,0,0,35,735,MEDIA
+Portal Sur,11,0,0,1,0,39,177,BAJA
+Museo del Oro,9,2,0,0,0,24,460,BAJA
+Portal Sur,15,4,1,1,0,34,381,BAJA
+Alcalá,20,4,1,0,0,16,403,BAJA
+Museo del Oro,15,5,1,0,0,38,467,BAJA
+Av. Jiménez,7,6,1,0,0,31,605,BAJA
+Portal Norte,10,4,0,0,0,32,490,BAJA
+Portal Sur,17,4,0,0,0,28,1050,ALTA
+Alcalá,10,2,1,0,0,35,400,BAJA
+Portal Sur,15,2,0,0,0,26,700,MEDIA
+Alcalá,17,5,1,0,0,39,383,BAJA
+Alcalá,10,3,0,0,1,30,493,BAJA
+Portal Sur,16,5,0,0,0,24,481,BAJA
+Museo del Oro,12,0,0,1,0,16,139,BAJA
+Portal Norte,7,0,0,0,0,38,919,MEDIA
+Portal Norte,11,1,1,0,0,11,778,MEDIA
+Calle 72,12,1,1,0,0,11,413,BAJA
+Av. Jiménez,5,4,0,0,0,10,634,BAJA
+Portal Sur,21,4,0,0,0,13,609,BAJA
+Av. Jiménez,14,3,0,0,0,17,593,BAJA
+Portal Norte,5,2,0,0,0,25,706,MEDIA
+Calle 72,20,4,0,0,0,18,472,BAJA
+Alcalá,20,0,0,0,0,24,331,BAJA
+Alcalá,5,3,0,0,0,23,305,BAJA
+Av. Jiménez,7,1,0,0,0,23,944,MEDIA
+Portal Sur,11,0,0,0,0,11,702,MEDIA
+Portal Sur,14,1,1,0,0,26,683,MEDIA
+Alcalá,18,0,0,0,0,19,654,MEDIA
+Alcalá,12,3,0,0,0,26,411,BAJA
+Museo del Oro,16,3,1,0,0,11,609,BAJA
+Av. Jiménez,5,4,1,0,0,36,610,BAJA
+Museo del Oro,16,3,1,0,0,32,480,BAJA
+Calle 72,21,1,0,1,0,20,258,BAJA
+Av. Jiménez,14,0,0,0,0,21,442,BAJA
+Museo del Oro,13,4,1,0,0,19,533,BAJA
+Museo del Oro,10,6,0,0,1,40,570,BAJA
+Museo del Oro,22,1,0,0,0,31,437,BAJA
+Av. Jiménez,5,1,1,0,0,24,830,MEDIA
+Av. Jiménez,10,2,0,0,0,30,493,BAJA
+Portal Norte,7,1,1,0,0,11,1121,ALTA
+Museo del Oro,20,1,1,0,0,35,334,BAJA
+Museo del Oro,13,3,0,0,0,28,280,BAJA
+Alcalá,21,5,1,0,1,19,634,BAJA
+Museo del Oro,16,4,0,0,1,31,352,BAJA
+Av. Jiménez,15,6,1,0,0,10,646,BAJA
+Portal Norte,14,2,1,0,0,25,747,MEDIA
+Calle 72,8,3,1,0,0,39,892,MEDIA
+Av. Jiménez,15,2,0,0,0,33,421,BAJA
+Av. Jiménez,17,0,1,0,0,11,964,ALTA
+Av. Jiménez,22,2,1,0,0,28,676,MEDIA
+Av. Jiménez,14,1,0,1,0,31,195,BAJA
+Portal Sur,21,3,0,0,0,26,603,BAJA
+Portal Norte,22,1,0,0,0,19,430,BAJA
+Calle 72,14,5,1,0,0,31,495,BAJA
+Portal Norte,12,5,0,0,0,23,617,BAJA
+Calle 72,7,6,0,0,0,39,364,BAJA
+Portal Sur,9,0,1,0,0,35,685,MEDIA
+Portal Norte,20,0,1,0,0,38,667,MEDIA
+Av. Jiménez,7,6,1,0,0,23,634,BAJA
+Portal Norte,12,5,0,0,0,31,586,BAJA
+Alcalá,17,4,0,0,0,14,689,MEDIA
+Portal Sur,9,2,0,0,0,33,464,BAJA
+Calle 72,22,3,0,0,0,33,440,BAJA
+Calle 72,16,3,1,0,0,34,571,BAJA
+Portal Norte,5,5,0,0,0,10,702,MEDIA
+Av. Jiménez,9,3,0,0,0,24,507,BAJA
+Portal Sur,18,0,0,0,0,18,1026,ALTA
+Museo del Oro,20,4,0,0,0,38,309,BAJA
+Alcalá,21,5,1,0,0,26,434,BAJA
+Av. Jiménez,20,2,1,0,0,28,627,BAJA
+Calle 72,6,0,0,0,0,23,1071,ALTA
+Av. Jiménez,18,0,0,0,0,13,888,MEDIA
+Calle 72,6,5,0,0,0,29,684,MEDIA
+Alcalá,6,3,0,0,0,28,571,BAJA
+Calle 72,17,3,1,0,0,21,1025,ALTA
+Av. Jiménez,13,6,0,0,0,29,370,BAJA
+Museo del Oro,16,0,0,0,0,22,412,BAJA
+Portal Norte,20,1,1,1,0,30,439,BAJA
+Av. Jiménez,6,5,0,0,0,20,523,BAJA
+Av. Jiménez,14,3,0,0,0,33,520,BAJA
+Calle 72,20,0,0,0,1,37,594,BAJA
+Portal Norte,12,4,0,1,1,25,356,BAJA
+Portal Norte,14,0,0,0,0,10,710,MEDIA
+Portal Norte,13,5,1,0,0,31,656,MEDIA
+Av. Jiménez,21,5,1,1,0,39,188,BAJA
+Portal Norte,5,5,0,0,0,32,495,BAJA
+Alcalá,20,3,0,0,0,21,347,BAJA
+Calle 72,19,1,0,0,0,27,773,MEDIA
+Museo del Oro,19,6,0,0,0,21,424,BAJA
+Portal Sur,12,3,0,0,0,34,651,MEDIA
+Av. Jiménez,14,4,0,0,0,32,613,BAJA
+Alcalá,11,0,0,1,0,29,78,BAJA
+Portal Norte,9,4,1,0,0,22,721,MEDIA
+Calle 72,20,4,1,0,0,15,651,MEDIA
+Calle 72,14,2,0,0,0,29,394,BAJA
+Portal Norte,18,5,1,0,0,20,683,MEDIA
+Calle 72,6,0,0,0,0,38,842,MEDIA
+Calle 72,19,5,1,0,0,11,629,BAJA
+Portal Sur,16,6,0,0,0,36,573,BAJA
+Calle 72,22,3,0,0,0,34,319,BAJA
+Alcalá,7,0,0,0,0,25,800,MEDIA
+Portal Sur,14,3,0,0,1,40,744,MEDIA
+Alcalá,14,3,0,0,0,32,335,BAJA
+Portal Norte,14,3,0,0,0,11,598,BAJA
+Alcalá,5,1,0,0,0,22,247,BAJA
+Museo del Oro,13,4,0,1,0,36,110,BAJA
+Alcalá,10,1,0,0,1,34,436,BAJA
+Av. Jiménez,16,3,0,0,0,14,431,BAJA
+Alcalá,9,4,0,0,0,15,267,BAJA
+Museo del Oro,12,4,0,0,0,38,361,BAJA
+Portal Norte,16,5,0,0,0,11,715,MEDIA
+Av. Jiménez,6,6,0,0,0,39,345,BAJA
+Portal Norte,19,5,1,0,0,26,633,BAJA
+Alcalá,17,5,0,0,0,35,284,BAJA
+Calle 72,6,6,0,0,1,16,859,MEDIA
+Calle 72,6,1,0,0,0,20,874,MEDIA
+Museo del Oro,20,2,0,0,0,32,372,BAJA
+Av. Jiménez,10,3,0,0,0,15,620,BAJA
+Portal Norte,20,3,0,0,0,13,814,MEDIA
+Portal Sur,13,4,1,0,0,28,620,BAJA
+Alcalá,11,0,0,0,0,10,327,BAJA
+Portal Sur,9,0,0,0,0,39,485,BAJA
+Museo del Oro,16,5,0,0,0,30,406,BAJA
+Av. Jiménez,6,5,0,0,0,32,428,BAJA
+Museo del Oro,12,2,1,0,0,25,515,BAJA
+Museo del Oro,11,2,0,1,0,29,56,BAJA
+Portal Norte,7,3,0,0,0,39,886,MEDIA
+Portal Norte,11,3,1,0,0,10,789,MEDIA
+Calle 72,14,1,0,0,0,17,580,BAJA
+Av. Jiménez,17,3,0,0,0,31,776,MEDIA
+Portal Norte,6,5,1,0,0,13,750,MEDIA
+Portal Norte,20,5,0,1,1,17,471,BAJA
+Alcalá,20,5,0,0,0,10,398,BAJA
+Av. Jiménez,17,4,1,0,0,11,1078,ALTA
+Museo del Oro,21,6,0,1,0,23,168,BAJA
+Museo del Oro,12,1,0,0,0,30,340,BAJA
+Portal Sur,19,0,0,0,0,13,1046,ALTA
+Portal Sur,18,0,0,0,0,40,900,MEDIA
+Calle 72,15,6,0,0,1,34,784,MEDIA
+Alcalá,8,4,0,1,0,30,234,BAJA
+Av. Jiménez,15,1,0,0,0,12,518,BAJA
+Alcalá,21,5,1,0,0,26,407,BAJA
+Av. Jiménez,22,2,0,0,0,38,361,BAJA
+Portal Norte,13,4,1,0,0,17,777,MEDIA
+Portal Sur,9,1,1,0,0,26,719,MEDIA
+Portal Norte,18,0,1,1,0,27,798,MEDIA
+Portal Sur,6,1,1,0,0,31,1103,ALTA
+Portal Norte,7,1,1,0,0,38,1004,ALTA
+Calle 72,15,3,0,0,1,14,663,MEDIA
+Museo del Oro,22,0,0,0,0,11,468,BAJA
+Alcalá,10,1,1,0,0,12,347,BAJA
+Av. Jiménez,12,3,0,0,0,18,478,BAJA
+Portal Norte,10,2,0,0,0,20,639,BAJA
+Calle 72,12,4,1,0,0,37,593,BAJA
+Alcalá,5,4,0,0,1,26,722,MEDIA
+Portal Sur,15,6,0,0,0,33,528,BAJA
+Portal Norte,15,5,0,0,0,27,489,BAJA
+Av. Jiménez,10,1,0,0,0,39,448,BAJA
+Calle 72,9,4,0,0,0,20,630,BAJA
+Calle 72,18,4,0,0,0,30,943,MEDIA
+Alcalá,8,4,1,0,0,18,769,MEDIA
+Museo del Oro,5,5,0,0,0,17,407,BAJA
+Calle 72,5,1,0,0,0,40,428,BAJA
+Museo del Oro,20,2,1,0,0,10,654,MEDIA
+Av. Jiménez,11,5,1,0,0,18,699,MEDIA
+Portal Norte,6,6,0,0,0,21,558,BAJA
+Av. Jiménez,20,0,0,0,0,14,603,BAJA
+Calle 72,7,3,0,0,0,33,876,MEDIA
+Calle 72,11,1,1,0,0,21,519,BAJA
+Alcalá,5,1,0,0,0,24,402,BAJA
+Portal Sur,17,0,0,0,0,19,1125,ALTA
+Portal Norte,17,3,1,0,0,37,959,ALTA
+Alcalá,18,4,0,0,0,23,776,MEDIA
+Museo del Oro,9,3,0,0,0,34,381,BAJA
+Alcalá,10,2,1,0,0,29,454,BAJA
+Portal Sur,21,5,1,0,0,39,772,MEDIA
+Av. Jiménez,19,4,0,0,0,28,871,MEDIA
+Museo del Oro,5,6,0,0,0,40,307,BAJA
+Museo del Oro,17,2,0,0,1,31,773,MEDIA
+Portal Sur,19,1,0,0,0,11,1183,ALTA
+Calle 72,15,3,0,0,0,14,598,BAJA
+Calle 72,16,3,1,0,0,34,624,BAJA
+Calle 72,5,3,0,0,0,11,459,BAJA
+Calle 72,5,5,0,0,0,15,587,BAJA
+Portal Norte,5,0,0,0,0,34,597,BAJA
+Portal Norte,7,3,1,0,0,20,1068,ALTA
+Alcalá,22,3,0,0,0,16,428,BAJA
+Portal Norte,16,1,0,0,0,16,661,MEDIA
+Alcalá,19,4,0,0,0,19,590,BAJA
+Portal Norte,10,5,0,0,0,35,557,BAJA
+Portal Sur,21,3,1,0,0,24,675,MEDIA
+Calle 72,8,0,1,0,0,39,752,MEDIA
+Museo del Oro,21,0,0,0,0,32,357,BAJA
+Calle 72,5,2,0,0,0,18,487,BAJA
+Av. Jiménez,5,4,1,0,0,15,782,MEDIA
+Av. Jiménez,6,2,0,0,0,39,821,MEDIA
+Museo del Oro,19,2,1,0,0,37,880,MEDIA
+Av. Jiménez,9,6,0,0,0,13,603,BAJA
+Museo del Oro,13,0,0,0,0,19,488,BAJA
+Portal Sur,13,0,0,0,0,33,491,BAJA
+Av. Jiménez,19,1,0,1,1,40,766,MEDIA
+Av. Jiménez,11,6,0,0,0,38,401,BAJA
+Portal Norte,5,3,1,0,0,18,784,MEDIA
+Av. Jiménez,11,1,0,0,0,37,438,BAJA
+Portal Norte,10,2,0,0,0,32,479,BAJA
+Calle 72,18,6,0,0,0,24,429,BAJA
+Alcalá,18,4,1,0,1,21,1216,ALTA
+Portal Norte,6,1,0,0,0,35,774,MEDIA
+Av. Jiménez,19,1,0,0,0,35,887,MEDIA
+Alcalá,6,0,0,0,0,38,711,MEDIA
+Alcalá,16,5,0,0,0,24,342,BAJA
+Portal Norte,12,0,1,0,0,18,890,MEDIA
+Portal Norte,10,2,0,0,0,36,579,BAJA
+Av. Jiménez,13,2,0,0,0,19,557,BAJA
+Museo del Oro,10,4,1,0,0,33,405,BAJA
+Alcalá,19,4,0,0,0,25,722,MEDIA
+Calle 72,22,5,0,0,0,28,487,BAJA
+Portal Norte,19,2,0,0,0,16,1024,ALTA
+Calle 72,12,2,1,0,0,17,559,BAJA
+Alcalá,14,2,1,0,0,30,284,BAJA
+Portal Norte,13,0,0,0,0,18,627,BAJA
+Av. Jiménez,19,5,1,0,0,30,462,BAJA
+Portal Norte,14,3,0,0,0,40,442,BAJA
+Portal Norte,13,3,0,0,0,12,453,BAJA
+Alcalá,12,6,0,0,0,38,279,BAJA
+Portal Norte,11,1,0,0,1,15,972,ALTA
+Calle 72,14,6,0,0,1,14,772,MEDIA
+Alcalá,17,4,1,0,0,35,897,MEDIA
+Museo del Oro,12,1,0,0,0,16,532,BAJA
+Portal Norte,19,4,1,0,0,30,1098,ALTA
+Av. Jiménez,19,5,0,0,0,13,553,BAJA
+Alcalá,12,2,0,0,0,12,340,BAJA
+Av. Jiménez,21,2,0,0,0,16,589,BAJA
+Museo del Oro,8,5,0,0,0,26,353,BAJA
+Museo del Oro,21,1,0,0,1,18,706,MEDIA
+Museo del Oro,10,0,0,0,0,16,474,BAJA
+Calle 72,15,4,1,0,0,35,492,BAJA
+Alcalá,10,6,1,0,0,15,558,BAJA
+Alcalá,12,3,0,0,0,12,350,BAJA
+Portal Norte,11,0,0,0,0,13,644,BAJA
+Portal Sur,17,3,0,0,0,37,860,MEDIA
+Portal Sur,6,1,1,0,0,24,1114,ALTA
+Portal Sur,20,5,0,0,1,40,943,MEDIA
+Av. Jiménez,21,4,0,0,0,35,358,BAJA
+Av. Jiménez,15,2,0,0,1,18,817,MEDIA
+Alcalá,14,4,0,0,0,34,200,BAJA
+Portal Norte,17,4,0,1,0,24,499,BAJA
+Portal Sur,8,4,0,0,0,27,1043,ALTA
+Alcalá,18,2,0,0,0,26,640,BAJA
+Portal Sur,8,3,0,0,0,33,988,ALTA
+Av. Jiménez,17,0,0,0,0,16,1023,ALTA
+Museo del Oro,10,2,0,0,0,11,473,BAJA
+Portal Norte,18,2,1,0,0,32,1074,ALTA
+Alcalá,19,3,0,0,0,39,537,BAJA
+Av. Jiménez,8,6,1,0,0,27,655,MEDIA
+Portal Norte,16,6,0,0,0,13,627,BAJA
+Portal Sur,13,3,1,0,0,13,642,BAJA
+Museo del Oro,10,4,1,0,0,26,550,BAJA
+Museo del Oro,15,0,0,0,0,37,389,BAJA
+Portal Norte,22,3,1,0,1,29,1034,ALTA
+Portal Sur,5,4,0,0,0,19,820,MEDIA
+Museo del Oro,22,4,1,0,0,29,528,BAJA
+Portal Sur,20,6,0,0,0,14,717,MEDIA
+Portal Sur,14,3,0,0,0,24,703,MEDIA
+Calle 72,15,6,0,0,0,40,289,BAJA
+Calle 72,11,6,1,0,0,29,412,BAJA
+Alcalá,7,4,1,0,0,13,844,MEDIA
+Museo del Oro,15,0,0,0,0,16,526,BAJA
+Av. Jiménez,19,2,1,0,0,11,1041,ALTA
+Calle 72,9,5,1,0,0,22,625,BAJA
+Museo del Oro,17,4,0,0,0,17,864,MEDIA
+Portal Sur,18,6,0,0,1,40,790,MEDIA
+Portal Norte,18,5,0,0,0,19,504,BAJA
+Museo del Oro,11,0,0,1,0,11,181,BAJA
+Alcalá,12,6,0,0,0,23,268,BAJA
+Calle 72,12,2,1,0,0,32,664,MEDIA
+Calle 72,20,5,0,0,0,31,505,BAJA
+Alcalá,21,3,0,0,0,40,169,BAJA
+Portal Norte,12,3,0,0,0,21,735,MEDIA
+Av. Jiménez,22,0,0,0,0,26,511,BAJA
+Av. Jiménez,15,0,0,0,1,27,594,BAJA
+Portal Sur,11,4,0,0,1,10,944,MEDIA
+Portal Norte,5,3,0,0,0,10,791,MEDIA
+Av. Jiménez,15,3,0,0,0,34,370,BAJA
+Portal Norte,16,1,0,0,0,21,589,BAJA
+Portal Sur,22,3,1,0,0,31,585,BAJA
+Museo del Oro,17,0,0,0,0,39,590,BAJA
+Av. Jiménez,5,1,0,1,0,17,171,BAJA
+Av. Jiménez,15,3,0,1,0,34,38,BAJA
+Portal Norte,18,4,0,0,0,16,975,ALTA
+Alcalá,13,4,1,0,0,32,507,BAJA
+Museo del Oro,12,6,0,0,0,14,433,BAJA
+Calle 72,19,5,1,0,0,19,669,MEDIA
+Av. Jiménez,16,2,1,0,0,24,703,MEDIA
+Portal Sur,17,5,0,0,0,25,521,BAJA
+Portal Sur,13,0,0,0,1,10,883,MEDIA
+Av. Jiménez,10,6,0,0,0,36,485,BAJA
+Calle 72,14,2,1,0,0,10,609,BAJA
+Museo del Oro,22,5,0,0,1,37,604,BAJA
+Museo del Oro,15,6,0,0,0,16,558,BAJA
+Museo del Oro,17,4,0,0,0,32,612,BAJA
+Portal Norte,7,6,0,1,0,32,199,BAJA
+Av. Jiménez,22,0,0,0,0,24,480,BAJA
+Museo del Oro,9,1,0,1,0,26,30,BAJA
+Alcalá,22,4,0,0,0,12,319,BAJA
+Museo del Oro,13,3,1,0,0,37,379,BAJA
+Av. Jiménez,21,0,0,0,0,13,561,BAJA
+Museo del Oro,21,5,0,0,0,30,353,BAJA
+Calle 72,18,0,0,0,0,10,1016,ALTA
+Portal Norte,21,6,1,0,0,33,640,BAJA
+Portal Sur,15,1,0,0,0,21,723,MEDIA
+Alcalá,20,3,1,0,1,24,619,BAJA
+Alcalá,8,5,0,0,0,10,284,BAJA
+Museo del Oro,6,3,1,0,0,16,920,MEDIA
+Portal Norte,14,5,0,1,0,23,319,BAJA
+Alcalá,19,4,1,1,0,32,537,BAJA
+Av. Jiménez,18,6,0,0,0,28,589,BAJA
+Calle 72,14,3,1,0,0,18,635,BAJA
+Alcalá,14,6,1,1,0,28,152,BAJA
+Portal Sur,15,3,0,0,0,16,774,MEDIA
+Portal Sur,20,6,0,0,0,27,536,BAJA
+Calle 72,20,5,0,0,0,26,427,BAJA
+Alcalá,6,0,0,0,0,17,960,ALTA
+Av. Jiménez,15,4,0,0,0,16,613,BAJA
+Museo del Oro,11,6,0,0,0,26,405,BAJA
+Portal Sur,19,0,0,0,0,28,1063,ALTA
+Museo del Oro,14,5,0,0,0,40,173,BAJA
+Calle 72,22,0,1,0,0,25,518,BAJA
+Calle 72,12,6,0,0,0,23,381,BAJA
+Av. Jiménez,17,5,0,0,0,24,529,BAJA
+Alcalá,6,1,0,0,0,37,588,BAJA
+Portal Sur,21,5,0,0,0,19,654,MEDIA
+Av. Jiménez,7,0,0,0,0,21,889,MEDIA
+Portal Sur,11,3,0,0,0,21,504,BAJA
+Portal Sur,20,6,0,0,0,29,657,MEDIA
+Av. Jiménez,22,1,0,0,0,31,313,BAJA
+Av. Jiménez,13,1,0,0,0,24,438,BAJA
+Alcalá,13,2,0,0,0,18,227,BAJA
+Museo del Oro,5,2,0,0,0,31,264,BAJA
+Portal Norte,22,0,0,1,0,18,328,BAJA
+Portal Sur,5,3,0,0,0,37,637,BAJA
+Museo del Oro,5,1,0,0,0,29,221,BAJA
+Museo del Oro,13,0,0,0,0,23,337,BAJA
+Portal Sur,5,1,0,0,1,17,768,MEDIA
+Alcalá,7,0,1,0,0,33,714,MEDIA
+Calle 72,16,6,0,0,1,28,688,MEDIA
+Av. Jiménez,17,6,0,1,0,37,179,BAJA
+Calle 72,10,2,0,1,1,31,195,BAJA
+Museo del Oro,19,6,0,0,0,34,360,BAJA
+Av. Jiménez,15,3,0,0,0,12,490,BAJA
+Av. Jiménez,9,6,1,0,0,10,603,BAJA
+Portal Sur,17,1,0,0,0,30,985,ALTA
+Av. Jiménez,15,1,0,0,0,10,630,BAJA
+Av. Jiménez,19,5,0,0,0,37,410,BAJA
+Av. Jiménez,7,1,0,0,0,37,731,MEDIA
+Calle 72,9,5,0,0,0,28,424,BAJA
+Portal Norte,10,2,0,0,0,32,470,BAJA
+Portal Sur,11,2,1,0,0,23,790,MEDIA
+Portal Norte,20,3,0,0,0,39,572,BAJA
+Calle 72,18,5,0,0,0,11,615,BAJA
+Portal Sur,14,0,1,0,0,19,764,MEDIA
+Portal Norte,14,5,1,0,0,31,744,MEDIA
+Museo del Oro,20,5,1,0,0,34,354,BAJA
+Portal Sur,13,5,0,0,0,17,801,MEDIA
+Museo del Oro,9,6,0,0,0,34,234,BAJA
+Calle 72,7,5,1,0,0,24,414,BAJA
+Portal Norte,10,3,0,0,0,36,613,BAJA
+Alcalá,16,3,1,0,0,18,395,BAJA
+Calle 72,13,2,0,1,1,31,373,BAJA
+Portal Sur,12,5,1,0,0,16,702,MEDIA
+Calle 72,13,2,0,0,0,14,705,MEDIA
+Portal Norte,22,4,0,0,0,31,680,MEDIA
+Portal Sur,22,0,0,0,0,31,698,MEDIA
+Alcalá,7,2,0,0,0,19,733,MEDIA
+Alcalá,7,1,0,0,0,28,750,MEDIA
+Portal Sur,9,3,1,0,0,39,642,BAJA
+Calle 72,20,3,0,0,0,20,570,BAJA
+Alcalá,13,5,0,0,0,25,257,BAJA
+Portal Sur,20,3,0,0,1,16,1041,ALTA
+Calle 72,16,1,0,0,1,26,657,MEDIA
+Portal Norte,14,3,0,0,0,37,470,BAJA
+Alcalá,10,0,0,0,0,29,229,BAJA
+Calle 72,11,5,1,0,0,14,651,MEDIA
+Portal Sur,7,5,0,0,1,32,787,MEDIA
+Portal Norte,14,1,0,0,1,23,871,MEDIA
+Calle 72,10,1,1,0,0,10,622,BAJA
+Calle 72,10,0,0,1,0,29,189,BAJA
+Calle 72,5,2,1,0,0,19,727,MEDIA
+Portal Sur,19,0,0,0,0,40,926,MEDIA
+Alcalá,21,6,0,0,0,40,377,BAJA
+Alcalá,13,0,0,0,0,30,350,BAJA
+Portal Sur,14,4,0,0,0,29,757,MEDIA
+Calle 72,21,3,0,0,0,19,481,BAJA
+Alcalá,14,1,0,0,0,12,235,BAJA
+Museo del Oro,16,5,0,0,0,11,398,BAJA
+Museo del Oro,12,0,0,0,0,24,328,BAJA
+Portal Sur,14,6,1,0,0,19,690,MEDIA
+Portal Sur,14,5,0,0,0,39,350,BAJA
+Alcalá,17,4,1,0,0,19,928,MEDIA
+Museo del Oro,15,6,1,1,0,16,95,BAJA
+Museo del Oro,14,2,1,0,0,35,504,BAJA
+Portal Sur,6,1,1,1,0,35,945,MEDIA
+Calle 72,21,1,1,0,0,21,532,BAJA
+Calle 72,20,6,0,0,0,12,559,BAJA
+Museo del Oro,8,2,0,0,1,13,1060,ALTA
+Portal Norte,10,5,1,0,0,26,750,MEDIA
+Calle 72,22,2,0,0,0,36,288,BAJA
+Portal Sur,10,6,1,0,0,21,743,MEDIA
+Alcalá,19,6,1,0,1,10,840,MEDIA
+Museo del Oro,19,2,0,0,0,21,790,MEDIA
+Av. Jiménez,20,3,0,0,0,10,450,BAJA
+Av. Jiménez,5,5,0,0,0,23,601,BAJA
+Portal Sur,13,1,0,0,0,24,512,BAJA
+Museo del Oro,15,0,0,0,0,32,334,BAJA
+Portal Norte,20,2,1,0,0,12,815,MEDIA
+Museo del Oro,9,4,0,0,0,24,386,BAJA
+Av. Jiménez,10,0,0,0,0,15,753,MEDIA
+Portal Sur,8,2,1,0,0,24,1195,ALTA
+Alcalá,18,6,0,0,0,40,184,BAJA
+Alcalá,22,0,1,0,0,32,416,BAJA
+Museo del Oro,7,0,0,0,0,36,721,MEDIA
+Av. Jiménez,9,2,1,0,0,11,698,MEDIA
+Av. Jiménez,10,0,0,0,0,33,462,BAJA
+Calle 72,21,0,0,0,0,36,349,BAJA
+Alcalá,13,1,0,0,0,30,277,BAJA
+Alcalá,10,0,0,0,0,34,196,BAJA
+Alcalá,10,5,0,0,0,11,222,BAJA
+Calle 72,15,0,1,0,0,32,619,BAJA
+Calle 72,11,3,1,0,0,35,465,BAJA
+Alcalá,7,4,0,0,0,17,749,MEDIA
+Museo del Oro,19,4,0,0,0,24,715,MEDIA
+Portal Sur,12,4,1,0,0,23,684,MEDIA
+Av. Jiménez,9,2,1,0,0,13,599,BAJA
+Av. Jiménez,18,6,0,1,0,13,338,BAJA
+Museo del Oro,18,0,0,0,0,19,901,MEDIA
+Portal Sur,7,0,1,0,0,13,1204,ALTA
+Av. Jiménez,6,5,0,0,0,25,447,BAJA
+Portal Sur,5,0,0,0,0,11,559,BAJA
+Calle 72,18,1,1,0,0,10,1124,ALTA
+Av. Jiménez,16,1,0,0,0,29,412,BAJA
+Alcalá,19,0,1,0,0,17,769,MEDIA
+Alcalá,16,0,0,0,0,21,316,BAJA
+Alcalá,12,4,1,0,0,20,413,BAJA
+Calle 72,15,4,1,0,1,24,705,MEDIA
+Alcalá,18,0,1,0,0,24,706,MEDIA
+Alcalá,12,6,1,0,0,14,503,BAJA
+Alcalá,21,0,1,0,0,10,448,BAJA
+Portal Norte,21,4,0,0,0,23,623,BAJA
+Portal Sur,19,5,1,0,0,27,730,MEDIA
+Alcalá,22,3,1,0,0,33,446,BAJA
+Portal Sur,12,3,0,0,0,16,597,BAJA
+Calle 72,7,0,0,1,0,12,647,BAJA
+Portal Sur,13,1,0,0,0,28,643,BAJA
+Portal Norte,18,5,0,0,0,37,448,BAJA
+Av. Jiménez,19,2,1,0,0,17,1148,ALTA
+Museo del Oro,11,0,0,0,0,12,315,BAJA
+Av. Jiménez,10,5,0,0,0,22,441,BAJA
+Portal Sur,13,4,0,0,0,27,462,BAJA
+Calle 72,19,0,0,0,0,29,767,MEDIA
+Museo del Oro,6,0,1,1,0,13,650,BAJA
+Museo del Oro,10,0,0,0,0,30,407,BAJA
+Museo del Oro,9,0,0,0,0,20,388,BAJA
+Calle 72,19,4,0,0,0,10,892,MEDIA
+Calle 72,13,0,1,0,0,38,368,BAJA
+Calle 72,6,4,1,0,0,26,867,MEDIA
+Av. Jiménez,9,1,0,0,0,19,551,BAJA
+Museo del Oro,5,6,0,0,0,35,381,BAJA
+Av. Jiménez,13,5,0,0,0,34,402,BAJA
+Av. Jiménez,22,2,0,0,1,16,891,MEDIA
+Calle 72,15,3,1,0,0,39,410,BAJA
+Calle 72,20,0,0,0,0,26,413,BAJA
+Museo del Oro,18,0,0,0,0,18,788,MEDIA
+Portal Sur,20,3,0,0,0,23,744,MEDIA
+Calle 72,10,0,0,0,0,15,521,BAJA
+Alcalá,22,4,0,0,0,36,80,BAJA
+Museo del Oro,9,2,0,0,0,18,488,BAJA
+Calle 72,12,0,0,0,0,23,610,BAJA
+Av. Jiménez,17,3,0,1,0,12,648,BAJA
+Portal Norte,10,3,0,0,0,39,414,BAJA
+Portal Norte,9,5,1,0,0,19,795,MEDIA
+Av. Jiménez,7,1,0,0,0,30,1017,ALTA
+Av. Jiménez,5,3,0,0,0,20,588,BAJA
+Portal Sur,14,5,0,0,0,27,468,BAJA
+Portal Norte,22,1,1,0,0,27,738,MEDIA
+Alcalá,8,5,1,0,0,19,478,BAJA
+Calle 72,12,5,1,0,0,23,506,BAJA
+Portal Norte,21,3,0,0,0,28,655,MEDIA
+Portal Sur,18,6,1,0,0,16,819,MEDIA
+Portal Sur,5,6,0,0,0,14,781,MEDIA
+Museo del Oro,14,1,1,0,0,15,465,BAJA
+Portal Norte,7,6,1,0,0,22,740,MEDIA
+Portal Norte,9,0,0,0,0,16,552,BAJA
+Av. Jiménez,9,0,0,0,0,18,552,BAJA
+Av. Jiménez,16,0,0,0,0,31,572,BAJA
+Alcalá,8,2,0,0,0,30,546,BAJA
+Calle 72,9,6,1,0,1,39,626,BAJA
+Calle 72,9,4,0,0,0,33,478,BAJA
+Alcalá,11,4,1,0,0,23,421,BAJA
+Portal Norte,16,0,1,0,0,38,706,MEDIA
+Portal Norte,12,3,0,0,0,38,427,BAJA
+Av. Jiménez,10,2,0,0,0,16,548,BAJA
+Av. Jiménez,14,3,0,0,0,15,605,BAJA
+Museo del Oro,16,1,1,0,0,37,435,BAJA
+Alcalá,5,1,0,0,0,37,75,BAJA
+Alcalá,21,6,0,0,0,36,450,BAJA
+Calle 72,21,3,0,1,0,24,173,BAJA
+Alcalá,15,2,1,0,0,36,237,BAJA
+Museo del Oro,15,0,0,0,0,33,347,BAJA
+Portal Norte,17,5,0,0,0,32,562,BAJA
+Alcalá,12,3,1,0,0,28,472,BAJA
+Portal Norte,11,2,0,0,1,18,936,MEDIA
+Museo del Oro,11,4,0,0,0,33,305,BAJA
+Portal Sur,7,0,0,0,0,37,800,MEDIA
+Calle 72,20,3,0,0,0,37,415,BAJA
+Calle 72,10,6,0,0,1,28,551,BAJA
+Av. Jiménez,10,3,0,0,0,11,671,MEDIA
+Alcalá,22,0,0,0,0,32,189,BAJA
+Calle 72,14,1,0,0,0,17,549,BAJA
+Museo del Oro,16,0,0,0,0,16,372,BAJA
+Av. Jiménez,9,3,0,0,0,12,529,BAJA
+Portal Norte,9,2,0,0,0,14,572,BAJA
+Portal Sur,18,0,1,1,0,25,887,MEDIA
+Portal Sur,13,4,1,0,0,18,722,MEDIA
+Museo del Oro,7,1,0,0,0,21,855,MEDIA
+Calle 72,20,2,1,0,0,25,522,BAJA
+Portal Norte,12,6,1,1,0,26,365,BAJA
+Av. Jiménez,17,0,0,0,0,22,911,MEDIA
+Museo del Oro,11,1,1,0,0,24,508,BAJA
+Museo del Oro,15,2,1,0,0,37,344,BAJA
+Calle 72,18,3,0,0,0,18,948,MEDIA
+Museo del Oro,20,1,0,0,0,10,438,BAJA
+Calle 72,8,6,0,0,0,34,440,BAJA
+Portal Sur,17,0,0,0,0,12,1087,ALTA
+Portal Sur,21,6,1,0,0,34,723,MEDIA
+Museo del Oro,16,3,0,0,0,20,367,BAJA
+Portal Norte,7,0,0,0,0,36,841,MEDIA
+Alcalá,8,0,0,0,0,15,784,MEDIA
+Portal Norte,8,0,1,0,0,15,1111,ALTA
+Alcalá,6,2,0,0,0,22,825,MEDIA
+Portal Norte,18,2,1,0,0,22,1113,ALTA
+Museo del Oro,22,4,0,0,0,32,218,BAJA
+Portal Norte,14,2,0,0,0,30,493,BAJA
+Portal Norte,15,5,0,0,0,40,400,BAJA
+Portal Sur,18,2,0,0,0,30,1066,ALTA
+Portal Sur,12,1,0,0,0,16,726,MEDIA
+Portal Norte,13,1,0,0,0,12,643,BAJA
+Alcalá,15,2,0,0,0,18,355,BAJA
+Calle 72,10,5,0,0,0,40,353,BAJA
+Calle 72,6,1,1,0,0,33,991,ALTA
+Calle 72,15,1,1,0,0,32,570,BAJA
+Av. Jiménez,19,6,0,0,0,18,588,BAJA
+Calle 72,6,4,1,0,0,24,961,ALTA
+Av. Jiménez,8,1,0,0,0,31,803,MEDIA
+Calle 72,9,6,0,0,0,39,419,BAJA
+Portal Norte,19,1,0,0,0,28,1076,ALTA
+Av. Jiménez,14,1,0,0,0,10,668,MEDIA
+Portal Sur,14,3,1,0,0,36,791,MEDIA
+Portal Sur,16,4,0,0,0,38,545,BAJA
+Av. Jiménez,9,1,0,0,0,11,496,BAJA
+Calle 72,17,5,0,0,0,22,398,BAJA
+Portal Sur,5,1,0,0,0,40,630,BAJA
+Portal Sur,7,5,0,0,0,39,377,BAJA
+Portal Sur,19,0,0,0,0,39,1046,ALTA
+Alcalá,16,3,0,0,0,40,137,BAJA
+Portal Sur,8,4,0,0,0,10,1254,ALTA
+Alcalá,12,1,0,0,0,14,350,BAJA
+Av. Jiménez,5,4,1,0,0,25,668,MEDIA
+Av. Jiménez,17,4,0,0,0,28,1063,ALTA
+Calle 72,18,4,0,0,0,22,842,MEDIA
+Calle 72,10,2,0,0,1,18,714,MEDIA
+Portal Sur,11,5,0,0,0,17,602,BAJA
+Portal Sur,9,5,0,0,0,28,512,BAJA
+Portal Sur,12,2,0,0,0,40,494,BAJA
+Calle 72,9,5,0,0,0,35,346,BAJA
+Av. Jiménez,9,6,0,0,0,15,450,BAJA
+Calle 72,12,5,0,0,0,14,499,BAJA
+Alcalá,20,5,0,0,0,18,368,BAJA
+Calle 72,18,5,0,0,0,32,336,BAJA
+Portal Norte,10,5,0,0,0,10,647,BAJA
+Museo del Oro,21,2,0,0,0,31,447,BAJA
+Alcalá,8,5,1,0,0,27,284,BAJA
+Alcalá,21,1,0,0,0,30,415,BAJA
+Portal Norte,10,2,1,0,0,36,570,BAJA
+Calle 72,14,6,0,0,0,28,448,BAJA
+Portal Norte,8,1,0,0,0,29,1048,ALTA
+Calle 72,18,5,0,0,0,24,583,BAJA
+Museo del Oro,10,2,1,0,0,30,498,BAJA
+Calle 72,20,1,0,0,0,21,418,BAJA
+Portal Norte,6,0,0,0,1,12,1235,ALTA
+Museo del Oro,14,3,0,0,0,10,414,BAJA
+Portal Norte,7,3,0,0,0,32,1079,ALTA
+Calle 72,21,3,1,0,0,29,515,BAJA
+Portal Norte,12,0,0,0,0,22,614,BAJA
+Portal Norte,17,1,0,0,0,33,838,MEDIA
+Av. Jiménez,20,0,0,1,0,24,103,BAJA
+Alcalá,14,2,0,0,0,17,340,BAJA
+Portal Sur,6,6,1,0,1,28,936,MEDIA
+Portal Norte,8,1,1,0,1,21,1344,ALTA
+Portal Norte,8,4,1,0,0,40,882,MEDIA
+Av. Jiménez,21,0,0,0,0,32,442,BAJA
+Museo del Oro,21,3,0,0,0,33,446,BAJA
+Portal Sur,13,6,0,0,0,31,506,BAJA
+Portal Sur,21,2,0,0,0,31,646,BAJA
+Av. Jiménez,9,1,1,0,1,33,535,BAJA
+Calle 72,17,3,0,0,0,23,798,MEDIA
+Portal Norte,12,1,0,0,0,35,357,BAJA
+Portal Norte,9,6,0,0,0,11,753,MEDIA
+Portal Norte,9,5,1,0,0,30,730,MEDIA
+Alcalá,12,4,0,0,1,26,451,BAJA
+Calle 72,11,4,1,0,0,10,683,MEDIA
+Portal Sur,8,4,1,0,0,30,1196,ALTA
+Museo del Oro,11,5,1,0,0,10,689,MEDIA
+Museo del Oro,7,3,0,0,0,31,702,MEDIA
+Av. Jiménez,22,6,0,0,1,26,557,BAJA
+Portal Sur,11,2,0,0,0,28,520,BAJA
+Portal Norte,6,0,1,0,0,28,1133,ALTA
+Portal Norte,15,4,1,0,0,19,894,MEDIA
+Av. Jiménez,20,4,0,0,0,29,462,BAJA
+Av. Jiménez,11,6,0,0,1,16,745,MEDIA
+Museo del Oro,20,2,0,0,1,33,764,MEDIA
+Portal Sur,15,2,0,0,0,12,720,MEDIA
+Museo del Oro,18,3,0,0,1,14,988,ALTA
+Calle 72,10,2,0,0,0,31,404,BAJA
+Calle 72,5,5,1,0,0,11,734,MEDIA
+Portal Sur,11,2,0,0,0,40,514,BAJA
+Calle 72,21,5,0,0,0,10,604,BAJA
+Museo del Oro,19,2,0,0,0,26,636,BAJA
+Museo del Oro,19,1,0,0,0,40,565,BAJA
+Portal Sur,20,6,0,0,0,30,521,BAJA
+Portal Sur,11,3,0,0,0,29,563,BAJA
+Av. Jiménez,10,4,0,0,0,31,481,BAJA
+Calle 72,21,4,0,0,0,31,465,BAJA
+Av. Jiménez,15,2,0,0,0,15,747,MEDIA
+Av. Jiménez,10,6,0,0,0,19,467,BAJA
+Calle 72,10,2,0,0,0,15,485,BAJA
+Museo del Oro,20,6,0,0,0,16,367,BAJA
+Calle 72,5,3,0,0,0,16,590,BAJA
+Museo del Oro,6,0,0,0,0,29,837,MEDIA
+Portal Sur,18,0,0,0,0,38,896,MEDIA
+Alcalá,5,6,0,0,0,27,443,BAJA
+Portal Norte,8,3,1,0,1,10,1373,ALTA
+Portal Sur,22,2,0,0,0,31,656,MEDIA
+Portal Norte,12,5,0,0,0,26,680,MEDIA
+Av. Jiménez,18,4,0,0,0,34,727,MEDIA
+Calle 72,13,4,1,0,0,21,640,BAJA
+Portal Norte,6,4,0,0,1,23,1014,ALTA
+Calle 72,8,1,1,0,0,30,1006,ALTA
+Portal Norte,18,0,0,0,0,31,846,MEDIA
+Portal Sur,6,5,1,1,0,16,529,BAJA
+Portal Norte,15,0,0,0,0,28,612,BAJA
+Av. Jiménez,11,5,0,0,0,39,496,BAJA
+Portal Sur,11,0,0,0,0,12,759,MEDIA
+Alcalá,22,1,0,0,0,20,324,BAJA
+Alcalá,15,4,1,0,1,26,624,BAJA
+Portal Norte,16,4,1,0,0,38,606,BAJA
+Alcalá,11,5,0,0,0,40,111,BAJA
+Museo del Oro,11,4,0,0,0,28,335,BAJA
+Calle 72,17,0,0,0,0,26,821,MEDIA
+Av. Jiménez,5,5,0,0,0,22,445,BAJA
+Alcalá,9,1,0,0,0,23,163,BAJA
+Av. Jiménez,15,0,0,0,0,32,346,BAJA
+Calle 72,16,6,0,0,0,26,192,BAJA
+Alcalá,6,1,1,0,0,27,773,MEDIA
+Alcalá,19,3,1,0,0,36,773,MEDIA
+Alcalá,14,3,1,0,0,14,261,BAJA
+Alcalá,9,5,0,0,0,39,225,BAJA
+Alcalá,18,0,1,0,0,31,764,MEDIA
+Av. Jiménez,22,0,0,1,0,28,78,BAJA
+Calle 72,12,2,0,0,0,27,404,BAJA
+Museo del Oro,10,3,0,0,0,27,442,BAJA
+Calle 72,10,5,1,0,0,27,480,BAJA
+Av. Jiménez,15,4,0,0,0,20,526,BAJA
+Museo del Oro,5,1,1,0,0,32,476,BAJA
+Alcalá,13,6,0,0,0,17,272,BAJA
+Calle 72,5,3,1,0,0,30,621,BAJA
+Calle 72,5,6,0,0,0,26,476,BAJA
+Portal Sur,12,6,1,0,0,21,734,MEDIA
+Portal Norte,18,0,0,0,0,34,1105,ALTA
+Museo del Oro,20,3,0,0,0,19,487,BAJA
+Portal Sur,6,2,1,0,1,30,1215,ALTA
+Museo del Oro,9,3,0,0,0,17,387,BAJA
+Av. Jiménez,12,2,0,0,0,16,741,MEDIA
+Portal Sur,15,3,1,0,1,27,889,MEDIA
+Av. Jiménez,22,3,0,0,0,40,405,BAJA
+Portal Sur,17,1,1,0,0,19,1264,ALTA
+Av. Jiménez,14,2,0,0,1,13,864,MEDIA
+Portal Norte,6,1,1,0,0,13,1226,ALTA
+Museo del Oro,6,5,0,0,0,25,429,BAJA
+Portal Norte,7,4,0,0,0,34,918,MEDIA
+Alcalá,16,2,1,0,0,32,305,BAJA
+Museo del Oro,10,2,0,0,0,16,459,BAJA
+Av. Jiménez,9,0,0,0,0,35,398,BAJA
+Av. Jiménez,17,2,0,0,0,15,911,MEDIA
+Museo del Oro,19,6,0,0,0,27,477,BAJA
+Calle 72,12,0,0,0,1,36,604,BAJA
+Calle 72,20,1,0,0,0,35,526,BAJA
+Av. Jiménez,18,5,1,0,1,31,845,MEDIA
+Calle 72,17,3,0,0,0,20,867,MEDIA
+Portal Sur,20,0,0,0,0,33,417,BAJA
+Portal Norte,8,3,0,0,0,21,1164,ALTA
+Portal Sur,18,5,0,0,0,20,640,BAJA
+Av. Jiménez,22,2,0,0,0,26,302,BAJA
+Museo del Oro,22,2,1,0,0,29,545,BAJA
+Portal Norte,15,4,0,0,0,16,620,BAJA
+Av. Jiménez,18,4,0,0,0,38,737,MEDIA
+Portal Sur,20,6,1,0,0,36,738,MEDIA
+Calle 72,20,1,0,0,1,18,538,BAJA
+Portal Norte,21,1,0,0,1,17,811,MEDIA
+Museo del Oro,19,1,0,0,0,12,824,MEDIA
+Portal Norte,11,4,0,0,0,22,656,MEDIA
+Calle 72,18,3,0,0,0,15,1089,ALTA
+Av. Jiménez,12,2,1,0,0,38,512,BAJA
+Museo del Oro,19,4,0,0,1,37,985,ALTA
+Museo del Oro,19,2,0,0,0,35,930,MEDIA
+Portal Sur,21,1,0,0,0,18,652,MEDIA
+Alcalá,15,3,1,0,0,31,411,BAJA
+Portal Norte,13,3,1,0,0,25,591,BAJA
+Av. Jiménez,7,2,1,0,1,18,1459,ALTA
+Portal Norte,16,3,0,0,0,26,507,BAJA
+Portal Norte,15,6,1,0,0,15,771,MEDIA
+Calle 72,14,1,0,0,0,39,385,BAJA
+Museo del Oro,17,1,0,0,0,15,837,MEDIA
+Alcalá,20,3,0,0,0,19,291,BAJA
+Portal Sur,7,0,1,0,0,16,1203,ALTA
+Museo del Oro,12,1,0,0,0,26,505,BAJA
+Portal Sur,18,3,0,0,0,30,1162,ALTA
+Calle 72,19,3,0,0,0,39,752,MEDIA
+Alcalá,19,4,0,0,0,22,672,MEDIA
+Alcalá,19,0,1,0,0,16,799,MEDIA
+Portal Norte,20,5,1,0,0,10,995,ALTA
+Av. Jiménez,22,3,0,0,1,28,732,MEDIA
+Portal Sur,15,1,0,0,0,40,609,BAJA
+Av. Jiménez,9,2,0,0,1,11,880,MEDIA
+Alcalá,15,1,1,0,0,40,497,BAJA
+Alcalá,17,3,0,0,0,18,712,MEDIA
+Av. Jiménez,6,3,0,0,0,38,723,MEDIA
+Portal Norte,18,3,0,0,0,12,1197,ALTA
+Av. Jiménez,14,3,0,0,0,37,490,BAJA
+Calle 72,21,6,0,0,0,20,517,BAJA
+Av. Jiménez,8,6,0,0,1,18,905,MEDIA
+Museo del Oro,21,3,1,1,1,16,535,BAJA
+Av. Jiménez,13,6,0,0,0,14,682,MEDIA
+Calle 72,15,5,0,0,0,34,416,BAJA
+Calle 72,16,5,0,0,0,12,600,BAJA
+Portal Sur,15,1,0,0,0,24,658,MEDIA
+Portal Norte,21,3,0,0,0,39,460,BAJA
+Calle 72,8,2,0,1,0,22,552,BAJA
+Alcalá,18,0,1,0,0,35,719,MEDIA
+Portal Norte,22,0,0,0,0,31,555,BAJA
+Av. Jiménez,8,4,1,0,0,34,920,MEDIA
+Calle 72,9,2,0,0,0,39,401,BAJA
+Portal Norte,13,5,0,0,0,13,674,MEDIA
+Av. Jiménez,18,4,0,0,0,19,942,MEDIA
+Museo del Oro,22,0,1,0,0,19,544,BAJA
+Calle 72,19,5,1,0,0,12,603,BAJA
+Portal Norte,19,3,0,0,0,13,1019,ALTA
+Portal Norte,12,3,0,0,0,13,508,BAJA
+Museo del Oro,16,6,0,0,0,39,276,BAJA
+Alcalá,8,4,0,0,0,36,545,BAJA
+Calle 72,13,0,1,0,0,28,560,BAJA
+Calle 72,8,1,0,0,0,36,727,MEDIA
+Av. Jiménez,5,2,0,0,0,20,356,BAJA
+Av. Jiménez,20,0,1,0,0,24,796,MEDIA
+Calle 72,19,1,1,0,0,37,879,MEDIA
+Portal Norte,14,5,1,0,0,14,872,MEDIA
+Museo del Oro,5,0,0,0,0,14,394,BAJA
+Av. Jiménez,6,1,0,0,0,26,1020,ALTA
+Av. Jiménez,7,3,0,0,0,17,846,MEDIA
+Calle 72,17,0,0,0,0,30,834,MEDIA
+Alcalá,8,1,0,0,0,29,579,BAJA
+Museo del Oro,9,6,0,0,0,20,608,BAJA
+Av. Jiménez,20,4,0,0,0,13,542,BAJA
+Calle 72,20,6,0,0,0,12,594,BAJA
+Portal Sur,18,2,0,0,0,23,1058,ALTA
+Alcalá,10,4,0,0,0,19,324,BAJA
+Portal Norte,15,1,0,0,0,11,695,MEDIA
+Alcalá,8,2,0,0,0,31,763,MEDIA
+Portal Sur,20,1,1,0,0,39,699,MEDIA
+Portal Norte,6,5,1,0,1,40,863,MEDIA
+Portal Sur,18,1,0,0,0,13,1124,ALTA
+Portal Norte,14,1,0,0,0,15,783,MEDIA
+Portal Norte,18,3,0,0,0,23,949,MEDIA
+Portal Norte,13,3,0,0,0,38,344,BAJA
+Av. Jiménez,7,2,0,0,0,27,790,MEDIA
+Museo del Oro,18,2,1,1,0,24,514,BAJA
+Av. Jiménez,16,2,0,0,0,38,341,BAJA
+Portal Norte,13,6,0,0,0,30,472,BAJA
+Calle 72,11,4,1,0,0,40,478,BAJA
+Alcalá,11,6,0,0,0,36,244,BAJA
+Alcalá,13,6,0,0,0,40,219,BAJA
+Portal Sur,9,4,0,0,0,27,540,BAJA
+Portal Norte,10,5,1,0,0,21,794,MEDIA
+Portal Sur,10,0,0,0,0,11,737,MEDIA
+Portal Sur,5,6,0,0,0,32,695,MEDIA
+Museo del Oro,21,3,1,0,0,18,600,BAJA
+Portal Norte,9,4,0,0,0,10,632,BAJA
+Alcalá,7,1,1,0,0,34,860,MEDIA
+Av. Jiménez,7,0,0,0,0,23,924,MEDIA
+Portal Norte,22,6,0,0,0,27,622,BAJA
+Calle 72,13,3,0,0,0,34,454,BAJA
+Av. Jiménez,10,0,1,0,0,20,630,BAJA
+Portal Norte,12,4,0,0,0,35,518,BAJA
+Calle 72,6,0,0,0,0,28,821,MEDIA
+Av. Jiménez,10,3,1,0,0,27,530,BAJA
+Alcalá,9,4,0,0,0,18,160,BAJA
+Portal Norte,19,5,1,0,0,34,580,BAJA
+Museo del Oro,6,3,0,0,0,17,834,MEDIA
+Alcalá,12,2,0,0,0,29,353,BAJA
+Portal Sur,19,5,1,0,0,35,734,MEDIA
+Alcalá,20,1,1,0,0,13,460,BAJA
+Calle 72,14,0,0,0,0,22,414,BAJA
+Portal Sur,9,1,1,0,0,31,680,MEDIA
+Alcalá,11,5,1,0,0,18,374,BAJA
+Calle 72,9,3,1,0,0,10,491,BAJA
+Av. Jiménez,16,0,0,0,0,22,384,BAJA
+Museo del Oro,10,1,0,0,0,25,480,BAJA
+Av. Jiménez,16,0,0,0,0,38,561,BAJA
+Calle 72,16,5,0,0,0,35,450,BAJA
+Alcalá,21,3,0,0,0,15,345,BAJA
+Alcalá,11,0,0,0,1,18,471,BAJA
+Av. Jiménez,22,1,0,0,0,15,537,BAJA
+Portal Sur,12,4,0,0,0,38,581,BAJA
+Av. Jiménez,17,4,0,0,0,20,986,ALTA
+Portal Sur,16,5,0,0,0,37,593,BAJA
+Museo del Oro,19,0,0,0,0,11,951,ALTA
+Av. Jiménez,13,0,1,0,0,27,753,MEDIA
+Portal Norte,19,0,1,1,0,12,836,MEDIA
+Museo del Oro,11,2,0,0,0,27,582,BAJA
+Calle 72,13,5,0,0,0,10,378,BAJA
+Calle 72,13,4,0,0,0,14,454,BAJA
+Calle 72,17,1,0,0,0,14,932,MEDIA
+Alcalá,16,4,1,0,0,31,418,BAJA
+Portal Norte,6,4,0,0,0,29,931,MEDIA
+Portal Sur,19,1,0,0,0,27,958,ALTA
+Alcalá,18,5,0,0,1,16,770,MEDIA
+Portal Norte,6,2,1,0,0,18,1089,ALTA
+Museo del Oro,22,0,1,0,1,21,682,MEDIA
+Museo del Oro,16,2,1,0,0,40,535,BAJA
+Av. Jiménez,6,5,0,1,0,31,222,BAJA
+Portal Sur,13,4,1,0,0,10,908,MEDIA
+Av. Jiménez,20,1,0,0,0,10,596,BAJA
+Av. Jiménez,10,5,0,0,0,20,410,BAJA
+Av. Jiménez,21,2,1,0,0,16,671,MEDIA
+Portal Sur,12,3,0,0,0,22,507,BAJA
+Museo del Oro,9,0,1,0,0,40,419,BAJA
+Av. Jiménez,11,6,0,0,0,16,596,BAJA
+Alcalá,14,5,0,0,0,28,358,BAJA
+Portal Sur,17,1,0,0,0,24,1009,ALTA
+Alcalá,21,3,1,0,1,30,690,MEDIA
+Portal Sur,8,5,0,0,0,26,532,BAJA
+Av. Jiménez,22,3,1,0,0,25,687,MEDIA
+Portal Sur,14,1,0,0,0,18,706,MEDIA
+Calle 72,7,6,1,0,1,39,672,MEDIA
+Calle 72,21,1,0,0,0,18,534,BAJA
+Av. Jiménez,11,2,0,0,0,14,643,BAJA
+Alcalá,16,2,1,0,0,12,494,BAJA
+Museo del Oro,17,6,1,0,0,12,502,BAJA
+Av. Jiménez,5,3,0,0,0,20,534,BAJA
+Av. Jiménez,8,5,0,0,0,35,474,BAJA
+Calle 72,17,6,0,0,0,14,450,BAJA
+Museo del Oro,10,6,1,0,0,10,499,BAJA
+Av. Jiménez,5,5,0,0,1,26,776,MEDIA
+Museo del Oro,5,6,1,0,0,27,544,BAJA
+Av. Jiménez,19,6,0,0,1,27,900,MEDIA
+Calle 72,7,6,1,0,0,10,713,MEDIA
+Alcalá,6,4,0,0,0,16,647,BAJA
+Av. Jiménez,15,0,0,0,0,20,683,MEDIA
+Portal Norte,7,0,0,0,0,32,1012,ALTA
+Av. Jiménez,16,5,0,0,0,30,300,BAJA
+Museo del Oro,14,2,0,0,0,35,228,BAJA
+Portal Norte,16,5,0,0,0,26,525,BAJA
+Calle 72,13,6,1,0,0,22,655,MEDIA
+Portal Norte,19,4,0,1,0,27,468,BAJA
+Museo del Oro,16,5,0,0,0,21,384,BAJA
+Portal Sur,12,1,1,0,0,14,858,MEDIA
+Alcalá,5,3,0,0,0,27,51,BAJA
+Av. Jiménez,9,6,0,0,0,19,586,BAJA
+Alcalá,7,5,1,0,0,18,521,BAJA
+Calle 72,5,1,1,0,1,32,710,MEDIA
+Portal Sur,9,6,1,0,0,12,716,MEDIA
+Museo del Oro,8,3,1,0,1,10,1161,ALTA
+Portal Sur,6,5,0,0,0,21,420,BAJA
+Portal Sur,10,3,0,0,0,28,566,BAJA
+Museo del Oro,14,4,0,0,0,36,322,BAJA
+Calle 72,8,1,1,0,0,26,866,MEDIA
+Museo del Oro,9,2,1,0,0,18,610,BAJA
+Portal Sur,5,5,0,0,0,20,648,BAJA
+Alcalá,5,5,0,0,0,21,335,BAJA
+Alcalá,7,0,0,0,0,20,688,MEDIA
+Calle 72,13,0,0,1,0,30,179,BAJA
+Museo del Oro,16,4,1,0,0,34,539,BAJA
+Portal Norte,19,3,0,0,0,31,901,MEDIA
+Portal Sur,16,5,0,0,0,21,695,MEDIA
+Alcalá,16,0,1,0,0,18,514,BAJA
+Portal Norte,21,2,0,0,0,12,681,MEDIA
+Museo del Oro,9,0,0,0,0,34,450,BAJA
+Alcalá,19,4,0,0,0,39,548,BAJA
+Alcalá,21,6,0,0,0,11,340,BAJA
+Av. Jiménez,15,1,0,0,0,14,494,BAJA
+Portal Norte,20,2,0,0,1,16,932,MEDIA
+Alcalá,7,5,0,0,0,34,214,BAJA
+Alcalá,20,0,0,0,0,16,288,BAJA
+Museo del Oro,15,6,0,0,1,10,843,MEDIA
+Alcalá,8,6,0,0,0,20,465,BAJA
+Portal Norte,6,1,1,0,0,21,1088,ALTA
+Museo del Oro,17,0,0,0,0,22,679,MEDIA
+Portal Norte,12,4,0,0,0,25,719,MEDIA
+Alcalá,10,0,1,0,0,17,496,BAJA
+Portal Sur,12,3,0,0,0,10,734,MEDIA
+Alcalá,22,0,0,0,0,13,370,BAJA
+Museo del Oro,12,3,1,0,0,32,384,BAJA
+Portal Norte,6,2,0,0,0,30,907,MEDIA
+Portal Norte,10,4,0,0,0,18,666,MEDIA
+Av. Jiménez,7,6,1,0,0,39,490,BAJA
+Portal Sur,17,3,0,0,0,26,1039,ALTA
+Portal Norte,19,4,0,0,0,34,917,MEDIA
+Alcalá,20,4,0,0,0,34,151,BAJA
+Calle 72,16,6,0,0,0,19,616,BAJA
+Av. Jiménez,18,1,1,1,0,28,740,MEDIA
+Calle 72,12,1,0,0,0,28,458,BAJA
+Av. Jiménez,16,2,0,0,0,24,540,BAJA
+Av. Jiménez,6,5,0,0,0,29,323,BAJA
+Portal Norte,14,6,1,0,0,20,681,MEDIA
+Museo del Oro,15,1,0,1,0,13,30,BAJA
+Portal Sur,5,0,0,1,0,11,404,BAJA
+Alcalá,14,4,0,0,0,23,328,BAJA
+Calle 72,18,4,0,1,1,38,733,MEDIA
+Alcalá,11,2,0,0,0,16,438,BAJA
+Alcalá,14,1,1,1,0,28,30,BAJA
+Alcalá,10,5,0,0,0,15,286,BAJA
+Av. Jiménez,9,5,0,0,0,29,499,BAJA
+Alcalá,7,5,0,0,0,15,371,BAJA
+Museo del Oro,10,4,0,0,0,23,277,BAJA
+Portal Norte,19,1,0,0,0,35,1006,ALTA
+Calle 72,21,2,1,0,0,21,717,MEDIA
+Portal Sur,16,0,0,0,0,38,566,BAJA
+Portal Norte,16,1,1,0,0,11,653,MEDIA
+Av. Jiménez,16,3,0,0,0,12,581,BAJA
+Portal Sur,13,3,0,0,0,15,697,MEDIA
+Portal Norte,12,0,0,0,0,17,596,BAJA
+Av. Jiménez,16,6,0,0,0,23,610,BAJA
+Calle 72,19,1,0,0,0,38,763,MEDIA
+Museo del Oro,12,3,1,0,0,17,706,MEDIA
+Calle 72,15,3,1,0,0,21,657,MEDIA
+Alcalá,13,3,1,0,0,11,516,BAJA
+Portal Norte,10,5,1,0,0,32,722,MEDIA
+Alcalá,10,5,0,0,0,26,406,BAJA
+Portal Sur,6,6,0,0,0,11,766,MEDIA
+Alcalá,12,2,0,0,1,24,540,BAJA
+Alcalá,17,1,1,0,0,16,811,MEDIA
+Calle 72,17,2,0,0,0,23,772,MEDIA
+Alcalá,22,3,0,0,0,18,137,BAJA
+Museo del Oro,5,2,0,0,0,34,330,BAJA
+Alcalá,18,3,0,0,0,11,743,MEDIA
+Alcalá,19,1,1,0,0,28,765,MEDIA
+Museo del Oro,12,4,0,0,0,34,398,BAJA
+Av. Jiménez,10,4,0,0,0,10,571,BAJA
+Portal Norte,11,3,1,0,0,38,764,MEDIA
+Portal Norte,17,6,0,0,0,33,476,BAJA
+Av. Jiménez,20,6,0,0,0,18,454,BAJA
+Portal Sur,16,6,0,0,0,24,515,BAJA
+Museo del Oro,14,0,0,1,0,31,92,BAJA
+Av. Jiménez,16,6,0,0,0,26,576,BAJA
+Calle 72,6,2,0,0,0,33,754,MEDIA
+Museo del Oro,15,3,0,0,0,37,213,BAJA
+Museo del Oro,5,2,0,0,0,21,516,BAJA
+Alcalá,22,1,0,0,0,13,246,BAJA
+Portal Sur,21,6,1,0,0,23,823,MEDIA
+Museo del Oro,14,4,0,0,0,28,306,BAJA
+Alcalá,11,6,0,0,0,34,268,BAJA
+Av. Jiménez,18,6,0,0,0,18,618,BAJA
+Alcalá,16,2,0,0,0,38,250,BAJA
+Av. Jiménez,17,5,1,0,0,11,670,MEDIA
+Portal Norte,14,3,0,1,0,27,370,BAJA
+Av. Jiménez,9,3,0,0,0,23,525,BAJA
+Portal Norte,6,5,0,0,0,31,829,MEDIA
+Portal Norte,10,4,1,0,0,18,596,BAJA
+Alcalá,14,6,0,0,0,38,74,BAJA
+Portal Sur,12,5,1,0,0,10,900,MEDIA
+Calle 72,14,4,0,0,0,35,387,BAJA
+Alcalá,9,6,0,0,0,25,353,BAJA
+Portal Norte,21,0,1,0,0,25,602,BAJA
+Calle 72,11,5,0,0,0,19,490,BAJA
+Portal Sur,20,2,0,0,1,22,915,MEDIA
+Calle 72,12,3,0,0,0,23,419,BAJA
+Portal Sur,12,5,0,0,0,19,665,MEDIA
+Alcalá,15,1,0,0,0,10,271,BAJA
+Portal Norte,9,6,0,0,0,22,620,BAJA
+Portal Norte,8,3,0,0,0,22,1104,ALTA
+Alcalá,11,2,0,0,0,32,149,BAJA
+Museo del Oro,19,2,0,0,0,24,672,MEDIA
+Museo del Oro,7,2,1,0,0,27,973,ALTA
+Av. Jiménez,12,6,0,0,0,24,391,BAJA
+Av. Jiménez,17,0,0,0,1,23,1219,ALTA
+Portal Sur,17,3,0,0,0,32,972,ALTA
+Museo del Oro,12,5,0,0,0,30,307,BAJA
+Portal Norte,6,3,0,0,1,40,1247,ALTA
+Museo del Oro,5,3,1,0,0,25,564,BAJA
+Portal Sur,13,2,1,0,0,10,842,MEDIA
+Portal Norte,19,0,0,0,0,28,780,MEDIA
+Av. Jiménez,5,4,1,0,0,22,685,MEDIA
+Portal Sur,20,6,1,0,0,12,722,MEDIA
+Museo del Oro,17,3,1,0,0,36,806,MEDIA
+Portal Norte,5,3,1,0,0,29,667,MEDIA
+Portal Norte,11,0,0,0,0,29,698,MEDIA
+Museo del Oro,8,6,0,0,0,29,326,BAJA
+Av. Jiménez,22,6,0,0,0,40,286,BAJA
+Alcalá,14,6,0,0,0,31,372,BAJA
+Museo del Oro,10,2,1,0,0,32,506,BAJA
+Alcalá,10,4,0,0,0,33,303,BAJA
+Calle 72,15,3,0,0,0,32,527,BAJA
+Av. Jiménez,5,1,1,0,0,31,712,MEDIA
+Portal Norte,9,1,0,0,0,12,577,BAJA
+Museo del Oro,7,2,1,0,0,22,797,MEDIA
+Calle 72,16,3,0,0,1,18,809,MEDIA
+Av. Jiménez,17,0,0,0,0,37,797,MEDIA
+Av. Jiménez,13,4,0,0,0,28,458,BAJA
+Calle 72,7,3,0,0,0,25,760,MEDIA
+Portal Norte,11,6,0,0,0,26,611,BAJA
+Museo del Oro,20,1,0,0,0,31,366,BAJA
+Alcalá,8,0,0,1,0,33,330,BAJA
+Calle 72,7,2,0,0,0,16,793,MEDIA
+Av. Jiménez,7,6,1,1,0,40,317,BAJA
+Calle 72,19,2,0,0,0,33,822,MEDIA
+Portal Sur,7,4,0,0,0,16,1153,ALTA
+Av. Jiménez,15,5,0,0,0,28,304,BAJA
+Alcalá,22,1,1,0,0,23,427,BAJA
+Calle 72,16,4,1,0,0,21,537,BAJA
+Portal Norte,12,1,1,0,1,36,877,MEDIA
+Museo del Oro,8,2,1,0,0,18,1007,ALTA
+Museo del Oro,5,2,0,0,0,35,340,BAJA
+Alcalá,7,4,0,0,0,29,667,MEDIA
+Alcalá,22,6,0,0,0,35,231,BAJA
+Alcalá,7,1,1,0,0,33,637,BAJA
+Museo del Oro,5,2,0,0,0,29,273,BAJA
+Av. Jiménez,19,5,0,0,0,15,640,BAJA
+Av. Jiménez,12,3,1,0,1,40,730,MEDIA
+Portal Norte,11,3,1,0,0,29,757,MEDIA
+Av. Jiménez,17,4,1,1,0,21,800,MEDIA
+Av. Jiménez,14,0,0,0,0,17,608,BAJA
+Portal Norte,21,6,0,0,0,13,669,MEDIA
+Calle 72,13,2,0,0,0,19,451,BAJA
+Museo del Oro,17,4,0,0,1,14,1074,ALTA
+Av. Jiménez,20,3,0,0,0,37,469,BAJA
+Alcalá,13,5,0,0,0,23,132,BAJA
+Av. Jiménez,10,4,1,0,0,29,686,MEDIA
+Alcalá,22,1,0,0,0,34,196,BAJA
+Museo del Oro,9,1,0,0,0,39,279,BAJA
+Portal Norte,5,6,1,0,0,24,690,MEDIA
+Calle 72,15,3,0,0,0,11,531,BAJA
+Portal Sur,22,1,0,0,0,28,487,BAJA
+Museo del Oro,6,1,0,0,0,39,698,MEDIA
+Calle 72,20,0,0,0,0,21,522,BAJA
+Museo del Oro,19,6,1,0,0,13,398,BAJA
+Alcalá,21,6,0,0,0,32,144,BAJA
+Av. Jiménez,12,2,0,0,0,29,538,BAJA
+Portal Norte,9,1,1,1,0,14,513,BAJA
+Calle 72,14,2,0,0,0,10,564,BAJA
+Alcalá,7,0,1,0,0,26,749,MEDIA
+Portal Sur,20,3,0,1,0,14,433,BAJA
+Alcalá,16,4,1,0,0,15,374,BAJA
+Alcalá,13,6,0,0,0,19,315,BAJA
+Portal Norte,14,2,0,0,0,24,471,BAJA
+Calle 72,17,1,1,1,0,35,597,BAJA
+Portal Norte,14,0,1,0,0,23,620,BAJA
+Portal Norte,20,2,0,0,0,35,570,BAJA
+Alcalá,21,4,0,0,0,28,307,BAJA
+Alcalá,22,0,0,0,0,22,262,BAJA
+Portal Norte,16,5,1,0,0,25,777,MEDIA
+Portal Sur,18,3,1,0,0,14,1119,ALTA
+Museo del Oro,10,5,0,0,0,40,277,BAJA
+Portal Norte,5,3,0,0,0,19,557,BAJA
+Alcalá,12,1,0,0,0,37,277,BAJA
+Alcalá,20,0,1,0,0,29,437,BAJA
+Museo del Oro,7,3,0,0,1,19,1160,ALTA
+Portal Sur,14,3,0,0,1,25,867,MEDIA
+Av. Jiménez,8,5,1,1,0,13,145,BAJA
+Portal Sur,12,6,0,0,1,29,802,MEDIA
+Av. Jiménez,7,1,0,0,0,12,1093,ALTA
+Alcalá,18,2,0,0,0,29,640,BAJA
+Portal Norte,19,1,0,0,1,16,1121,ALTA
+Calle 72,18,0,1,0,0,13,1078,ALTA
+Alcalá,17,0,0,0,0,16,786,MEDIA
+Calle 72,9,0,0,0,0,12,470,BAJA
+Calle 72,14,3,0,0,0,37,358,BAJA
+Portal Sur,6,1,1,0,0,39,978,ALTA
+Calle 72,11,1,0,0,0,38,414,BAJA
+Museo del Oro,14,0,0,0,0,32,333,BAJA
+Calle 72,17,5,0,0,0,17,405,BAJA
+Calle 72,6,4,0,0,0,33,801,MEDIA
+Alcalá,19,6,1,0,0,33,303,BAJA
+Calle 72,13,0,1,0,1,17,985,ALTA
+Portal Norte,20,1,1,0,0,35,701,MEDIA
+Portal Sur,14,3,0,0,0,40,510,BAJA
+Alcalá,14,4,0,0,0,21,320,BAJA
+Portal Norte,17,0,1,0,0,28,1153,ALTA
+Portal Sur,19,1,0,0,0,37,924,MEDIA
+Museo del Oro,7,2,1,0,0,18,993,ALTA
+Portal Sur,14,0,0,0,0,40,638,BAJA
+Portal Norte,5,2,0,0,0,19,567,BAJA
+Alcalá,13,5,0,0,0,40,332,BAJA
+Museo del Oro,19,3,0,0,0,17,926,MEDIA
+Alcalá,20,3,0,0,0,32,268,BAJA
+Av. Jiménez,10,3,0,0,0,26,448,BAJA
+Alcalá,11,6,0,0,0,21,333,BAJA
+Museo del Oro,14,3,0,0,0,23,362,BAJA
+Portal Norte,12,3,1,0,0,17,675,MEDIA
+Alcalá,8,6,0,0,0,30,303,BAJA
+Portal Sur,10,1,1,0,0,40,558,BAJA
+Calle 72,12,0,0,0,0,28,405,BAJA
+Museo del Oro,14,3,0,0,0,18,386,BAJA
+Av. Jiménez,21,2,0,0,0,30,351,BAJA
+Museo del Oro,14,1,1,0,0,23,555,BAJA
+Alcalá,11,0,0,0,0,38,194,BAJA
+Alcalá,16,6,1,0,0,18,556,BAJA
+Calle 72,18,4,0,0,0,26,824,MEDIA
+Alcalá,12,4,1,0,0,25,377,BAJA
+Av. Jiménez,13,0,1,0,0,37,466,BAJA
+Portal Sur,8,2,1,1,0,13,905,MEDIA
+Portal Sur,20,4,0,0,0,29,590,BAJA
+Av. Jiménez,20,3,1,0,0,35,609,BAJA
+Av. Jiménez,8,4,0,0,0,21,919,MEDIA
+Av. Jiménez,11,4,1,1,0,25,478,BAJA
+Alcalá,9,2,0,0,0,19,362,BAJA
+Av. Jiménez,21,5,0,0,1,23,673,MEDIA
+Calle 72,6,1,0,0,0,39,680,MEDIA
+Av. Jiménez,8,0,1,0,0,21,1077,ALTA
+Calle 72,10,6,0,0,0,16,423,BAJA
+Av. Jiménez,15,0,0,0,0,27,526,BAJA
+Portal Norte,9,1,0,0,0,24,648,BAJA
+Portal Norte,14,0,1,0,0,34,710,MEDIA
+Portal Sur,18,1,0,0,0,11,1024,ALTA
+Portal Norte,19,2,0,0,0,37,972,ALTA
+Museo del Oro,6,0,0,0,0,31,760,MEDIA
+Portal Sur,7,3,0,0,1,36,1145,ALTA
+Portal Sur,6,6,0,0,0,22,615,BAJA
+Av. Jiménez,21,0,1,0,0,23,660,MEDIA
+Calle 72,16,6,1,0,0,20,546,BAJA
+Alcalá,14,2,0,0,0,35,254,BAJA
+Alcalá,19,4,0,0,0,12,884,MEDIA
+Museo del Oro,15,3,0,0,0,26,441,BAJA
+Portal Norte,9,2,0,0,0,18,619,BAJA
+Portal Norte,14,0,0,0,0,29,565,BAJA
+Calle 72,17,4,1,0,0,39,843,MEDIA
+Portal Norte,5,6,0,0,0,30,499,BAJA
+Alcalá,15,3,0,0,1,11,501,BAJA
+Calle 72,13,4,1,0,0,22,608,BAJA
+Calle 72,6,4,0,0,0,10,995,ALTA
+Alcalá,9,2,0,0,0,25,284,BAJA
+Portal Sur,13,0,0,1,0,15,300,BAJA
+Calle 72,11,3,0,0,0,31,419,BAJA
+Av. Jiménez,10,6,1,0,0,26,711,MEDIA
+Museo del Oro,16,2,1,0,0,19,598,BAJA
+Museo del Oro,12,6,0,1,0,36,30,BAJA
+Alcalá,13,5,0,0,0,33,406,BAJA
+Alcalá,19,1,0,0,0,29,882,MEDIA
+Alcalá,6,4,0,0,0,20,682,MEDIA
+Portal Norte,11,5,0,0,0,18,592,BAJA
+Calle 72,6,3,0,0,0,28,887,MEDIA
+Museo del Oro,21,4,0,0,0,34,243,BAJA
+Portal Norte,8,6,1,0,0,35,698,MEDIA
+Av. Jiménez,19,4,1,0,0,34,964,ALTA
+Portal Norte,8,5,0,0,1,10,940,MEDIA
+Alcalá,10,5,0,0,1,40,404,BAJA
+Portal Norte,15,5,0,0,0,17,555,BAJA
+Portal Norte,19,5,0,0,0,10,501,BAJA
+Calle 72,8,1,0,0,0,27,957,ALTA
+Portal Norte,8,0,0,0,0,24,1051,ALTA
+Museo del Oro,20,1,1,0,0,13,616,BAJA
+Av. Jiménez,10,1,0,0,0,16,572,BAJA
+Alcalá,8,4,0,0,0,16,560,BAJA
+Calle 72,18,3,0,0,1,23,1052,ALTA
+Museo del Oro,6,3,0,0,1,33,952,ALTA
+Museo del Oro,20,0,0,0,0,31,247,BAJA
+Museo del Oro,20,4,0,0,1,10,575,BAJA
+Portal Sur,20,2,1,1,0,15,412,BAJA
+Calle 72,10,5,1,0,0,28,556,BAJA
+Museo del Oro,7,0,1,0,0,34,840,MEDIA
+Portal Sur,12,2,0,0,0,11,767,MEDIA
+Alcalá,11,0,0,0,0,20,485,BAJA
+Museo del Oro,22,1,0,0,0,13,497,BAJA
+Museo del Oro,16,6,0,0,0,25,356,BAJA
+Alcalá,21,3,0,0,0,22,452,BAJA
+Museo del Oro,18,3,1,0,0,15,823,MEDIA
+Alcalá,17,1,0,0,0,39,440,BAJA
+Portal Norte,7,1,0,0,0,33,851,MEDIA
+Av. Jiménez,6,4,0,0,0,26,949,MEDIA
+Portal Norte,5,6,0,1,0,33,235,BAJA
+Portal Norte,15,5,0,0,0,19,516,BAJA
+Av. Jiménez,8,5,0,0,0,38,354,BAJA
+Calle 72,22,3,0,0,1,22,619,BAJA
+Av. Jiménez,7,0,0,0,0,21,815,MEDIA
+Av. Jiménez,22,5,1,0,0,27,722,MEDIA
+Museo del Oro,17,5,0,0,0,27,347,BAJA
+Alcalá,6,3,0,0,0,29,808,MEDIA
+Alcalá,6,0,0,0,0,35,559,BAJA
+Av. Jiménez,12,4,1,0,1,18,941,MEDIA
+Calle 72,11,6,0,0,0,31,432,BAJA
+Portal Sur,10,1,0,0,0,16,734,MEDIA
+Portal Norte,14,1,0,0,0,17,638,BAJA
+Museo del Oro,7,5,0,0,0,25,449,BAJA
+Av. Jiménez,7,2,0,0,0,26,928,MEDIA
+Calle 72,17,5,0,0,0,29,339,BAJA
+Museo del Oro,22,4,0,0,0,14,495,BAJA
+Calle 72,9,1,1,0,0,35,502,BAJA
+Calle 72,21,0,0,0,0,27,376,BAJA
+Museo del Oro,11,3,0,0,0,28,408,BAJA
+Calle 72,11,2,0,0,0,33,476,BAJA
+Portal Sur,6,5,0,0,0,31,535,BAJA
+Portal Norte,12,2,0,0,0,23,554,BAJA
+Av. Jiménez,13,1,0,0,0,25,379,BAJA
+Portal Sur,16,6,0,0,0,17,514,BAJA
+Calle 72,7,5,1,0,0,27,539,BAJA
+Portal Sur,8,4,0,0,0,16,1127,ALTA
+Portal Sur,12,6,1,0,0,29,660,MEDIA
+Alcalá,6,5,1,1,0,22,242,BAJA
+Calle 72,7,6,0,0,0,17,482,BAJA
+Portal Sur,16,5,0,0,0,24,600,BAJA
+Alcalá,22,2,0,1,0,38,30,BAJA
+Portal Sur,15,0,1,0,0,27,797,MEDIA
+Calle 72,7,4,0,0,0,20,803,MEDIA
+Portal Sur,22,5,0,0,0,23,612,BAJA
+Portal Norte,14,6,0,0,0,28,508,BAJA
+Museo del Oro,17,4,1,0,0,14,911,MEDIA
+Av. Jiménez,8,3,0,0,0,27,881,MEDIA
+Museo del Oro,15,4,0,0,0,11,445,BAJA
+Museo del Oro,6,0,0,0,0,36,788,MEDIA
+Portal Norte,16,0,0,0,0,28,551,BAJA
+Museo del Oro,8,0,1,0,0,13,1006,ALTA
+Alcalá,21,6,1,0,0,24,430,BAJA
+Av. Jiménez,5,5,0,0,0,37,530,BAJA
+Calle 72,16,1,0,0,0,39,342,BAJA
+Alcalá,7,2,1,1,0,14,552,BAJA
+Portal Norte,17,3,0,0,0,18,1072,ALTA
+Av. Jiménez,13,1,0,0,0,14,531,BAJA
+Museo del Oro,22,2,0,0,0,21,434,BAJA
+Av. Jiménez,16,2,0,0,0,36,611,BAJA
+Alcalá,11,4,1,0,0,31,296,BAJA
+Av. Jiménez,6,5,0,0,0,17,661,MEDIA
+Alcalá,15,0,0,0,0,20,281,BAJA
+Portal Norte,12,3,1,0,0,28,779,MEDIA
+Portal Sur,5,6,0,0,0,28,647,BAJA
+Museo del Oro,15,6,1,0,0,24,544,BAJA
+Calle 72,8,5,0,0,0,23,450,BAJA
+Calle 72,9,5,0,0,0,38,352,BAJA
+Portal Sur,5,0,0,0,1,25,802,MEDIA
+Museo del Oro,11,6,0,0,0,34,317,BAJA
+Museo del Oro,8,5,0,0,0,39,271,BAJA
+Portal Norte,6,6,0,0,1,20,865,MEDIA
+Museo del Oro,12,6,1,0,0,34,323,BAJA
+Alcalá,8,1,1,0,0,35,752,MEDIA
+Portal Norte,7,0,0,0,0,16,1125,ALTA
+Av. Jiménez,13,4,0,0,0,16,620,BAJA
+Av. Jiménez,6,3,0,0,1,15,1202,ALTA
+Alcalá,22,0,0,0,0,29,471,BAJA
+Calle 72,13,1,0,0,0,33,356,BAJA
+Av. Jiménez,22,6,1,0,0,33,555,BAJA
+Portal Sur,20,2,1,0,0,22,632,BAJA
+Portal Norte,22,1,0,0,0,31,502,BAJA
+Portal Sur,14,4,1,0,0,10,963,ALTA
+Portal Sur,12,4,0,0,0,30,551,BAJA
+Portal Sur,17,2,0,0,0,24,894,MEDIA
+Museo del Oro,6,5,0,0,1,35,630,BAJA
+Portal Sur,20,4,0,0,1,39,807,MEDIA
+Portal Sur,10,1,0,0,0,27,664,MEDIA
+Alcalá,5,2,1,0,0,29,362,BAJA
+Av. Jiménez,9,5,0,0,0,38,331,BAJA
+Av. Jiménez,9,0,0,0,0,20,505,BAJA
+Museo del Oro,5,0,0,0,0,14,480,BAJA
+Calle 72,17,4,1,0,0,25,964,ALTA
+Alcalá,6,3,0,0,1,21,995,ALTA
+Portal Sur,20,1,1,0,0,29,663,MEDIA
+Museo del Oro,13,3,1,0,0,34,470,BAJA
+Calle 72,17,1,0,0,0,25,850,MEDIA
+Av. Jiménez,11,2,0,0,0,19,470,BAJA
+Av. Jiménez,7,1,0,0,0,27,889,MEDIA
+Museo del Oro,8,4,1,0,0,23,871,MEDIA
+Portal Sur,16,4,0,0,1,15,969,ALTA
+Portal Sur,17,6,0,1,0,33,332,BAJA
+Alcalá,9,0,0,0,0,20,360,BAJA
+Alcalá,11,2,0,1,1,26,103,BAJA
+Portal Sur,22,1,1,0,0,38,575,BAJA
+Av. Jiménez,20,4,1,0,0,15,619,BAJA
+Museo del Oro,12,3,0,0,0,23,318,BAJA
+Av. Jiménez,9,6,0,0,0,15,507,BAJA
+Museo del Oro,10,6,0,0,0,23,456,BAJA
+Portal Sur,14,5,1,0,0,19,822,MEDIA
+Av. Jiménez,15,1,0,0,0,38,378,BAJA
+Museo del Oro,8,0,1,0,0,19,973,ALTA
+Portal Norte,6,6,0,1,0,29,272,BAJA
+Portal Sur,13,6,0,0,0,14,673,MEDIA
+Av. Jiménez,19,1,1,0,0,24,1108,ALTA
+Av. Jiménez,7,0,0,0,0,35,777,MEDIA
+Museo del Oro,12,4,0,0,0,30,344,BAJA
+Calle 72,7,4,0,0,1,18,1058,ALTA
+Museo del Oro,9,6,0,0,1,40,450,BAJA
+Portal Sur,16,4,1,0,0,34,567,BAJA
+Av. Jiménez,10,5,1,0,1,22,799,MEDIA
+Portal Norte,9,5,1,0,0,40,607,BAJA
+Av. Jiménez,22,0,0,0,0,15,526,BAJA
+Calle 72,8,1,0,0,0,20,858,MEDIA
+Av. Jiménez,8,5,1,0,0,38,508,BAJA
+Museo del Oro,21,1,0,0,0,40,422,BAJA
+Portal Norte,14,1,1,0,0,35,539,BAJA
+Portal Sur,5,5,0,0,0,15,570,BAJA
+Calle 72,12,1,0,0,0,16,436,BAJA
+Alcalá,15,1,0,0,1,30,504,BAJA
+Portal Sur,9,0,0,1,0,11,435,BAJA
+Calle 72,14,3,0,1,0,40,109,BAJA
+Museo del Oro,16,4,0,0,0,39,362,BAJA
+Portal Norte,9,5,1,1,0,35,321,BAJA
+Portal Norte,19,6,0,0,0,40,448,BAJA
+Alcalá,13,4,0,0,0,17,469,BAJA
+Portal Sur,22,5,0,0,0,37,315,BAJA
+Portal Norte,6,1,1,0,0,17,1143,ALTA
+Calle 72,10,2,0,0,0,13,556,BAJA
+Calle 72,17,2,1,1,0,18,862,MEDIA
+Av. Jiménez,21,0,1,0,0,34,423,BAJA
+Calle 72,8,6,0,0,0,39,332,BAJA
+Calle 72,22,1,0,0,0,28,323,BAJA
+Museo del Oro,8,3,1,0,0,17,794,MEDIA
+Calle 72,12,2,0,0,0,28,416,BAJA
+Alcalá,10,0,1,0,0,25,477,BAJA
+Portal Sur,12,6,0,0,0,26,700,MEDIA
+Portal Sur,21,1,0,0,0,20,597,BAJA
+Calle 72,18,0,0,0,0,14,969,ALTA
+Portal Sur,19,2,0,0,1,21,1268,ALTA
+Alcalá,9,1,1,0,0,37,383,BAJA
+Calle 72,22,6,0,0,0,22,560,BAJA
+Portal Sur,12,1,1,0,0,10,804,MEDIA
+Av. Jiménez,16,2,0,0,0,20,606,BAJA
+Portal Sur,17,1,1,0,0,24,1039,ALTA
+Av. Jiménez,16,0,1,0,0,28,645,BAJA
+Portal Sur,15,0,0,0,0,29,669,MEDIA
+Portal Norte,13,3,0,0,0,23,656,MEDIA
+Av. Jiménez,16,1,1,0,0,14,581,BAJA
+Calle 72,21,0,1,1,0,23,266,BAJA
+Calle 72,12,2,0,0,1,10,814,MEDIA
+Calle 72,14,1,0,0,0,25,485,BAJA
+Av. Jiménez,8,2,1,0,0,23,1031,ALTA
+Portal Norte,11,6,0,0,1,21,958,ALTA
+Portal Sur,18,2,0,0,0,30,876,MEDIA
+Museo del Oro,16,4,0,0,0,33,303,BAJA
+Portal Sur,8,5,0,0,0,18,517,BAJA
+Portal Sur,14,0,1,0,0,25,780,MEDIA
+Portal Norte,19,3,0,0,0,25,1014,ALTA
+Portal Norte,7,3,1,0,1,25,1608,ALTA
+Av. Jiménez,6,3,0,0,0,22,990,ALTA
+Av. Jiménez,12,1,0,1,0,16,271,BAJA
+Calle 72,16,3,0,0,0,15,530,BAJA
+Portal Sur,10,0,0,0,0,10,675,MEDIA
+Museo del Oro,19,6,1,0,0,11,584,BAJA
+Portal Sur,20,4,0,0,0,35,572,BAJA
+Portal Norte,14,0,1,1,0,12,311,BAJA
+Portal Sur,11,3,0,0,0,36,560,BAJA
+Calle 72,5,6,0,0,0,37,386,BAJA
+Av. Jiménez,19,5,0,0,0,17,678,MEDIA
+Av. Jiménez,21,1,1,0,0,23,611,BAJA
+Portal Sur,12,6,0,0,0,21,573,BAJA
+Calle 72,14,1,0,0,0,22,489,BAJA
+Calle 72,18,1,0,0,0,21,880,MEDIA
+Av. Jiménez,17,1,0,0,0,20,910,MEDIA
+Av. Jiménez,7,6,0,0,0,31,352,BAJA
+Calle 72,17,5,0,0,0,22,456,BAJA
+Calle 72,21,3,1,0,0,15,584,BAJA
+Calle 72,18,4,0,0,0,21,857,MEDIA
+Av. Jiménez,13,1,0,0,0,40,459,BAJA
+Av. Jiménez,14,0,0,0,0,40,346,BAJA
+Av. Jiménez,9,5,1,0,0,11,676,MEDIA
+Portal Sur,16,6,0,0,0,27,641,BAJA
+Calle 72,9,0,0,0,1,40,588,BAJA
+Alcalá,11,0,1,0,0,16,673,MEDIA
+Portal Sur,9,3,0,0,0,12,708,MEDIA
+Calle 72,11,0,0,0,0,16,405,BAJA
+Calle 72,11,5,0,0,0,19,419,BAJA
+Calle 72,6,6,0,0,0,38,297,BAJA
+Calle 72,17,1,1,0,0,17,952,ALTA
+Av. Jiménez,12,2,1,0,0,20,683,MEDIA
+Portal Norte,22,6,1,0,1,18,893,MEDIA
+Portal Norte,8,2,1,0,0,22,1082,ALTA
+Av. Jiménez,17,1,1,0,0,40,1011,ALTA
+Portal Sur,8,0,0,0,0,12,1046,ALTA
+Calle 72,14,5,0,0,0,24,510,BAJA
+Alcalá,13,6,0,0,0,29,131,BAJA
+Av. Jiménez,13,0,1,0,0,13,652,MEDIA
+Alcalá,16,5,1,0,0,11,423,BAJA
+Calle 72,19,1,1,0,1,40,1154,ALTA
+Museo del Oro,10,0,0,0,0,18,329,BAJA
+Portal Sur,20,2,0,0,0,17,824,MEDIA
+Portal Norte,8,3,1,0,0,20,989,ALTA
+Alcalá,10,5,0,0,0,12,459,BAJA
+Av. Jiménez,10,4,0,0,0,14,626,BAJA
+Av. Jiménez,22,1,0,0,0,10,605,BAJA
+Museo del Oro,7,4,0,1,0,26,468,BAJA
+Museo del Oro,12,6,0,0,1,24,774,MEDIA
+Portal Norte,12,4,1,0,0,18,930,MEDIA
+Alcalá,19,1,1,0,0,38,715,MEDIA
+Museo del Oro,13,0,0,0,0,19,419,BAJA
+Alcalá,22,3,0,0,0,10,336,BAJA
+Av. Jiménez,18,3,1,0,0,13,988,ALTA
+Museo del Oro,17,2,0,0,0,32,765,MEDIA
+Av. Jiménez,18,0,0,0,0,26,904,MEDIA
+Alcalá,7,0,0,0,0,18,603,BAJA
+Portal Sur,13,3,0,0,0,17,694,MEDIA
+Alcalá,15,6,0,0,1,16,617,BAJA
+Museo del Oro,8,4,1,0,0,23,854,MEDIA
+Portal Sur,7,3,0,0,1,31,1171,ALTA
+Av. Jiménez,7,6,0,0,0,29,500,BAJA
+Av. Jiménez,19,4,0,0,0,33,971,ALTA
+Portal Sur,16,5,1,0,0,11,846,MEDIA
+Portal Norte,10,4,0,0,0,27,620,BAJA
+Portal Sur,18,5,0,0,0,33,495,BAJA
+Portal Norte,17,3,0,0,0,16,991,ALTA
+Museo del Oro,19,4,1,0,0,28,921,MEDIA
+Av. Jiménez,21,4,1,0,0,10,591,BAJA
+Av. Jiménez,20,5,0,0,0,38,429,BAJA
+Av. Jiménez,8,6,0,0,0,32,487,BAJA
+Av. Jiménez,18,2,0,0,0,29,863,MEDIA
+Av. Jiménez,12,4,1,0,1,28,868,MEDIA
+Av. Jiménez,12,0,1,0,0,30,585,BAJA
+Museo del Oro,16,3,1,0,0,23,452,BAJA
+Portal Sur,15,6,0,0,0,39,432,BAJA
+Museo del Oro,12,4,0,0,0,16,417,BAJA
+Museo del Oro,22,1,0,0,0,35,414,BAJA
+Alcalá,8,4,1,0,0,33,844,MEDIA
+Alcalá,6,2,0,0,0,35,602,BAJA
+Portal Norte,5,3,0,0,0,12,619,BAJA
+Portal Sur,19,1,1,0,0,23,1107,ALTA
+Calle 72,12,4,0,0,0,29,391,BAJA
+Calle 72,12,1,1,0,1,29,819,MEDIA
+Portal Sur,16,3,0,0,0,31,659,MEDIA
+Portal Norte,12,6,0,0,0,29,727,MEDIA
+Alcalá,15,5,0,0,0,16,278,BAJA
+Portal Sur,6,2,0,0,0,35,1002,ALTA
+Alcalá,7,6,1,0,0,24,459,BAJA
+Portal Sur,21,0,0,0,0,40,494,BAJA
+Alcalá,13,6,0,0,0,26,202,BAJA
+Portal Norte,8,2,0,1,0,26,686,MEDIA
+Alcalá,11,5,1,0,0,28,562,BAJA
+Portal Norte,11,6,1,0,0,37,640,BAJA
+Calle 72,9,4,1,0,0,37,435,BAJA
+Portal Norte,10,4,0,0,1,28,789,MEDIA
+Av. Jiménez,18,5,0,0,0,26,393,BAJA
+Portal Sur,6,1,0,0,1,11,1345,ALTA
+Calle 72,10,1,0,1,1,12,533,BAJA
+Portal Sur,13,2,0,0,0,32,513,BAJA
+Museo del Oro,14,3,0,0,0,20,140,BAJA
+Museo del Oro,20,5,0,0,0,23,404,BAJA
+Alcalá,21,1,1,0,0,29,346,BAJA
+Av. Jiménez,10,3,0,0,1,16,734,MEDIA
+Av. Jiménez,14,0,1,0,0,20,579,BAJA
+Alcalá,5,0,1,0,0,11,526,BAJA
+Museo del Oro,16,6,0,0,0,33,289,BAJA
+Museo del Oro,7,5,0,0,0,25,444,BAJA
+Calle 72,6,6,1,0,0,15,706,MEDIA
+Calle 72,17,2,0,0,0,28,810,MEDIA
+Calle 72,8,3,0,0,0,14,874,MEDIA
+Calle 72,13,4,0,0,0,34,406,BAJA
+Calle 72,6,1,1,0,0,17,1006,ALTA
+Portal Sur,18,5,1,0,0,18,632,BAJA
+Portal Norte,18,4,1,0,0,37,1171,ALTA
+Museo del Oro,15,2,0,0,0,33,379,BAJA
+Alcalá,20,3,0,0,0,31,217,BAJA
+Portal Sur,12,2,1,1,1,28,509,BAJA
+Av. Jiménez,8,5,1,0,0,26,590,BAJA
+Portal Norte,7,6,0,0,0,15,583,BAJA
+Alcalá,8,6,1,1,0,19,141,BAJA
+Portal Norte,8,5,1,0,1,39,683,MEDIA
+Portal Sur,10,2,0,0,0,38,494,BAJA
+Portal Sur,8,5,0,0,0,32,535,BAJA
+Calle 72,15,1,0,0,0,37,363,BAJA
+Portal Sur,7,6,1,0,0,34,657,MEDIA
+Calle 72,16,1,0,0,0,22,472,BAJA
+Calle 72,11,2,0,1,0,32,230,BAJA
+Portal Sur,17,0,0,0,0,33,921,MEDIA
+Alcalá,14,0,1,0,1,14,653,MEDIA
+Calle 72,21,2,1,0,0,38,354,BAJA
+Alcalá,12,3,1,0,1,25,619,BAJA
+Alcalá,10,0,0,1,1,19,164,BAJA
+Portal Sur,15,5,0,0,0,24,693,MEDIA
+Portal Norte,16,0,0,0,0,20,592,BAJA
+Calle 72,12,6,0,0,0,20,555,BAJA
+Portal Sur,15,1,0,0,0,26,721,MEDIA
+Alcalá,13,2,1,0,0,40,251,BAJA
+Portal Sur,10,1,0,1,0,22,300,BAJA
+Av. Jiménez,10,5,0,0,1,16,901,MEDIA
+Calle 72,21,5,0,0,0,33,417,BAJA
+Alcalá,17,0,1,1,0,19,588,BAJA
+Calle 72,6,0,0,0,0,26,927,MEDIA
+Av. Jiménez,22,4,0,0,0,17,610,BAJA
+Alcalá,17,6,0,0,0,16,377,BAJA
+Museo del Oro,5,0,0,0,0,17,530,BAJA
+Calle 72,18,1,0,0,0,21,869,MEDIA
+Portal Norte,15,3,0,0,0,39,528,BAJA
+Av. Jiménez,21,0,1,0,0,30,566,BAJA
+Alcalá,13,2,0,0,1,31,586,BAJA
+Av. Jiménez,14,0,0,0,0,11,518,BAJA
+Portal Sur,10,3,0,0,0,10,565,BAJA
+Calle 72,10,5,0,0,0,20,532,BAJA
+Portal Sur,16,2,0,0,0,37,456,BAJA
+Portal Sur,19,1,0,0,0,10,1010,ALTA
+Museo del Oro,21,2,1,1,0,33,243,BAJA
+Portal Sur,18,3,1,0,0,35,1147,ALTA
+Museo del Oro,15,1,1,0,0,18,505,BAJA
+Av. Jiménez,14,0,0,0,0,13,318,BAJA
+Portal Sur,11,1,1,0,1,14,1089,ALTA
+Alcalá,18,6,1,1,0,12,241,BAJA
+Alcalá,10,5,0,0,0,36,265,BAJA
+Calle 72,9,0,0,0,0,34,434,BAJA
+Portal Sur,20,2,1,0,0,30,685,MEDIA
+Portal Norte,15,2,1,0,0,12,735,MEDIA
+Museo del Oro,11,1,0,0,0,39,198,BAJA
+Museo del Oro,20,5,0,0,0,31,278,BAJA
+Av. Jiménez,22,6,0,0,0,35,456,BAJA
+Alcalá,10,1,0,1,0,21,41,BAJA
+Alcalá,14,0,1,0,0,16,527,BAJA
+Portal Norte,13,1,0,0,0,35,397,BAJA
+Calle 72,17,4,1,0,0,11,921,MEDIA
+Calle 72,22,5,1,0,1,15,850,MEDIA
+Alcalá,14,2,0,0,0,14,274,BAJA
+Museo del Oro,19,1,1,0,0,12,983,ALTA
+Portal Sur,15,1,1,0,0,27,613,BAJA
+Portal Sur,20,0,0,0,1,17,1002,ALTA
+Portal Sur,12,0,0,0,0,39,460,BAJA
+Portal Norte,11,2,1,0,0,38,739,MEDIA
+Portal Norte,12,4,0,0,0,15,672,MEDIA
+Av. Jiménez,22,0,0,0,0,35,346,BAJA
+Av. Jiménez,16,1,0,0,0,11,742,MEDIA
+Portal Sur,7,6,0,0,1,18,923,MEDIA
+Portal Norte,5,6,0,0,0,30,553,BAJA
+Av. Jiménez,14,4,0,0,0,16,539,BAJA
+Calle 72,19,3,0,0,0,12,965,ALTA
+Calle 72,13,4,0,0,0,14,558,BAJA
+Calle 72,15,2,1,0,0,30,471,BAJA
+Calle 72,19,1,0,0,0,16,887,MEDIA
+Museo del Oro,14,2,1,0,0,17,547,BAJA
+Av. Jiménez,21,4,1,0,0,16,711,MEDIA
+Av. Jiménez,16,4,0,0,0,37,466,BAJA
+Av. Jiménez,18,4,0,1,0,37,531,BAJA
+Portal Sur,19,4,0,0,0,34,912,MEDIA
+Alcalá,16,0,1,0,0,10,452,BAJA
+Museo del Oro,5,4,0,0,0,17,323,BAJA
+Museo del Oro,12,6,0,0,1,37,595,BAJA
+Portal Sur,7,4,0,0,0,27,949,MEDIA
+Portal Sur,14,4,0,0,0,11,679,MEDIA
+Portal Norte,7,1,1,0,0,17,1157,ALTA
+Alcalá,14,5,1,0,0,35,350,BAJA
+Portal Norte,11,3,0,1,0,37,198,BAJA
+Av. Jiménez,5,1,0,0,0,23,430,BAJA
+Museo del Oro,7,3,0,0,0,14,858,MEDIA
+Av. Jiménez,14,0,0,0,0,12,543,BAJA
+Calle 72,6,6,0,0,0,16,497,BAJA
+Alcalá,20,4,0,0,0,34,329,BAJA
+Portal Norte,18,2,1,0,0,35,1070,ALTA
+Calle 72,17,5,0,1,0,17,152,BAJA
+Alcalá,8,0,1,0,0,40,708,MEDIA
+Portal Sur,19,2,0,0,0,37,1066,ALTA
+Portal Norte,16,4,0,0,0,40,455,BAJA
+Portal Sur,12,0,0,0,0,33,565,BAJA
+Alcalá,5,4,0,0,1,27,581,BAJA
+Portal Norte,14,5,0,0,0,40,497,BAJA
+Av. Jiménez,19,4,1,0,0,31,944,MEDIA
+Av. Jiménez,5,1,1,0,0,35,491,BAJA
+Portal Norte,5,5,1,1,0,22,407,BAJA
+Calle 72,11,2,0,0,0,17,551,BAJA
+Calle 72,14,5,0,0,1,27,794,MEDIA
+Calle 72,13,4,0,0,0,22,351,BAJA
+Av. Jiménez,12,0,1,0,0,20,781,MEDIA
+Av. Jiménez,9,0,1,0,0,31,551,BAJA
+Calle 72,6,0,0,1,0,28,606,BAJA
+Calle 72,5,0,1,0,0,19,547,BAJA
+Calle 72,6,2,0,0,0,17,769,MEDIA
+Portal Sur,17,0,0,0,0,26,899,MEDIA
+Calle 72,19,6,0,0,0,20,454,BAJA
+Alcalá,12,6,0,0,0,17,380,BAJA
+Museo del Oro,6,1,1,0,0,16,946,MEDIA
+Portal Sur,12,2,1,0,0,30,680,MEDIA
+Museo del Oro,22,5,0,0,0,22,477,BAJA
+Calle 72,9,4,0,0,1,20,730,MEDIA
+Museo del Oro,13,4,0,0,1,13,714,MEDIA
+Calle 72,14,6,0,1,0,11,483,BAJA
+Portal Norte,10,4,0,0,0,31,533,BAJA
+Calle 72,12,4,0,0,1,40,554,BAJA
+Calle 72,13,3,0,0,0,20,518,BAJA
+Portal Norte,13,3,0,0,1,36,813,MEDIA
+Portal Norte,17,2,0,0,0,28,976,ALTA
+Alcalá,15,3,1,0,0,19,459,BAJA
+Museo del Oro,5,6,0,0,0,27,477,BAJA
+Av. Jiménez,5,2,0,0,0,14,665,MEDIA
+Alcalá,12,0,0,0,0,20,311,BAJA
+Calle 72,21,4,1,1,0,32,177,BAJA
+Av. Jiménez,5,5,0,0,0,36,458,BAJA
+Alcalá,6,6,0,0,1,16,542,BAJA
+Museo del Oro,17,3,1,0,0,38,883,MEDIA
+Av. Jiménez,13,5,1,0,1,28,876,MEDIA
+Calle 72,9,1,0,0,0,17,712,MEDIA
+Portal Norte,8,2,0,0,0,34,1034,ALTA
+Portal Norte,16,2,1,0,0,37,532,BAJA
+Portal Norte,14,2,0,0,0,18,570,BAJA
+Portal Sur,16,5,0,0,0,13,529,BAJA
+Museo del Oro,10,6,0,0,0,18,241,BAJA
+Av. Jiménez,14,2,0,0,0,33,451,BAJA
+Portal Sur,20,0,0,0,0,11,599,BAJA
+Portal Norte,10,5,0,0,0,18,743,MEDIA
+Calle 72,12,5,0,0,0,19,579,BAJA
+Av. Jiménez,7,6,0,0,0,10,558,BAJA
+Alcalá,16,1,0,0,1,28,496,BAJA
+Museo del Oro,5,5,1,0,0,34,555,BAJA
+Alcalá,9,5,0,0,0,14,493,BAJA
+Calle 72,17,5,0,1,0,37,30,BAJA
+Alcalá,5,5,0,0,0,39,121,BAJA
+Portal Norte,22,6,0,0,0,36,480,BAJA
+Calle 72,12,3,0,0,0,32,442,BAJA
+Museo del Oro,12,0,0,0,0,23,341,BAJA
+Portal Norte,14,1,1,0,0,16,780,MEDIA
+Alcalá,16,6,0,1,0,38,68,BAJA
+Alcalá,13,5,1,0,1,26,542,BAJA
+Museo del Oro,20,0,1,0,0,24,460,BAJA
+Calle 72,22,2,0,0,0,22,357,BAJA
+Portal Norte,8,1,0,0,0,16,957,ALTA
+Museo del Oro,17,2,1,0,0,21,890,MEDIA
+Museo del Oro,10,4,0,0,0,34,258,BAJA
+Portal Sur,22,3,1,0,0,27,760,MEDIA
+Museo del Oro,9,3,1,0,0,22,520,BAJA
+Portal Norte,10,3,0,0,0,13,666,MEDIA
+Portal Norte,17,4,1,1,0,22,783,MEDIA
+Portal Sur,19,4,0,1,0,16,747,MEDIA
+Portal Norte,7,0,0,0,0,22,960,ALTA
+Alcalá,15,0,0,0,0,14,336,BAJA
+Portal Norte,11,2,0,0,0,39,520,BAJA
+Portal Sur,16,3,1,0,0,15,636,BAJA
+Alcalá,15,6,1,1,0,13,205,BAJA
+Av. Jiménez,22,6,0,0,0,30,391,BAJA
+Portal Norte,21,4,0,0,0,20,573,BAJA
+Alcalá,16,0,0,0,0,40,75,BAJA
+Calle 72,17,0,0,0,0,22,839,MEDIA
+Museo del Oro,21,3,0,1,0,30,62,BAJA
+Alcalá,8,4,0,0,0,35,667,MEDIA
+Portal Sur,18,4,1,0,0,40,945,MEDIA
+Portal Norte,18,0,0,0,0,35,943,MEDIA
+Portal Sur,7,6,0,1,0,27,389,BAJA
+Portal Norte,20,3,0,0,0,35,471,BAJA
+Portal Sur,17,4,0,0,0,18,1052,ALTA
+Museo del Oro,11,0,0,0,0,36,139,BAJA
+Calle 72,13,5,0,0,0,37,306,BAJA
+Av. Jiménez,13,3,0,0,0,21,536,BAJA
+Portal Norte,21,1,1,0,1,12,1094,ALTA
+Alcalá,22,2,0,0,0,31,206,BAJA
+Calle 72,19,2,0,1,0,13,836,MEDIA
+Calle 72,16,0,1,0,0,10,685,MEDIA
+Museo del Oro,6,6,0,0,0,39,184,BAJA
+Portal Sur,21,5,1,1,0,27,521,BAJA
+Museo del Oro,7,6,0,0,0,30,240,BAJA
+Museo del Oro,8,2,0,0,0,37,724,MEDIA
+Museo del Oro,6,3,0,1,1,38,568,BAJA
+Alcalá,22,3,0,0,0,39,97,BAJA
+Av. Jiménez,13,3,1,0,0,14,753,MEDIA
+Portal Sur,9,4,0,0,0,20,619,BAJA
+Portal Sur,6,3,1,0,0,33,1220,ALTA
+Alcalá,12,5,1,0,0,10,419,BAJA
+Alcalá,18,0,1,0,0,17,733,MEDIA
+Portal Sur,22,1,1,0,0,25,692,MEDIA
+Calle 72,14,6,0,0,0,20,711,MEDIA
+Portal Sur,15,6,0,1,0,15,437,BAJA
+Portal Sur,20,5,1,0,0,37,702,MEDIA
+Calle 72,21,2,0,1,0,23,209,BAJA
+Portal Sur,10,3,0,0,0,22,589,BAJA
+Calle 72,22,0,0,0,0,30,638,BAJA
+Museo del Oro,14,1,0,0,0,30,377,BAJA
+Portal Sur,21,5,1,0,0,25,759,MEDIA
+Calle 72,7,2,0,0,0,37,857,MEDIA
+Av. Jiménez,6,3,0,0,0,19,824,MEDIA
+Portal Sur,20,0,1,0,0,36,594,BAJA
+Av. Jiménez,17,3,0,0,0,36,804,MEDIA
+Alcalá,8,5,1,0,0,10,579,BAJA
+Portal Norte,21,4,0,0,0,33,418,BAJA
+Portal Sur,6,3,0,0,0,14,1071,ALTA
+Portal Sur,17,6,0,0,0,25,593,BAJA
+Alcalá,8,1,0,0,0,38,486,BAJA
+Portal Norte,6,2,0,0,0,16,983,ALTA
+Alcalá,19,4,0,1,0,27,421,BAJA
+Av. Jiménez,20,3,0,0,0,34,317,BAJA
+Av. Jiménez,6,6,0,0,0,24,609,BAJA
+Av. Jiménez,6,0,0,0,0,12,1005,ALTA
+Museo del Oro,16,0,0,0,0,12,476,BAJA
+Museo del Oro,5,2,1,0,0,26,485,BAJA
+Av. Jiménez,18,3,1,0,0,10,1013,ALTA
+Portal Norte,21,6,1,1,0,10,428,BAJA
+Alcalá,18,3,0,0,0,39,635,BAJA
+Calle 72,9,3,0,0,0,26,392,BAJA
+Portal Norte,8,1,0,0,0,24,991,ALTA
+Museo del Oro,17,3,1,1,0,13,590,BAJA
+Av. Jiménez,6,3,1,0,0,34,992,ALTA
+Museo del Oro,14,4,0,0,0,25,412,BAJA
+Alcalá,13,4,0,0,0,16,214,BAJA
+Portal Norte,18,3,1,0,0,33,1047,ALTA
+Calle 72,8,1,0,0,0,17,776,MEDIA
+Museo del Oro,18,1,0,0,0,25,621,BAJA
+Portal Sur,17,1,0,0,0,27,950,ALTA
+Museo del Oro,9,4,1,0,0,18,756,MEDIA
+Av. Jiménez,11,5,0,0,0,37,480,BAJA
+Museo del Oro,6,6,0,0,0,31,445,BAJA
+Alcalá,13,2,0,0,0,18,381,BAJA
+Av. Jiménez,9,0,0,0,0,14,572,BAJA
+Alcalá,7,4,1,0,0,20,912,MEDIA
+Portal Sur,15,0,1,0,0,24,685,MEDIA
+Calle 72,15,4,0,0,0,27,476,BAJA
+Calle 72,6,2,0,0,0,22,962,ALTA
+Portal Sur,8,5,1,0,0,11,870,MEDIA
+Calle 72,6,4,1,0,0,30,1039,ALTA
+Av. Jiménez,17,5,0,1,1,21,479,BAJA
+Calle 72,11,2,0,0,0,20,615,BAJA
+Museo del Oro,6,5,0,0,0,27,341,BAJA
+Calle 72,8,3,1,0,0,35,1079,ALTA
+Museo del Oro,22,4,0,0,1,10,756,MEDIA
+Alcalá,9,2,0,0,0,39,175,BAJA
+Portal Sur,17,3,1,0,0,29,1012,ALTA
+Alcalá,13,5,0,0,0,26,219,BAJA
+Portal Norte,8,2,1,0,0,11,1097,ALTA
+Av. Jiménez,10,0,0,0,1,32,691,MEDIA
+Calle 72,5,2,0,0,0,32,306,BAJA
+Alcalá,18,2,1,0,0,27,901,MEDIA
+Portal Sur,11,2,1,0,0,34,685,MEDIA
+Calle 72,13,0,1,0,0,35,516,BAJA
+Museo del Oro,7,0,1,0,0,36,731,MEDIA
+Museo del Oro,19,2,0,0,0,20,738,MEDIA
+Av. Jiménez,8,2,0,0,0,30,682,MEDIA
+Av. Jiménez,15,0,0,0,1,11,953,ALTA
+Portal Norte,20,2,1,0,0,27,565,BAJA
+Av. Jiménez,17,2,0,0,1,14,1099,ALTA
+Av. Jiménez,15,0,1,0,0,19,759,MEDIA
+Portal Sur,20,1,1,0,0,30,731,MEDIA
+Alcalá,8,1,1,0,0,23,832,MEDIA
+Portal Sur,22,1,1,0,0,36,691,MEDIA
+Portal Norte,15,5,0,0,0,12,724,MEDIA
+Alcalá,12,0,0,0,0,40,208,BAJA
+Av. Jiménez,9,4,1,0,0,31,451,BAJA
+Av. Jiménez,18,4,0,0,0,23,961,ALTA
+Alcalá,22,5,0,0,0,10,414,BAJA
+Alcalá,17,3,1,0,0,11,988,ALTA
+Portal Norte,5,3,0,1,0,22,188,BAJA
+Av. Jiménez,13,5,0,0,0,27,420,BAJA
+Portal Sur,18,5,0,0,0,25,641,BAJA
+Museo del Oro,12,1,0,0,0,19,330,BAJA
+Calle 72,18,5,1,0,0,30,352,BAJA
+Museo del Oro,17,3,0,0,0,29,762,MEDIA
+Alcalá,6,0,0,0,0,20,792,MEDIA
+Calle 72,15,4,0,0,1,20,720,MEDIA
+Portal Sur,8,6,1,0,0,23,786,MEDIA
+Portal Sur,13,0,1,0,0,33,714,MEDIA
+Alcalá,11,0,0,0,0,28,273,BAJA
+Calle 72,19,6,0,0,1,13,783,MEDIA
+Calle 72,20,4,0,0,0,38,480,BAJA
+Museo del Oro,13,1,0,0,0,16,347,BAJA
+Museo del Oro,14,5,0,0,0,30,402,BAJA
+Av. Jiménez,16,2,0,0,0,10,486,BAJA
+Portal Sur,16,2,0,1,0,17,294,BAJA
+Portal Sur,16,2,0,0,1,27,944,MEDIA
+Calle 72,19,4,0,0,0,36,687,MEDIA
+Portal Sur,22,0,0,0,0,27,579,BAJA
+Calle 72,19,2,0,0,0,11,1123,ALTA
+Av. Jiménez,7,2,1,0,0,39,1008,ALTA
+Portal Norte,13,0,0,0,0,18,553,BAJA
+Av. Jiménez,13,5,0,0,0,21,469,BAJA
+Alcalá,14,0,1,0,0,13,468,BAJA
+Av. Jiménez,14,6,0,0,0,31,559,BAJA
+Portal Sur,17,0,1,0,0,23,1062,ALTA
+Portal Norte,12,2,0,0,0,16,539,BAJA
+Museo del Oro,9,0,1,1,0,29,223,BAJA
+Av. Jiménez,13,2,0,0,0,16,410,BAJA
+Portal Sur,20,4,0,0,0,26,531,BAJA
+Alcalá,10,0,1,0,0,30,373,BAJA
+Museo del Oro,5,3,1,0,0,35,427,BAJA
+Portal Norte,22,5,0,1,0,31,125,BAJA
+Av. Jiménez,8,3,1,0,0,27,1026,ALTA
+Portal Norte,15,0,0,0,0,11,698,MEDIA
+Av. Jiménez,19,4,1,0,0,17,1005,ALTA
+Portal Norte,9,1,1,0,0,27,811,MEDIA
+Museo del Oro,11,0,0,0,0,26,391,BAJA
+Calle 72,10,3,1,0,0,26,484,BAJA
+Calle 72,7,1,1,0,0,32,1058,ALTA
+Portal Norte,7,0,1,0,0,38,970,ALTA
+Alcalá,8,5,0,1,0,25,30,BAJA
+Alcalá,13,4,1,0,0,14,437,BAJA
+Portal Sur,14,6,0,0,1,23,922,MEDIA
+Portal Norte,5,3,0,0,0,17,579,BAJA
+Av. Jiménez,20,3,1,0,0,26,570,BAJA
+Alcalá,17,5,0,0,0,28,259,BAJA
+Museo del Oro,6,0,1,0,1,26,1094,ALTA
+Portal Norte,20,2,0,0,0,28,638,BAJA
+Portal Norte,5,5,0,0,0,19,505,BAJA
+Calle 72,15,2,1,0,0,15,627,BAJA
+Alcalá,13,6,0,0,0,36,231,BAJA
+Calle 72,14,1,0,0,0,22,458,BAJA
+Alcalá,22,2,0,0,0,16,421,BAJA
+Portal Sur,21,6,0,0,0,40,400,BAJA
+Alcalá,10,1,0,1,0,11,119,BAJA
+Portal Sur,15,6,0,0,0,20,540,BAJA
+Calle 72,22,0,1,0,1,32,737,MEDIA
+Portal Sur,18,1,1,1,0,22,740,MEDIA
+Calle 72,20,4,1,0,0,36,477,BAJA
+Calle 72,12,4,0,1,0,21,128,BAJA
+Calle 72,10,6,1,1,0,29,377,BAJA
+Portal Norte,14,6,0,0,0,23,601,BAJA
+Portal Norte,19,4,1,1,0,24,831,MEDIA
+Calle 72,21,4,0,0,0,25,361,BAJA
+Portal Norte,17,2,1,0,0,40,1059,ALTA
+Av. Jiménez,17,5,0,0,1,33,823,MEDIA
+Portal Norte,14,4,0,0,0,21,664,MEDIA
+Portal Norte,10,0,1,0,0,22,603,BAJA
+Alcalá,12,5,0,0,0,22,271,BAJA
+Portal Norte,13,2,1,0,0,32,657,MEDIA
+Portal Norte,19,3,1,0,0,28,1026,ALTA
+Portal Norte,14,3,0,0,0,26,767,MEDIA
+Portal Norte,19,5,0,0,0,23,543,BAJA
+Museo del Oro,5,1,0,0,0,22,385,BAJA
+Portal Sur,18,2,1,0,0,27,1070,ALTA
+Portal Sur,14,0,1,1,0,35,389,BAJA
+Museo del Oro,22,2,0,0,0,39,397,BAJA
+Portal Norte,13,0,1,0,0,11,783,MEDIA
+Portal Sur,13,4,0,0,0,17,640,BAJA
+Portal Norte,7,6,0,0,0,31,448,BAJA
+Museo del Oro,19,3,1,0,0,14,1053,ALTA
+Av. Jiménez,17,6,1,0,0,28,581,BAJA
+Alcalá,20,6,0,0,0,23,287,BAJA
+Calle 72,6,0,0,0,0,15,723,MEDIA
+Museo del Oro,8,3,0,0,0,25,760,MEDIA
+Av. Jiménez,20,3,0,0,0,25,458,BAJA
+Museo del Oro,5,2,0,0,0,32,182,BAJA
+Alcalá,14,5,1,1,0,35,129,BAJA
+Portal Sur,12,2,0,0,0,39,483,BAJA
+Av. Jiménez,21,0,0,0,0,23,654,MEDIA
+Av. Jiménez,20,3,1,1,0,31,387,BAJA
+Portal Sur,21,1,0,0,0,34,498,BAJA
+Av. Jiménez,10,2,0,0,0,40,510,BAJA
+Calle 72,15,3,1,0,0,30,669,MEDIA
+Av. Jiménez,17,5,0,0,0,17,493,BAJA
+Portal Norte,22,1,0,0,1,20,767,MEDIA
+Calle 72,5,2,0,0,0,16,332,BAJA
+Av. Jiménez,22,0,0,0,0,16,574,BAJA
+Portal Sur,11,2,0,0,0,19,568,BAJA
+Portal Sur,7,4,0,0,0,25,1043,ALTA
+Calle 72,16,4,0,1,0,34,51,BAJA
+Av. Jiménez,19,2,1,0,0,19,984,ALTA
+Portal Norte,7,0,0,0,0,15,985,ALTA
+Portal Sur,5,4,0,0,0,13,578,BAJA
+Calle 72,21,4,0,0,0,16,459,BAJA
+Portal Sur,21,0,1,0,0,23,683,MEDIA
+Alcalá,7,3,0,0,0,22,707,MEDIA
+Portal Sur,21,0,1,0,0,22,756,MEDIA
+Calle 72,21,3,0,0,0,19,400,BAJA
+Alcalá,22,4,1,0,0,24,504,BAJA
+Portal Sur,8,5,0,0,0,30,567,BAJA
+Museo del Oro,15,4,0,0,0,11,574,BAJA
+Alcalá,22,5,0,0,0,37,237,BAJA
+Alcalá,21,1,0,0,0,19,332,BAJA
+Portal Norte,15,5,1,0,0,14,717,MEDIA
+Alcalá,8,2,0,0,0,15,799,MEDIA
+Portal Sur,6,2,0,0,0,26,1007,ALTA
+Calle 72,9,5,0,0,0,26,513,BAJA
+Calle 72,6,2,1,0,0,12,1176,ALTA
+Portal Sur,8,0,0,0,0,25,952,ALTA
+Calle 72,6,5,1,0,0,16,673,MEDIA
+Av. Jiménez,18,4,1,0,0,38,979,ALTA
+Portal Sur,15,4,0,0,0,19,683,MEDIA
+Museo del Oro,14,1,1,0,1,40,615,BAJA
+Alcalá,19,4,0,0,0,27,645,BAJA
+Portal Norte,12,1,0,0,0,39,439,BAJA
+Calle 72,12,3,0,1,1,27,340,BAJA
+Alcalá,8,3,0,0,0,13,695,MEDIA
+Museo del Oro,13,5,0,0,0,29,338,BAJA
+Calle 72,8,6,0,1,0,24,95,BAJA
+Calle 72,15,1,1,0,0,35,545,BAJA
+Av. Jiménez,22,0,0,0,1,22,763,MEDIA
+Museo del Oro,14,3,0,0,0,15,444,BAJA
+Calle 72,10,6,0,0,0,13,500,BAJA
+Museo del Oro,17,1,0,1,0,33,428,BAJA
+Av. Jiménez,19,3,1,0,0,17,1038,ALTA
+Museo del Oro,13,2,0,0,0,30,402,BAJA
+Portal Norte,9,2,0,0,0,14,601,BAJA
+Museo del Oro,17,4,0,0,0,12,878,MEDIA
+Alcalá,8,2,1,0,0,32,663,MEDIA
+Portal Norte,22,3,0,0,0,20,657,MEDIA
+Calle 72,10,5,1,0,1,27,763,MEDIA
+Portal Sur,11,2,0,0,0,10,627,BAJA
+Museo del Oro,18,0,0,0,0,15,739,MEDIA
+Portal Sur,5,6,0,0,0,12,591,BAJA
+Museo del Oro,8,1,0,0,0,18,773,MEDIA
+Portal Sur,7,5,0,0,0,18,772,MEDIA
+Museo del Oro,12,5,0,0,0,21,343,BAJA
+Portal Norte,14,3,0,0,0,17,441,BAJA
+Portal Sur,8,0,0,0,0,24,1045,ALTA
+Av. Jiménez,11,6,0,0,0,37,329,BAJA
+Portal Norte,18,4,0,0,0,12,1113,ALTA
+Av. Jiménez,21,2,0,1,0,37,84,BAJA
+Av. Jiménez,5,5,0,0,0,22,486,BAJA
+Portal Norte,16,5,0,0,0,27,654,MEDIA
+Alcalá,5,5,1,0,0,30,429,BAJA
+Calle 72,14,1,0,1,0,32,30,BAJA
+Calle 72,20,4,0,0,0,39,278,BAJA
+Av. Jiménez,19,2,0,0,0,40,657,MEDIA
+Portal Sur,9,0,1,0,1,13,1260,ALTA
+Portal Sur,9,2,0,0,0,22,559,BAJA
+Portal Sur,19,0,0,0,0,26,1098,ALTA
+Calle 72,19,0,0,0,0,26,801,MEDIA
+Alcalá,10,5,0,0,0,40,114,BAJA
+Portal Sur,5,3,1,0,0,30,702,MEDIA
+Av. Jiménez,13,2,0,0,0,22,482,BAJA
+Museo del Oro,16,1,0,0,0,38,356,BAJA
+Portal Norte,12,5,0,0,0,32,593,BAJA
+Portal Sur,21,4,1,0,0,34,629,BAJA
+Alcalá,19,4,1,0,0,29,671,MEDIA
+Av. Jiménez,19,1,1,0,0,11,998,ALTA
+Museo del Oro,5,0,1,0,0,40,217,BAJA
+Av. Jiménez,20,0,1,0,1,32,796,MEDIA
+Portal Norte,18,0,0,0,0,14,1035,ALTA
+Museo del Oro,12,6,0,1,1,17,277,BAJA
+Portal Sur,15,2,0,0,0,20,539,BAJA
+Alcalá,19,4,0,0,1,17,987,ALTA
+Alcalá,21,6,1,0,0,29,335,BAJA
+Av. Jiménez,14,6,0,1,0,26,167,BAJA
+Alcalá,5,2,0,0,0,16,315,BAJA
+Museo del Oro,16,3,0,0,0,31,354,BAJA
+Museo del Oro,17,3,0,0,0,18,767,MEDIA
+Museo del Oro,6,0,0,0,0,14,797,MEDIA
+Alcalá,19,5,0,0,0,39,55,BAJA
+Portal Sur,8,4,0,0,0,19,1042,ALTA
+Portal Norte,21,2,0,0,0,17,625,BAJA
+Portal Norte,14,3,0,0,1,32,764,MEDIA
+Av. Jiménez,10,5,0,0,0,33,595,BAJA
+Museo del Oro,6,0,1,0,0,14,969,ALTA
+Portal Sur,5,4,0,0,0,11,681,MEDIA
+Av. Jiménez,18,6,0,0,0,36,464,BAJA
+Museo del Oro,11,5,1,0,0,25,659,MEDIA
+Alcalá,20,4,1,0,1,24,686,MEDIA
+Av. Jiménez,9,0,0,0,1,23,574,BAJA
+Av. Jiménez,21,5,0,1,0,28,207,BAJA
+Museo del Oro,21,5,0,0,0,30,270,BAJA
+Av. Jiménez,6,3,1,0,0,12,934,MEDIA
+Alcalá,16,4,0,0,0,18,468,BAJA
+Alcalá,21,4,1,0,0,39,445,BAJA
+Museo del Oro,10,0,1,0,0,15,478,BAJA
+Av. Jiménez,6,1,0,0,0,38,740,MEDIA
+Museo del Oro,20,5,0,0,0,22,401,BAJA
+Calle 72,13,6,1,0,0,15,559,BAJA
+Av. Jiménez,5,1,1,0,0,28,581,BAJA
+Calle 72,20,2,1,1,0,30,183,BAJA
+Portal Norte,17,6,0,0,0,20,568,BAJA
+Portal Norte,6,1,1,0,0,34,924,MEDIA
+Museo del Oro,9,1,1,0,0,11,640,BAJA
+Portal Norte,5,0,1,0,0,13,858,MEDIA
+Museo del Oro,22,1,0,0,0,29,338,BAJA
+Av. Jiménez,5,4,0,0,1,27,725,MEDIA
+Av. Jiménez,19,2,0,0,0,31,904,MEDIA
+Portal Sur,14,6,1,0,0,36,664,MEDIA
+Museo del Oro,15,6,1,0,0,38,550,BAJA
+Portal Sur,19,6,0,1,0,25,205,BAJA
+Portal Sur,21,5,0,0,0,25,679,MEDIA
+Portal Norte,7,4,0,0,0,38,883,MEDIA
+Calle 72,5,3,0,0,0,39,276,BAJA
+Museo del Oro,7,6,1,0,0,11,754,MEDIA
+Alcalá,17,0,0,0,0,25,881,MEDIA
+Portal Norte,15,5,0,0,0,38,475,BAJA
+Portal Norte,6,0,1,0,0,11,1210,ALTA
+Alcalá,9,2,0,0,0,40,162,BAJA
+Alcalá,14,1,0,1,0,33,30,BAJA
+Calle 72,18,4,0,0,0,14,825,MEDIA
+Av. Jiménez,11,5,0,0,0,29,364,BAJA
+Museo del Oro,22,0,0,0,0,23,530,BAJA
+Calle 72,22,4,0,1,0,20,177,BAJA
+Calle 72,18,1,0,0,0,29,830,MEDIA
+Av. Jiménez,13,0,0,0,0,32,383,BAJA
+Museo del Oro,20,2,0,0,0,37,313,BAJA
+Calle 72,18,4,0,0,0,22,748,MEDIA
+Av. Jiménez,14,1,0,0,0,14,494,BAJA
+Calle 72,12,2,0,0,0,36,288,BAJA
+Portal Sur,19,6,0,0,0,20,743,MEDIA
+Portal Norte,15,2,1,0,0,33,510,BAJA
+Calle 72,8,6,0,0,0,34,302,BAJA
+Calle 72,22,5,0,0,0,11,370,BAJA
+Alcalá,6,2,0,0,0,22,637,BAJA
+Alcalá,17,4,0,0,1,12,981,ALTA
+Museo del Oro,16,4,0,0,0,28,430,BAJA
+Portal Norte,15,3,0,1,0,34,198,BAJA
+Portal Sur,5,2,0,0,0,27,565,BAJA
+Av. Jiménez,13,2,1,0,0,20,664,MEDIA
+Alcalá,21,0,0,0,0,40,165,BAJA
+Av. Jiménez,9,0,0,0,0,12,761,MEDIA
+Alcalá,17,2,1,0,0,14,829,MEDIA
+Portal Sur,20,5,0,0,0,21,667,MEDIA
+Calle 72,22,1,0,0,0,39,432,BAJA
+Portal Sur,14,1,0,0,0,37,488,BAJA
+Calle 72,10,2,0,0,0,27,451,BAJA
+Av. Jiménez,17,4,1,0,0,39,886,MEDIA
+Calle 72,13,1,0,0,0,38,394,BAJA
+Portal Sur,16,1,0,0,0,28,600,BAJA
+Calle 72,18,0,1,0,0,13,1031,ALTA
+Museo del Oro,17,2,0,0,0,37,606,BAJA
+Museo del Oro,9,1,0,0,0,29,495,BAJA
+Portal Sur,18,5,0,0,0,14,723,MEDIA
+Alcalá,14,6,0,0,1,36,347,BAJA
+Portal Norte,21,2,0,0,0,22,554,BAJA
+Alcalá,16,0,0,0,0,34,110,BAJA
+Portal Norte,21,0,0,1,0,18,373,BAJA
+Museo del Oro,22,2,1,0,0,10,578,BAJA
+Av. Jiménez,22,3,0,0,0,24,496,BAJA
+Museo del Oro,18,3,1,0,0,24,829,MEDIA
+Portal Sur,15,2,0,0,0,36,519,BAJA
+Alcalá,7,2,1,0,0,13,945,MEDIA
+Av. Jiménez,11,1,0,0,0,38,496,BAJA
+Alcalá,13,3,1,0,0,14,544,BAJA
+Calle 72,19,4,1,1,0,38,468,BAJA
+Calle 72,15,0,0,0,0,31,399,BAJA
+Av. Jiménez,12,3,0,0,0,21,534,BAJA
+Museo del Oro,7,4,1,0,0,39,747,MEDIA
+Portal Sur,17,4,1,0,0,21,1021,ALTA
+Portal Sur,12,3,0,1,1,29,433,BAJA
+Calle 72,5,3,1,0,0,10,780,MEDIA
+Calle 72,10,4,0,0,0,13,427,BAJA
+Alcalá,20,2,0,0,0,20,324,BAJA
+Av. Jiménez,7,3,0,0,0,17,925,MEDIA
+Calle 72,12,2,1,0,0,17,606,BAJA
+Alcalá,14,3,0,0,0,21,288,BAJA
+Av. Jiménez,6,0,0,0,1,28,1185,ALTA
+Alcalá,7,2,0,0,0,13,765,MEDIA
+Alcalá,21,0,0,0,0,33,192,BAJA
+Alcalá,15,1,0,0,0,36,228,BAJA
+Museo del Oro,8,2,0,0,0,35,608,BAJA
+Portal Sur,8,3,1,0,0,16,1222,ALTA
+Alcalá,12,6,0,0,0,37,164,BAJA
+Calle 72,18,0,0,0,0,14,866,MEDIA
+Portal Norte,18,6,0,0,0,13,683,MEDIA
+Calle 72,8,2,0,0,0,32,775,MEDIA
+Museo del Oro,18,5,0,0,0,33,294,BAJA
+Museo del Oro,21,4,0,0,1,13,785,MEDIA
+Portal Norte,9,6,0,0,0,22,510,BAJA
+Museo del Oro,5,0,0,0,0,22,428,BAJA
+Calle 72,22,6,0,0,0,32,484,BAJA
+Museo del Oro,14,0,1,0,0,25,583,BAJA
+Museo del Oro,18,6,0,1,0,28,226,BAJA
+Museo del Oro,10,4,0,0,0,12,397,BAJA
+Av. Jiménez,10,3,0,1,0,40,31,BAJA
+Av. Jiménez,9,2,0,0,0,27,543,BAJA
+Portal Sur,8,0,0,0,0,30,1055,ALTA
+Portal Sur,13,5,0,0,0,24,553,BAJA
+Portal Sur,6,5,0,0,1,17,947,MEDIA
+Av. Jiménez,20,6,0,0,0,30,678,MEDIA
+Av. Jiménez,14,5,0,1,0,18,240,BAJA
+Calle 72,21,6,0,1,1,16,528,BAJA
+Museo del Oro,14,6,1,0,0,27,604,BAJA
+Portal Norte,10,2,0,0,0,21,794,MEDIA
+Av. Jiménez,14,4,0,0,0,37,438,BAJA
+Calle 72,7,1,0,0,0,30,920,MEDIA
+Museo del Oro,19,5,0,0,0,21,331,BAJA
+Alcalá,17,4,0,1,0,11,476,BAJA
+Alcalá,7,3,0,0,0,20,684,MEDIA
+Av. Jiménez,15,4,0,0,0,13,411,BAJA
+Portal Norte,14,1,0,1,0,16,196,BAJA
+Calle 72,8,4,0,0,0,18,926,MEDIA
+Portal Norte,7,3,0,0,1,30,1226,ALTA
+Portal Sur,18,2,0,0,0,13,999,ALTA
+Alcalá,9,6,1,0,0,15,595,BAJA
+Museo del Oro,14,0,0,0,0,11,365,BAJA
+Calle 72,9,5,1,0,0,38,513,BAJA
+Portal Norte,16,1,1,0,0,40,567,BAJA
+Alcalá,5,1,0,0,0,19,335,BAJA
+Calle 72,11,1,0,0,0,24,528,BAJA
+Portal Norte,14,0,1,0,0,19,787,MEDIA
+Calle 72,12,0,0,0,0,26,501,BAJA
+Calle 72,16,5,0,0,0,27,484,BAJA
+Museo del Oro,8,6,0,0,0,17,316,BAJA
+Alcalá,12,4,0,0,0,29,357,BAJA
+Calle 72,18,0,1,0,0,10,975,ALTA
+Portal Sur,11,6,1,0,0,29,698,MEDIA
+Portal Norte,7,4,1,1,0,33,714,MEDIA
+Portal Norte,20,3,1,0,0,11,802,MEDIA
+Portal Norte,19,6,0,0,0,32,489,BAJA
+Alcalá,17,2,0,0,0,32,635,BAJA
+Museo del Oro,19,2,1,0,0,40,930,MEDIA
+Portal Sur,19,5,1,0,0,34,572,BAJA
+Portal Norte,18,3,1,0,1,10,1430,ALTA
+Portal Norte,14,5,1,0,0,12,679,MEDIA
+Alcalá,5,4,0,0,0,14,410,BAJA
+Portal Norte,15,5,0,0,0,28,494,BAJA
+Portal Norte,9,2,1,0,0,32,651,MEDIA
+Museo del Oro,18,0,0,1,1,30,584,BAJA
+Museo del Oro,13,3,0,1,0,20,203,BAJA
+Calle 72,21,4,0,0,0,16,510,BAJA
+Av. Jiménez,15,5,0,0,0,11,585,BAJA
+Portal Sur,14,1,0,0,0,21,700,MEDIA
+Av. Jiménez,21,5,0,1,0,19,126,BAJA
+Av. Jiménez,13,5,0,0,0,19,477,BAJA
+Portal Norte,11,5,0,1,0,12,362,BAJA
+Av. Jiménez,11,5,0,0,0,19,385,BAJA
+Portal Sur,20,6,0,0,0,35,418,BAJA
+Museo del Oro,18,4,0,0,0,17,752,MEDIA
+Alcalá,7,2,0,0,1,37,777,MEDIA
+Portal Norte,13,3,0,0,0,12,620,BAJA
+Portal Norte,11,5,0,0,0,29,588,BAJA
+Museo del Oro,16,1,0,0,0,13,502,BAJA
+Calle 72,5,4,1,0,0,21,739,MEDIA
+Museo del Oro,17,4,0,0,0,39,684,MEDIA
+Alcalá,18,4,0,0,0,33,654,MEDIA
+Av. Jiménez,9,2,0,0,0,25,488,BAJA
+Museo del Oro,7,5,0,0,0,29,372,BAJA
+Portal Sur,16,0,1,0,0,30,732,MEDIA
+Portal Norte,9,5,1,0,0,34,710,MEDIA
+Alcalá,21,5,0,0,0,28,345,BAJA
+Calle 72,18,6,1,0,0,25,612,BAJA
+Portal Sur,22,6,0,1,1,12,759,MEDIA
+Museo del Oro,14,2,0,0,1,39,538,BAJA
+Portal Norte,21,0,0,0,0,27,509,BAJA
+Portal Sur,5,4,0,0,0,18,616,BAJA
+Calle 72,10,0,0,0,0,14,508,BAJA
+Museo del Oro,5,1,0,0,0,28,265,BAJA
+Alcalá,17,4,0,0,0,34,587,BAJA
+Alcalá,14,4,0,0,0,35,139,BAJA
+Alcalá,10,4,0,0,0,37,246,BAJA
+Av. Jiménez,10,5,0,0,0,37,446,BAJA
+Museo del Oro,16,1,0,0,0,29,204,BAJA
+Calle 72,8,5,0,0,0,39,314,BAJA
+Alcalá,14,4,0,0,0,12,514,BAJA
+Av. Jiménez,16,2,0,0,0,22,558,BAJA
+Portal Sur,9,3,1,0,0,24,772,MEDIA
+Av. Jiménez,9,3,0,0,1,31,651,MEDIA
+Portal Sur,11,3,0,1,0,19,369,BAJA
+Calle 72,15,2,1,0,0,18,611,BAJA
+Portal Sur,9,1,0,0,0,38,468,BAJA
+Portal Norte,11,1,0,0,0,30,500,BAJA
+Portal Norte,14,2,0,0,0,29,508,BAJA
+Av. Jiménez,8,1,0,0,0,15,831,MEDIA
+Av. Jiménez,15,3,0,0,0,25,384,BAJA
+Portal Sur,7,6,0,0,0,23,606,BAJA
+Av. Jiménez,7,0,0,0,0,29,798,MEDIA
+Portal Norte,9,2,1,0,0,38,588,BAJA
+Calle 72,10,0,0,0,0,18,364,BAJA
+Av. Jiménez,5,6,0,0,0,35,494,BAJA
+Museo del Oro,22,4,1,0,0,29,632,BAJA
+Museo del Oro,10,1,0,0,0,25,452,BAJA
+Calle 72,19,2,1,0,0,39,976,ALTA
+Museo del Oro,21,5,0,0,0,14,486,BAJA
+Museo del Oro,19,6,0,0,0,31,355,BAJA
+Portal Sur,19,4,1,0,0,22,1155,ALTA
+Museo del Oro,6,1,0,0,0,31,661,MEDIA
+Portal Sur,11,4,1,0,0,14,851,MEDIA
+Calle 72,18,4,0,0,0,32,858,MEDIA
+Portal Sur,15,4,1,0,1,12,1021,ALTA
+Portal Norte,5,0,0,0,0,20,642,BAJA
+Portal Norte,15,4,0,0,0,38,436,BAJA
+Alcalá,19,0,0,0,0,29,616,BAJA
+Av. Jiménez,19,6,1,0,0,25,672,MEDIA
+Museo del Oro,11,6,0,0,0,20,434,BAJA
+Museo del Oro,9,3,0,0,0,12,429,BAJA
+Portal Sur,10,4,1,0,1,13,1024,ALTA
+Calle 72,10,0,0,0,0,32,422,BAJA
+Calle 72,11,6,0,0,0,18,345,BAJA
+Portal Norte,10,1,0,0,0,12,587,BAJA
+Alcalá,13,1,0,1,0,23,30,BAJA
+Calle 72,5,4,0,0,0,22,469,BAJA
+Museo del Oro,9,6,0,0,0,39,373,BAJA
+Av. Jiménez,10,3,0,0,0,17,576,BAJA
+Portal Norte,7,3,0,0,0,18,971,ALTA
+Av. Jiménez,20,3,0,0,0,15,493,BAJA
+Portal Norte,17,2,0,0,0,15,970,ALTA
+Calle 72,21,4,1,0,0,26,724,MEDIA
+Portal Norte,15,6,0,0,0,16,629,BAJA
+Portal Sur,6,2,0,0,0,32,984,ALTA
+Museo del Oro,21,5,0,0,0,35,141,BAJA
+Alcalá,13,5,0,0,0,25,196,BAJA
+Av. Jiménez,17,5,1,0,0,17,654,MEDIA
+Calle 72,11,5,0,1,0,35,50,BAJA
+Museo del Oro,13,6,1,0,0,39,417,BAJA
+Alcalá,13,5,0,0,0,38,222,BAJA
+Museo del Oro,10,6,1,0,0,38,460,BAJA
+Portal Norte,14,5,1,0,0,35,480,BAJA
+Calle 72,18,5,0,0,0,32,320,BAJA
+Alcalá,5,6,1,0,0,39,318,BAJA
+Museo del Oro,7,6,1,0,0,20,468,BAJA
+Alcalá,20,4,0,0,0,38,187,BAJA
+Museo del Oro,15,4,0,0,0,10,469,BAJA
+Portal Norte,22,6,0,0,0,35,450,BAJA
+Alcalá,15,2,0,0,0,20,335,BAJA
+Portal Sur,16,0,0,0,0,19,690,MEDIA
+Portal Sur,21,6,0,0,0,30,585,BAJA
+Alcalá,16,4,0,0,1,15,658,MEDIA
+Calle 72,10,2,0,0,0,40,186,BAJA
+Alcalá,14,5,0,0,0,32,201,BAJA
+Calle 72,9,0,0,0,1,10,861,MEDIA
+Alcalá,11,3,0,0,0,36,155,BAJA
+Calle 72,17,1,1,0,0,13,962,ALTA
+Museo del Oro,7,2,0,1,0,35,400,BAJA
+Portal Sur,17,6,1,0,0,35,669,MEDIA
+Portal Norte,15,3,1,0,0,29,623,BAJA
+Portal Norte,10,0,1,0,0,28,819,MEDIA
+Alcalá,5,2,0,0,0,35,253,BAJA
+Portal Norte,17,1,1,0,0,36,952,ALTA
+Museo del Oro,19,6,1,0,1,31,589,BAJA
+Alcalá,18,2,1,1,1,15,852,MEDIA
+Museo del Oro,12,2,0,0,0,30,266,BAJA
+Av. Jiménez,16,2,0,0,0,16,716,MEDIA
+Av. Jiménez,12,1,0,0,0,11,608,BAJA
+Museo del Oro,11,5,0,0,0,14,481,BAJA
+Museo del Oro,10,4,0,0,0,24,396,BAJA
+Museo del Oro,8,3,1,0,0,39,896,MEDIA
+Portal Norte,22,2,0,0,0,11,462,BAJA
+Museo del Oro,16,4,0,0,1,12,602,BAJA
+Portal Sur,8,0,1,0,0,12,1291,ALTA
+Portal Sur,20,6,0,0,0,15,790,MEDIA
+Portal Norte,7,3,0,0,0,26,865,MEDIA
+Portal Sur,15,1,1,0,0,35,525,BAJA
+Portal Sur,7,3,1,0,0,11,1227,ALTA
+Calle 72,11,5,0,0,0,34,435,BAJA
+Alcalá,16,1,0,0,0,38,224,BAJA
+Museo del Oro,22,3,0,0,0,12,443,BAJA
+Av. Jiménez,22,4,0,0,0,23,354,BAJA
+Portal Sur,21,5,1,0,0,35,640,BAJA
+Museo del Oro,9,3,1,0,0,31,436,BAJA
+Museo del Oro,6,5,0,0,0,15,386,BAJA
+Calle 72,21,5,0,0,0,14,363,BAJA
+Alcalá,21,6,0,0,0,23,349,BAJA
+Alcalá,10,2,0,0,0,36,293,BAJA
+Portal Norte,5,4,0,0,0,39,422,BAJA
+Portal Sur,16,1,0,0,0,24,601,BAJA
+Portal Norte,6,5,1,0,0,26,644,BAJA
+Av. Jiménez,5,6,0,0,0,27,439,BAJA
+Alcalá,21,2,0,0,0,25,329,BAJA
+Calle 72,13,3,0,0,0,30,461,BAJA
+Av. Jiménez,7,5,1,0,0,18,738,MEDIA
+Calle 72,16,0,1,0,0,26,648,BAJA
+Portal Sur,11,4,0,0,0,29,572,BAJA
+Av. Jiménez,14,5,0,0,0,27,705,MEDIA
+Museo del Oro,21,6,1,0,1,40,774,MEDIA
+Alcalá,9,1,0,0,0,33,189,BAJA
+Museo del Oro,16,5,0,0,0,32,338,BAJA
+Portal Sur,19,5,0,0,1,35,641,BAJA
+Portal Norte,12,0,1,0,0,26,686,MEDIA
+Calle 72,22,4,0,0,0,19,620,BAJA
+Alcalá,13,4,0,0,0,26,507,BAJA
+Alcalá,13,6,0,0,0,38,202,BAJA
+Museo del Oro,20,0,0,0,0,37,325,BAJA
+Av. Jiménez,16,6,0,0,1,20,818,MEDIA
+Calle 72,20,3,1,0,0,24,734,MEDIA
+Alcalá,19,1,1,0,0,18,773,MEDIA
+Portal Sur,17,2,0,0,0,10,1312,ALTA
+Calle 72,9,5,0,1,0,19,161,BAJA
+Museo del Oro,12,6,1,0,0,13,468,BAJA
+Museo del Oro,20,2,1,0,0,21,489,BAJA
+Av. Jiménez,16,6,0,0,0,11,509,BAJA
+Alcalá,10,4,0,0,0,19,360,BAJA
+Portal Norte,10,1,0,0,0,32,396,BAJA
+Calle 72,18,4,0,1,0,36,495,BAJA
+Portal Norte,8,5,0,0,0,37,551,BAJA
+Portal Sur,7,0,0,0,0,27,1117,ALTA
+Museo del Oro,18,0,0,0,0,26,818,MEDIA
+Alcalá,10,0,1,0,0,39,440,BAJA
+Museo del Oro,18,3,1,0,1,27,1080,ALTA
+Portal Norte,14,0,1,0,0,12,800,MEDIA
+Av. Jiménez,22,6,0,0,0,39,228,BAJA
+Portal Norte,14,0,0,0,0,29,537,BAJA
+Portal Sur,20,0,0,0,0,30,611,BAJA
+Portal Sur,20,1,0,0,0,12,726,MEDIA
+Alcalá,8,5,0,1,0,24,30,BAJA
+Av. Jiménez,22,6,0,1,0,24,165,BAJA
+Calle 72,18,1,1,0,0,35,890,MEDIA
+Portal Norte,6,3,1,1,0,21,780,MEDIA
+Av. Jiménez,5,5,0,0,0,20,578,BAJA
+Av. Jiménez,9,5,1,0,1,31,807,MEDIA
+Portal Sur,5,1,0,0,0,10,708,MEDIA
+Portal Sur,11,5,0,0,0,33,523,BAJA
+Portal Norte,22,6,0,0,1,10,995,ALTA
+Calle 72,13,5,0,0,0,17,589,BAJA
+Museo del Oro,5,3,0,0,0,25,345,BAJA
+Av. Jiménez,13,2,0,0,0,16,772,MEDIA
+Portal Norte,8,6,0,0,0,11,593,BAJA
+Alcalá,20,6,1,0,0,23,503,BAJA
+Portal Sur,6,3,0,1,0,31,598,BAJA
+Museo del Oro,18,5,0,0,0,17,480,BAJA
+Calle 72,13,2,0,0,0,18,548,BAJA
+Alcalá,5,5,0,0,0,30,179,BAJA
+Portal Norte,17,0,0,0,0,39,876,MEDIA
+Av. Jiménez,13,6,0,0,0,26,633,BAJA
+Portal Sur,18,3,1,0,0,27,1053,ALTA
+Alcalá,16,4,0,0,0,35,262,BAJA
+Calle 72,19,1,0,0,0,12,955,ALTA
+Museo del Oro,13,3,0,0,0,40,277,BAJA
+Calle 72,5,0,1,0,0,24,438,BAJA
+Portal Norte,7,6,0,0,0,21,660,MEDIA
+Av. Jiménez,13,5,0,0,1,29,717,MEDIA
+Alcalá,12,3,1,0,0,38,420,BAJA
+Portal Sur,19,5,0,0,0,39,545,BAJA
+Av. Jiménez,12,5,0,0,0,34,441,BAJA
+Calle 72,20,0,0,0,0,24,486,BAJA
+Portal Norte,8,0,0,0,0,14,957,ALTA
+Calle 72,11,1,1,0,0,15,755,MEDIA
+Portal Norte,18,0,0,0,0,35,880,MEDIA
+Calle 72,7,4,0,0,0,13,893,MEDIA
+Portal Sur,10,3,0,0,0,24,719,MEDIA
+Portal Norte,18,3,0,0,0,22,1008,ALTA
+Portal Norte,15,0,0,0,1,31,765,MEDIA
+Museo del Oro,19,6,1,0,0,20,553,BAJA
+Calle 72,14,6,0,0,1,31,714,MEDIA
+Av. Jiménez,20,4,1,0,0,25,601,BAJA
+Portal Norte,20,0,1,0,0,37,692,MEDIA
+Calle 72,22,2,0,0,0,15,408,BAJA
+Av. Jiménez,7,5,1,0,0,33,583,BAJA
+Portal Sur,15,5,1,0,0,32,752,MEDIA
+Av. Jiménez,7,1,0,0,0,35,880,MEDIA
+Museo del Oro,9,5,0,0,1,25,441,BAJA
+Museo del Oro,10,6,0,0,0,19,396,BAJA
+Calle 72,16,3,0,0,0,26,347,BAJA
+Calle 72,12,2,1,0,0,40,583,BAJA
+Av. Jiménez,20,3,0,0,0,16,513,BAJA
+Portal Norte,10,0,0,0,0,30,634,BAJA
+Portal Sur,16,3,0,0,0,16,567,BAJA
+Museo del Oro,18,0,0,0,0,33,753,MEDIA
+Calle 72,22,0,1,0,0,23,583,BAJA
+Av. Jiménez,9,3,1,0,0,36,765,MEDIA
+Calle 72,18,3,1,1,0,15,824,MEDIA
+Museo del Oro,6,6,0,0,0,13,531,BAJA
+Portal Sur,14,3,0,0,0,39,688,MEDIA
+Portal Norte,12,6,1,0,0,20,743,MEDIA
+Av. Jiménez,22,5,0,0,0,12,560,BAJA
+Portal Norte,18,2,0,0,0,35,893,MEDIA
+Av. Jiménez,21,6,0,0,1,22,784,MEDIA
+Calle 72,20,3,0,0,0,38,150,BAJA
+Av. Jiménez,12,4,0,0,0,23,502,BAJA
+Av. Jiménez,18,0,0,0,0,33,860,MEDIA
+Calle 72,5,1,0,0,0,27,426,BAJA
+Av. Jiménez,15,3,1,0,0,24,494,BAJA
+Portal Sur,5,1,0,0,1,25,848,MEDIA
+Portal Sur,18,4,0,1,0,17,635,BAJA
+Portal Norte,22,0,1,0,0,32,790,MEDIA
+Av. Jiménez,17,1,0,0,0,26,863,MEDIA
+Alcalá,20,4,0,0,0,10,215,BAJA
+Museo del Oro,9,4,1,0,0,22,491,BAJA
+Calle 72,22,6,1,0,0,22,660,MEDIA
+Museo del Oro,14,6,0,0,0,37,312,BAJA
+Portal Norte,17,5,1,0,0,23,629,BAJA
+Portal Norte,18,0,0,0,0,27,904,MEDIA
+Museo del Oro,16,4,0,0,0,12,425,BAJA
+Museo del Oro,10,1,0,0,0,22,353,BAJA
+Portal Sur,16,1,0,1,0,18,251,BAJA
+Av. Jiménez,16,1,0,0,0,25,485,BAJA
+Alcalá,20,3,0,0,0,37,111,BAJA
+Av. Jiménez,13,0,1,0,0,38,608,BAJA
+Portal Sur,14,3,0,0,0,18,738,MEDIA
+Portal Norte,14,1,0,0,0,29,466,BAJA
+Portal Norte,7,3,1,0,0,39,949,MEDIA
+Portal Sur,6,4,1,0,0,17,1144,ALTA
+Alcalá,5,1,0,0,0,23,299,BAJA
+Alcalá,16,0,1,0,0,25,431,BAJA
+Calle 72,12,5,1,0,0,10,697,MEDIA
+Portal Norte,20,5,0,0,0,24,611,BAJA
+Alcalá,17,1,0,0,0,13,886,MEDIA
+Museo del Oro,7,6,0,0,0,19,411,BAJA
+Calle 72,6,1,0,0,0,13,818,MEDIA
+Portal Sur,11,6,0,0,0,32,439,BAJA
+Alcalá,21,0,0,0,0,35,361,BAJA
+Calle 72,5,4,1,0,0,18,653,MEDIA
+Portal Sur,8,0,0,0,1,11,1361,ALTA
+Portal Sur,5,1,0,0,0,25,646,BAJA
+Museo del Oro,12,2,1,1,0,13,275,BAJA
+Museo del Oro,22,0,1,0,0,23,537,BAJA
+Calle 72,17,3,1,0,0,26,934,MEDIA
+Alcalá,13,1,0,1,0,24,80,BAJA
+Alcalá,7,0,0,0,0,26,642,BAJA
+Alcalá,11,6,0,0,0,27,206,BAJA
+Portal Sur,14,6,0,0,0,15,535,BAJA
+Portal Norte,9,6,0,0,0,31,515,BAJA
+Av. Jiménez,17,1,1,0,0,30,1081,ALTA
+Av. Jiménez,22,2,0,0,0,14,519,BAJA
+Alcalá,8,2,0,0,0,23,592,BAJA
+Museo del Oro,9,2,0,0,0,18,435,BAJA
+Museo del Oro,7,2,0,0,0,22,736,MEDIA
+Portal Norte,18,3,0,0,0,33,1046,ALTA
+Portal Sur,13,3,1,0,0,28,798,MEDIA
+Av. Jiménez,10,2,0,0,0,38,310,BAJA
+Portal Norte,8,6,1,0,0,27,664,MEDIA
+Alcalá,6,6,0,0,0,11,314,BAJA
+Calle 72,13,2,0,0,0,32,315,BAJA
+Portal Norte,17,1,1,0,0,12,1164,ALTA
+Portal Norte,9,3,0,0,0,20,665,MEDIA
+Av. Jiménez,5,2,0,0,0,38,405,BAJA
+Portal Norte,13,6,0,1,0,40,139,BAJA
+Alcalá,17,3,0,0,1,14,830,MEDIA
+Museo del Oro,11,0,0,0,0,40,227,BAJA
+Calle 72,9,0,0,0,0,40,404,BAJA
+Portal Norte,7,0,0,0,0,37,791,MEDIA
+Av. Jiménez,18,2,0,0,0,35,933,MEDIA
+Portal Norte,20,2,0,0,0,12,601,BAJA
+Alcalá,18,5,1,0,0,13,497,BAJA
+Calle 72,14,6,1,0,0,29,514,BAJA
+Av. Jiménez,18,0,0,0,0,13,868,MEDIA
+Portal Norte,12,6,0,0,0,17,653,MEDIA
+Portal Norte,5,4,0,0,0,40,432,BAJA
+Calle 72,11,2,0,0,0,38,305,BAJA
+Portal Norte,17,2,0,0,0,17,828,MEDIA
+Portal Sur,16,3,1,0,0,26,828,MEDIA
+Alcalá,22,1,0,0,0,26,284,BAJA
+Alcalá,22,6,0,0,0,18,421,BAJA
+Calle 72,9,0,0,0,1,17,798,MEDIA
+Portal Sur,5,0,1,0,1,23,1081,ALTA
+Museo del Oro,9,1,0,0,0,28,307,BAJA
+Portal Norte,20,1,0,0,0,34,406,BAJA
+Portal Norte,19,0,1,0,0,36,1085,ALTA
+Museo del Oro,6,2,0,0,0,10,870,MEDIA
+Av. Jiménez,7,2,0,0,0,30,823,MEDIA
+Portal Norte,15,0,0,0,0,29,605,BAJA
+Alcalá,16,5,0,0,0,11,399,BAJA
+Portal Sur,22,6,0,0,0,35,601,BAJA
+Museo del Oro,18,5,0,0,0,28,270,BAJA
+Alcalá,8,3,0,0,0,32,726,MEDIA
+Alcalá,5,6,0,0,0,30,260,BAJA
+Alcalá,16,2,1,1,0,20,227,BAJA
+Calle 72,14,2,1,0,0,16,701,MEDIA
+Alcalá,21,0,1,0,0,21,489,BAJA
+Museo del Oro,15,4,1,0,0,33,433,BAJA
+Portal Sur,14,0,1,0,0,29,763,MEDIA
+Alcalá,10,4,0,0,0,29,355,BAJA
+Portal Norte,6,5,0,0,0,14,685,MEDIA
+Av. Jiménez,20,1,0,0,0,10,596,BAJA
+Portal Norte,19,4,0,0,0,30,997,ALTA
+Calle 72,7,2,0,0,0,39,724,MEDIA
+Av. Jiménez,17,2,0,0,0,21,1035,ALTA
+Alcalá,11,3,0,0,0,23,167,BAJA
+Alcalá,12,1,0,0,0,39,209,BAJA
+Av. Jiménez,20,5,1,1,0,17,326,BAJA
+Calle 72,20,2,0,0,0,26,393,BAJA
+Museo del Oro,8,3,0,0,0,12,872,MEDIA
+Alcalá,10,5,0,0,0,18,242,BAJA
+Alcalá,19,1,0,0,0,21,886,MEDIA
+Calle 72,21,3,0,0,0,31,306,BAJA
+Calle 72,6,6,0,0,0,19,410,BAJA
+Portal Sur,20,2,0,0,0,24,532,BAJA
+Calle 72,13,0,0,0,0,19,502,BAJA
+Calle 72,15,1,0,0,0,14,597,BAJA
+Portal Norte,6,6,1,0,0,34,678,MEDIA
+Av. Jiménez,17,5,1,0,0,30,698,MEDIA
+Av. Jiménez,17,5,0,1,1,30,344,BAJA
+Museo del Oro,16,1,0,0,0,28,405,BAJA
+Calle 72,19,5,0,0,0,14,492,BAJA
+Portal Sur,22,2,1,0,0,25,748,MEDIA
+Portal Sur,20,5,0,0,0,31,663,MEDIA
+Av. Jiménez,18,6,1,0,0,25,475,BAJA
+Calle 72,22,1,1,0,0,32,687,MEDIA
+Museo del Oro,17,6,0,0,0,20,388,BAJA
+Portal Sur,17,4,0,0,0,25,881,MEDIA
+Av. Jiménez,14,5,0,1,0,21,159,BAJA
+Calle 72,18,5,0,0,0,40,368,BAJA
+Museo del Oro,6,1,0,0,0,15,775,MEDIA
+Av. Jiménez,14,5,1,0,0,18,488,BAJA
+Av. Jiménez,12,1,0,0,0,31,462,BAJA
+Av. Jiménez,21,1,0,0,0,11,516,BAJA
+Calle 72,6,0,0,0,0,25,902,MEDIA
+Portal Sur,16,1,1,0,0,10,735,MEDIA
+Av. Jiménez,8,6,0,0,0,26,665,MEDIA
+Av. Jiménez,20,2,0,0,0,19,567,BAJA
+Museo del Oro,20,2,0,0,0,15,446,BAJA
+Av. Jiménez,9,3,0,0,0,25,540,BAJA
+Portal Norte,20,4,1,0,0,20,574,BAJA
+Alcalá,13,4,1,0,0,12,448,BAJA
+Portal Norte,22,3,1,0,0,26,827,MEDIA
+Museo del Oro,18,5,1,0,1,27,702,MEDIA
+Calle 72,5,3,0,1,0,30,115,BAJA
+Calle 72,8,5,0,0,0,37,341,BAJA
+Portal Norte,12,6,0,0,1,31,901,MEDIA
+Alcalá,8,4,0,0,0,34,616,BAJA
+Av. Jiménez,7,0,0,0,0,30,760,MEDIA
+Av. Jiménez,22,1,1,0,0,30,786,MEDIA
+Portal Sur,20,4,0,0,0,34,446,BAJA
+Portal Norte,12,3,0,0,0,30,532,BAJA
+Museo del Oro,8,1,0,0,0,25,703,MEDIA
+Av. Jiménez,8,2,1,0,0,32,912,MEDIA
+Museo del Oro,21,0,1,0,0,39,321,BAJA
+Portal Norte,10,1,0,0,0,25,527,BAJA
+Alcalá,5,5,1,0,0,17,537,BAJA
+Calle 72,12,0,1,1,0,22,136,BAJA
+Portal Sur,13,5,0,0,0,10,801,MEDIA
+Portal Sur,16,2,1,0,0,19,853,MEDIA
+Av. Jiménez,11,5,0,0,0,37,459,BAJA
+Portal Norte,21,1,0,0,0,13,652,MEDIA
+Calle 72,16,5,0,0,0,37,400,BAJA
+Portal Sur,22,4,0,0,0,27,712,MEDIA
+Alcalá,11,5,0,0,0,19,186,BAJA
+Alcalá,16,0,0,0,0,24,354,BAJA
+Calle 72,11,5,0,0,0,37,318,BAJA
+Museo del Oro,17,1,0,0,0,13,908,MEDIA
+Portal Norte,18,2,0,0,0,27,909,MEDIA
+Portal Sur,10,0,0,0,0,18,709,MEDIA
+Av. Jiménez,21,6,0,0,0,26,360,BAJA
+Portal Sur,20,4,0,0,0,34,421,BAJA
+Portal Sur,21,6,1,0,0,38,643,BAJA
+Alcalá,8,3,1,0,0,17,973,ALTA
+Av. Jiménez,17,1,0,0,0,30,903,MEDIA
+Av. Jiménez,6,2,1,0,0,23,1064,ALTA
+Museo del Oro,6,3,0,0,0,25,839,MEDIA
+Portal Norte,22,1,1,0,0,15,718,MEDIA
+Portal Norte,7,6,0,0,0,36,553,BAJA
+Museo del Oro,20,6,0,0,0,15,384,BAJA
+Portal Sur,12,3,0,0,0,11,669,MEDIA
+Museo del Oro,10,4,0,0,1,33,557,BAJA
+Portal Sur,6,4,0,0,0,22,984,ALTA
+Calle 72,17,4,0,0,0,12,923,MEDIA
+Av. Jiménez,17,0,0,0,0,31,834,MEDIA
+Museo del Oro,13,3,0,0,1,18,605,BAJA
+Av. Jiménez,19,5,1,0,0,40,509,BAJA
+Portal Norte,10,5,0,0,0,40,492,BAJA
+Portal Norte,14,4,1,0,0,27,590,BAJA
+Alcalá,10,6,0,0,0,24,329,BAJA
+Museo del Oro,15,4,1,0,0,23,463,BAJA
+Calle 72,7,2,0,0,0,28,848,MEDIA
+Calle 72,13,3,1,0,0,38,439,BAJA
+Portal Norte,14,4,1,1,0,29,450,BAJA
+Alcalá,15,6,1,0,0,13,558,BAJA
+Portal Norte,13,1,1,1,0,16,360,BAJA
+Portal Sur,16,2,0,0,0,29,628,BAJA
+Calle 72,14,4,1,0,1,21,960,ALTA
+Av. Jiménez,10,5,0,0,0,24,420,BAJA
+Calle 72,8,2,0,0,0,22,798,MEDIA
+Portal Sur,16,4,1,0,0,28,771,MEDIA
+Portal Norte,21,0,0,0,0,17,513,BAJA
+Av. Jiménez,18,2,0,0,0,12,906,MEDIA
+Calle 72,16,6,1,0,1,17,787,MEDIA
+Calle 72,21,4,0,0,0,30,480,BAJA
+Calle 72,21,6,0,1,0,28,77,BAJA
+Alcalá,14,1,0,0,0,35,207,BAJA
+Av. Jiménez,6,2,1,0,0,13,1022,ALTA
+Av. Jiménez,16,6,1,0,1,14,1018,ALTA
+Av. Jiménez,16,6,0,0,0,14,487,BAJA
+Alcalá,9,6,0,0,0,27,165,BAJA
+Av. Jiménez,20,2,0,0,0,27,362,BAJA
+Av. Jiménez,20,5,0,0,0,14,611,BAJA
+Calle 72,10,3,0,0,0,23,523,BAJA
+Calle 72,13,5,1,0,0,11,754,MEDIA
+Portal Norte,8,5,0,0,0,28,451,BAJA
+Museo del Oro,8,3,0,0,0,27,740,MEDIA
+Portal Norte,9,2,0,0,0,10,854,MEDIA
+Calle 72,11,6,0,0,0,12,504,BAJA
+Calle 72,9,3,0,0,1,31,619,BAJA
+Calle 72,7,3,0,0,0,37,776,MEDIA
+Portal Sur,13,4,0,0,0,36,586,BAJA
+Museo del Oro,16,6,1,0,0,27,519,BAJA
+Alcalá,10,0,0,1,0,26,30,BAJA
+Av. Jiménez,14,6,0,0,0,35,383,BAJA
+Alcalá,9,2,1,0,0,36,320,BAJA
+Portal Norte,17,0,0,0,1,38,1084,ALTA
+Museo del Oro,16,2,0,0,0,22,289,BAJA
+Portal Sur,22,3,0,1,1,24,711,MEDIA
+Museo del Oro,5,4,0,1,0,12,115,BAJA
+Alcalá,20,3,0,1,0,15,30,BAJA
+Calle 72,11,0,0,0,0,21,448,BAJA
+Portal Norte,6,3,0,0,0,35,904,MEDIA
+Portal Sur,17,1,0,0,0,23,1057,ALTA
+Portal Norte,8,1,0,0,0,28,915,MEDIA
+Portal Sur,8,4,0,0,0,36,1035,ALTA
+Portal Sur,22,5,0,0,0,24,664,MEDIA
+Alcalá,8,1,1,0,0,20,825,MEDIA
+Av. Jiménez,14,4,0,0,0,32,395,BAJA
+Alcalá,8,2,0,0,0,19,813,MEDIA
+Calle 72,7,2,0,0,0,22,855,MEDIA
+Av. Jiménez,5,4,0,0,0,37,319,BAJA
+Portal Norte,5,1,0,0,0,23,664,MEDIA
+Portal Sur,13,5,0,0,0,17,600,BAJA
+Portal Sur,12,2,0,0,0,35,619,BAJA
+Portal Sur,5,0,0,0,0,29,385,BAJA
+Portal Sur,11,5,1,0,0,33,653,MEDIA
+Calle 72,9,5,0,0,1,20,823,MEDIA
+Portal Norte,15,3,1,0,0,34,636,BAJA
+Alcalá,22,5,0,0,0,39,254,BAJA
+Av. Jiménez,17,1,0,0,0,15,878,MEDIA
+Portal Norte,21,2,0,0,1,15,908,MEDIA
+Alcalá,8,2,0,0,0,27,678,MEDIA
+Alcalá,8,5,1,0,0,32,387,BAJA
+Av. Jiménez,18,2,0,0,0,10,1143,ALTA
+Portal Sur,10,5,0,0,0,27,702,MEDIA
+Portal Norte,20,2,0,0,0,13,705,MEDIA
+Portal Norte,13,4,0,0,0,40,544,BAJA
+Calle 72,8,1,1,0,0,32,855,MEDIA
+Museo del Oro,20,3,0,0,0,40,242,BAJA
+Portal Norte,14,0,1,0,0,16,621,BAJA
+Portal Norte,19,5,1,0,0,34,534,BAJA
+Portal Sur,13,0,0,0,0,21,563,BAJA
+Portal Sur,7,6,0,0,0,13,680,MEDIA
+Portal Sur,17,5,0,0,0,24,518,BAJA
+Portal Sur,7,4,0,0,0,24,1013,ALTA
+Portal Sur,16,6,0,0,0,25,598,BAJA
+Museo del Oro,12,5,1,0,0,36,333,BAJA
+Museo del Oro,19,0,1,0,0,18,1054,ALTA
+Alcalá,20,5,0,1,0,29,30,BAJA
+Av. Jiménez,12,2,1,0,0,16,753,MEDIA
+Portal Norte,20,5,1,0,0,37,438,BAJA
+Portal Sur,6,6,0,0,0,24,605,BAJA
+Calle 72,6,6,1,0,0,34,420,BAJA
+Alcalá,22,3,0,0,0,18,280,BAJA
+Av. Jiménez,15,1,0,0,0,19,671,MEDIA
+Alcalá,13,0,0,0,0,40,172,BAJA
+Portal Norte,7,1,0,0,1,16,1186,ALTA
+Museo del Oro,10,6,1,0,0,27,517,BAJA
+Av. Jiménez,17,4,0,1,0,19,598,BAJA
+Av. Jiménez,19,2,1,0,0,22,1040,ALTA
+Calle 72,21,3,0,0,0,31,341,BAJA
+Alcalá,12,1,0,0,0,34,167,BAJA
+Av. Jiménez,13,3,0,0,0,24,433,BAJA
+Alcalá,7,2,0,0,0,29,730,MEDIA
+Av. Jiménez,6,5,0,0,0,11,556,BAJA
+Portal Norte,12,0,0,0,0,17,534,BAJA
+Alcalá,15,6,0,0,0,33,255,BAJA
+Calle 72,6,0,0,0,0,30,826,MEDIA
+Calle 72,12,2,0,0,1,11,830,MEDIA
+Alcalá,16,2,0,0,0,37,179,BAJA
+Alcalá,19,5,0,0,0,22,302,BAJA
+Alcalá,21,4,0,0,0,19,360,BAJA
+Av. Jiménez,11,1,1,0,0,24,535,BAJA
+Portal Sur,12,3,0,0,0,22,699,MEDIA
+Calle 72,20,3,1,0,0,25,571,BAJA
+Portal Sur,17,3,0,0,0,15,982,ALTA
+Museo del Oro,9,0,0,0,1,14,597,BAJA
+Portal Norte,17,1,1,0,0,40,992,ALTA
+Av. Jiménez,7,3,1,0,1,33,1168,ALTA
+Av. Jiménez,13,1,0,0,0,21,574,BAJA
+Calle 72,10,3,0,0,0,36,361,BAJA
+Av. Jiménez,22,1,0,0,0,34,460,BAJA
+Museo del Oro,5,5,0,0,0,31,266,BAJA
+Portal Norte,20,1,1,0,0,32,646,BAJA
+Portal Norte,10,4,0,0,0,39,591,BAJA
+Portal Sur,5,5,0,0,0,35,538,BAJA
+Av. Jiménez,16,2,0,0,0,17,494,BAJA
+Museo del Oro,17,0,0,0,0,32,659,MEDIA
+Museo del Oro,7,0,0,0,0,14,834,MEDIA
+Museo del Oro,5,2,0,0,0,25,483,BAJA
+Av. Jiménez,7,0,1,0,0,12,979,ALTA
+Av. Jiménez,12,6,0,0,0,15,546,BAJA
+Portal Sur,7,6,0,0,0,32,431,BAJA
+Alcalá,17,6,0,0,0,21,281,BAJA
+Calle 72,6,6,0,0,0,15,531,BAJA
+Portal Sur,19,4,0,0,0,40,794,MEDIA
+Alcalá,20,2,0,0,1,39,420,BAJA
+Portal Norte,17,3,1,0,0,17,1161,ALTA
+Portal Sur,21,1,1,0,0,28,722,MEDIA
+Av. Jiménez,21,5,1,0,0,19,673,MEDIA
+Alcalá,5,3,1,0,0,34,278,BAJA
+Museo del Oro,11,2,0,0,0,31,357,BAJA
+Alcalá,18,4,0,0,0,23,654,MEDIA
+Portal Norte,11,2,0,0,0,38,549,BAJA
+Portal Norte,18,2,1,0,0,32,863,MEDIA
+Alcalá,18,1,0,0,0,14,733,MEDIA
+Museo del Oro,22,0,0,0,0,23,390,BAJA
+Museo del Oro,10,0,0,1,0,35,118,BAJA
+Calle 72,11,2,0,0,1,26,701,MEDIA
+Calle 72,5,6,0,0,0,13,537,BAJA
+Portal Sur,10,1,0,1,0,33,292,BAJA
+Calle 72,10,4,0,0,0,24,556,BAJA
+Museo del Oro,13,2,0,0,0,17,387,BAJA
+Calle 72,12,2,1,0,0,35,398,BAJA
+Calle 72,20,1,0,0,0,37,250,BAJA
+Portal Norte,18,3,0,0,0,28,1005,ALTA
+Alcalá,18,4,0,0,0,32,666,MEDIA
+Alcalá,5,2,0,0,0,17,317,BAJA
+Portal Norte,13,3,1,0,0,33,595,BAJA
+Av. Jiménez,18,3,0,0,0,38,826,MEDIA
+Museo del Oro,9,1,1,0,0,17,555,BAJA
+Av. Jiménez,12,4,0,0,0,39,444,BAJA
+Portal Sur,18,3,0,0,0,12,999,ALTA
+Calle 72,19,0,1,0,0,23,841,MEDIA
+Portal Norte,20,3,0,0,0,12,575,BAJA
+Av. Jiménez,12,2,1,0,0,23,514,BAJA
+Museo del Oro,12,5,0,0,0,30,228,BAJA
+Calle 72,11,2,0,0,0,36,510,BAJA
+Portal Sur,17,6,0,0,0,14,495,BAJA
+Portal Norte,12,4,0,0,0,37,536,BAJA
+Portal Norte,12,0,1,0,0,40,673,MEDIA
+Museo del Oro,8,2,0,0,1,12,1177,ALTA
+Museo del Oro,13,6,0,0,0,39,308,BAJA
+Calle 72,9,1,0,0,0,38,478,BAJA
+Calle 72,14,4,0,1,1,10,633,BAJA
+Portal Norte,20,5,0,1,1,11,580,BAJA
+Museo del Oro,18,4,1,0,0,32,884,MEDIA
+Av. Jiménez,13,0,0,0,0,23,604,BAJA
+Portal Norte,22,2,0,0,0,18,543,BAJA
+Av. Jiménez,22,2,0,0,0,22,488,BAJA
+Alcalá,12,2,0,0,0,20,270,BAJA
+Calle 72,18,6,0,0,0,40,397,BAJA
+Alcalá,11,0,1,0,0,17,306,BAJA
+Calle 72,20,3,0,0,0,12,643,BAJA
+Calle 72,11,6,1,0,0,35,553,BAJA
+Calle 72,9,6,0,0,0,36,431,BAJA
+Calle 72,7,4,0,0,0,37,589,BAJA
+Portal Norte,20,6,1,0,0,40,517,BAJA
+Museo del Oro,10,2,1,0,0,11,693,MEDIA
+Av. Jiménez,19,4,1,0,0,33,948,MEDIA
+Portal Sur,6,3,0,0,0,18,914,MEDIA
+Av. Jiménez,14,0,1,0,0,23,640,BAJA
+Av. Jiménez,12,0,1,0,0,23,676,MEDIA
+Av. Jiménez,12,6,1,0,0,40,563,BAJA
+Portal Norte,8,1,0,0,0,26,952,ALTA
+Portal Sur,6,2,1,0,0,16,1275,ALTA
+Portal Norte,11,4,0,0,1,12,842,MEDIA
+Portal Sur,13,4,1,0,0,28,755,MEDIA
+Alcalá,19,3,0,0,0,35,641,BAJA
+Portal Sur,13,6,1,0,0,32,677,MEDIA
+Av. Jiménez,9,5,1,0,1,38,752,MEDIA
+Calle 72,9,6,0,0,0,11,507,BAJA
+Alcalá,16,4,0,1,0,22,30,BAJA
+Calle 72,12,6,0,1,0,28,109,BAJA
+Av. Jiménez,21,4,1,0,0,36,603,BAJA
+Portal Sur,12,3,1,0,0,19,723,MEDIA
+Alcalá,15,5,1,0,0,30,505,BAJA
+Alcalá,6,6,1,0,0,16,418,BAJA
+Portal Norte,8,0,0,0,0,28,1026,ALTA
+Alcalá,20,6,0,0,0,34,313,BAJA
+Portal Norte,11,4,0,0,0,35,523,BAJA
+Museo del Oro,12,6,1,0,0,24,502,BAJA
+Alcalá,15,5,0,0,0,24,238,BAJA
+Museo del Oro,6,6,1,0,0,37,377,BAJA
+Alcalá,14,1,1,0,0,26,422,BAJA
+Av. Jiménez,11,1,0,0,0,20,516,BAJA
+Calle 72,7,1,1,0,0,18,1107,ALTA
+Calle 72,12,1,0,0,0,32,372,BAJA
+Av. Jiménez,13,1,0,0,0,32,416,BAJA
+Portal Sur,8,3,0,0,0,26,871,MEDIA
+Av. Jiménez,14,1,0,1,0,14,307,BAJA
+Portal Sur,18,1,0,1,0,15,814,MEDIA
+Av. Jiménez,9,3,0,0,0,17,616,BAJA
+Calle 72,22,5,0,0,1,10,873,MEDIA
+Calle 72,16,0,0,0,0,24,519,BAJA
+Museo del Oro,18,3,0,0,0,22,854,MEDIA
+Alcalá,6,4,0,0,0,21,763,MEDIA
+Alcalá,18,4,1,0,0,38,793,MEDIA
+Calle 72,11,0,0,0,0,17,351,BAJA
+Av. Jiménez,17,5,0,1,1,35,292,BAJA
+Portal Sur,19,0,1,0,0,15,1089,ALTA
+Museo del Oro,9,1,1,0,0,28,574,BAJA
+Portal Norte,9,2,0,0,0,36,441,BAJA
+Museo del Oro,6,5,1,0,0,35,380,BAJA
+Portal Norte,15,1,0,0,0,28,553,BAJA
+Portal Norte,18,5,1,0,0,16,645,BAJA
+Museo del Oro,12,6,0,0,0,21,424,BAJA
+Portal Norte,7,6,0,0,0,23,412,BAJA
+Av. Jiménez,10,2,0,0,1,36,580,BAJA
+Museo del Oro,12,0,1,0,0,21,530,BAJA
+Museo del Oro,21,1,0,0,0,35,211,BAJA
+Av. Jiménez,7,5,0,0,0,39,510,BAJA
+Portal Norte,11,1,0,0,0,13,646,BAJA
+Portal Sur,16,4,1,0,0,39,737,MEDIA
+Alcalá,9,2,0,0,0,27,307,BAJA
+Alcalá,20,5,0,0,0,28,271,BAJA
+Portal Sur,21,4,0,0,0,19,566,BAJA
+Av. Jiménez,11,4,1,0,0,20,714,MEDIA
+Alcalá,18,5,0,1,0,26,30,BAJA
+Av. Jiménez,18,6,1,0,0,16,831,MEDIA
+Portal Norte,17,2,0,0,0,32,994,ALTA
+Alcalá,8,3,0,1,0,30,328,BAJA
+Calle 72,5,4,0,0,0,10,563,BAJA
+Alcalá,11,5,0,0,0,16,378,BAJA
+Av. Jiménez,7,3,0,0,0,25,983,ALTA
+Alcalá,10,2,0,0,0,33,348,BAJA
+Museo del Oro,16,5,1,1,0,19,213,BAJA
+Av. Jiménez,15,6,0,0,0,37,321,BAJA
+Calle 72,8,3,0,0,0,26,696,MEDIA
+Alcalá,5,0,0,0,1,26,443,BAJA
+Portal Norte,9,2,0,0,0,13,595,BAJA
+Av. Jiménez,13,3,0,0,0,29,586,BAJA
+Av. Jiménez,19,4,0,0,0,35,952,ALTA
+Museo del Oro,11,4,0,0,0,16,501,BAJA
+Calle 72,10,5,0,0,0,26,542,BAJA
+Museo del Oro,14,0,1,0,0,10,523,BAJA
+Av. Jiménez,6,3,0,0,0,16,823,MEDIA
+Calle 72,9,4,1,0,0,12,567,BAJA
+Calle 72,5,6,0,0,0,33,239,BAJA
+Portal Sur,14,0,1,0,0,40,551,BAJA
+Calle 72,12,6,0,0,0,11,494,BAJA
+Calle 72,15,0,0,0,1,31,677,MEDIA
+Museo del Oro,16,1,1,0,0,28,483,BAJA
+Calle 72,12,5,0,1,0,31,59,BAJA
+Av. Jiménez,20,5,0,0,0,25,536,BAJA
+Calle 72,21,6,1,0,0,40,426,BAJA
+Av. Jiménez,6,4,0,0,0,11,975,ALTA
+Portal Sur,21,4,0,0,0,14,587,BAJA
+Museo del Oro,8,3,0,0,0,17,905,MEDIA
+Alcalá,9,3,0,0,0,34,238,BAJA
+Portal Sur,14,3,1,1,0,12,562,BAJA
+Portal Norte,5,2,0,0,0,13,545,BAJA
+Av. Jiménez,11,5,0,0,0,32,462,BAJA
+Calle 72,8,2,0,0,0,22,914,MEDIA
+Museo del Oro,13,4,1,0,1,31,540,BAJA
+Calle 72,19,4,1,0,0,21,1087,ALTA
+Alcalá,21,3,0,0,0,12,268,BAJA
+Calle 72,8,4,1,0,0,28,969,ALTA
+Museo del Oro,14,0,0,0,0,13,585,BAJA
+Portal Norte,13,2,1,1,0,24,472,BAJA
+Alcalá,12,3,0,0,0,37,99,BAJA
+Alcalá,16,2,0,0,0,15,336,BAJA
+Portal Sur,22,6,0,0,0,16,763,MEDIA
+Av. Jiménez,12,6,1,0,0,39,461,BAJA
+Portal Norte,6,4,1,0,0,19,1097,ALTA
+Portal Sur,21,2,0,0,0,21,603,BAJA
+Av. Jiménez,21,0,0,0,0,31,500,BAJA
+Alcalá,10,5,0,0,0,13,239,BAJA
+Portal Sur,14,6,0,0,0,11,744,MEDIA
+Museo del Oro,20,3,0,0,0,36,254,BAJA
+Alcalá,14,5,0,0,1,39,455,BAJA
+Portal Sur,13,6,0,0,0,40,502,BAJA
+Av. Jiménez,21,3,0,0,0,10,628,BAJA
+Portal Norte,19,1,1,0,0,26,1082,ALTA
+Portal Norte,14,0,0,0,0,36,619,BAJA
+Av. Jiménez,7,5,0,0,0,36,503,BAJA
+Museo del Oro,12,3,0,0,0,21,330,BAJA
+Portal Norte,17,1,0,0,0,25,1079,ALTA
+Portal Norte,9,0,0,0,0,14,662,MEDIA
+Portal Sur,14,6,1,0,0,14,810,MEDIA
+Portal Sur,16,2,0,0,0,21,702,MEDIA
+Portal Norte,6,2,0,0,0,17,935,MEDIA
+Museo del Oro,15,4,1,0,0,40,290,BAJA
+Portal Norte,18,2,0,1,0,12,750,MEDIA
+Portal Sur,8,6,0,0,0,26,555,BAJA
+Alcalá,14,4,1,0,0,27,564,BAJA
+Alcalá,17,2,0,0,1,11,963,ALTA
+Museo del Oro,5,1,0,0,0,23,385,BAJA
+Museo del Oro,16,6,1,0,0,39,421,BAJA
+Alcalá,9,4,1,0,0,13,581,BAJA
+Museo del Oro,12,6,0,0,0,14,356,BAJA
+Av. Jiménez,16,2,0,0,0,15,421,BAJA
+Portal Sur,5,0,1,1,0,11,626,BAJA
+Museo del Oro,5,6,0,0,0,37,304,BAJA
+Alcalá,13,1,0,0,0,11,439,BAJA
+Museo del Oro,22,5,0,0,0,18,481,BAJA
+Alcalá,5,4,1,0,1,35,682,MEDIA
+Portal Norte,19,1,0,0,0,40,850,MEDIA
+Portal Norte,6,5,0,0,0,14,584,BAJA
+Portal Norte,13,0,0,0,0,21,434,BAJA
+Museo del Oro,12,2,0,0,0,15,350,BAJA
+Portal Sur,13,2,1,0,1,15,1045,ALTA
+Calle 72,6,4,0,0,0,39,710,MEDIA
+Portal Norte,18,3,0,0,1,20,1159,ALTA
+Alcalá,9,4,1,0,0,28,396,BAJA
+Portal Sur,18,3,0,0,0,14,1183,ALTA
+Museo del Oro,16,5,0,0,0,18,408,BAJA
+Av. Jiménez,14,1,0,1,0,21,123,BAJA
+Av. Jiménez,10,5,1,0,0,28,694,MEDIA
+Portal Norte,16,0,1,0,0,37,556,BAJA
+Calle 72,22,0,1,0,0,17,736,MEDIA
+Alcalá,21,5,0,0,0,29,245,BAJA
+Av. Jiménez,21,1,0,0,0,25,498,BAJA
+Portal Sur,8,5,0,0,0,34,681,MEDIA
+Portal Sur,15,0,1,0,0,20,652,MEDIA
+Calle 72,12,1,0,0,0,23,378,BAJA
+Calle 72,22,6,0,0,0,29,400,BAJA
+Portal Sur,22,1,1,1,0,23,431,BAJA
+Portal Norte,20,6,0,0,0,33,733,MEDIA
+Av. Jiménez,7,2,0,0,0,10,909,MEDIA
+Alcalá,10,5,0,0,0,20,216,BAJA
+Portal Sur,17,6,0,0,0,15,595,BAJA
+Portal Sur,18,0,1,0,0,14,1215,ALTA
+Portal Norte,11,2,0,0,0,11,693,MEDIA
+Calle 72,7,4,1,0,0,21,937,MEDIA
+Calle 72,7,6,0,0,1,16,756,MEDIA
+Calle 72,17,1,0,0,0,33,958,ALTA
+Calle 72,13,1,1,0,0,25,573,BAJA
+Alcalá,13,2,1,0,0,34,382,BAJA
+Portal Norte,19,1,0,0,0,37,1049,ALTA
+Portal Sur,5,1,0,1,0,34,200,BAJA
+Museo del Oro,18,0,1,0,0,23,841,MEDIA
+Museo del Oro,9,5,1,0,0,40,362,BAJA
+Calle 72,21,5,0,0,0,21,432,BAJA
+Calle 72,22,1,0,0,0,35,244,BAJA
+Museo del Oro,14,3,0,0,0,15,441,BAJA
+Calle 72,10,4,0,0,0,40,377,BAJA
+Portal Sur,9,4,0,0,0,19,631,BAJA
+Portal Norte,8,6,0,0,1,29,816,MEDIA
+Portal Norte,22,4,0,0,0,20,621,BAJA
+Portal Sur,8,4,0,0,0,17,953,ALTA
+Museo del Oro,13,0,0,0,0,20,423,BAJA
+Portal Norte,13,0,0,0,0,28,597,BAJA
+Alcalá,17,4,0,0,0,13,634,BAJA
+Portal Norte,20,6,0,0,1,16,991,ALTA
+Alcalá,15,2,1,0,1,38,483,BAJA
+Portal Sur,18,4,0,1,0,12,697,MEDIA
+Alcalá,15,1,0,0,0,32,264,BAJA
+Alcalá,12,3,0,0,0,19,369,BAJA
+Calle 72,7,5,0,0,1,19,798,MEDIA
+Portal Sur,8,4,0,1,0,21,779,MEDIA
+Calle 72,12,0,0,0,0,21,432,BAJA
+Av. Jiménez,5,6,0,0,0,31,463,BAJA
+Calle 72,10,6,0,0,0,34,371,BAJA
+Av. Jiménez,13,3,0,0,0,21,528,BAJA
+Alcalá,13,2,0,0,0,15,355,BAJA
+Av. Jiménez,19,3,0,0,0,10,940,MEDIA
+Portal Norte,22,5,0,0,0,32,500,BAJA
+Calle 72,18,3,0,0,0,38,624,BAJA
+Portal Sur,6,0,1,0,0,11,1280,ALTA
+Museo del Oro,12,0,0,0,0,28,376,BAJA
+Museo del Oro,18,5,0,0,0,16,239,BAJA
+Av. Jiménez,15,5,0,0,0,16,607,BAJA
+Calle 72,13,5,0,0,0,35,386,BAJA
+Museo del Oro,12,0,1,0,1,17,713,MEDIA
+Museo del Oro,12,1,0,1,0,19,30,BAJA
+Alcalá,15,2,0,0,0,13,307,BAJA
+Museo del Oro,8,1,0,0,0,38,617,BAJA
+Alcalá,14,2,1,0,0,38,268,BAJA
+Portal Sur,8,3,0,0,0,38,1068,ALTA
+Portal Norte,17,1,1,1,0,17,868,MEDIA
+Av. Jiménez,20,0,1,0,0,15,833,MEDIA
+Av. Jiménez,14,2,1,1,0,39,244,BAJA
+Portal Norte,11,5,0,0,0,29,592,BAJA
+Calle 72,21,4,0,0,0,18,422,BAJA
+Portal Sur,16,2,0,0,0,11,681,MEDIA
+Av. Jiménez,12,2,1,0,0,34,549,BAJA
+Portal Norte,5,4,0,1,0,34,266,BAJA
+Calle 72,5,1,0,0,0,10,536,BAJA
+Calle 72,8,5,0,1,0,24,184,BAJA
+Calle 72,9,6,1,0,0,24,601,BAJA
+Portal Norte,17,0,1,0,0,24,1072,ALTA
+Portal Sur,14,6,0,0,0,21,602,BAJA
+Portal Sur,22,0,0,0,1,20,836,MEDIA
+Av. Jiménez,14,3,1,0,0,20,727,MEDIA
+Museo del Oro,21,4,1,0,0,38,388,BAJA
+Alcalá,14,2,1,0,0,40,346,BAJA
+Alcalá,11,1,0,0,0,13,349,BAJA
+Portal Norte,17,0,0,0,0,32,1013,ALTA
+Alcalá,13,5,1,0,1,27,489,BAJA
+Portal Norte,9,0,0,0,0,17,642,BAJA
+Portal Norte,13,3,0,0,0,15,530,BAJA
+Av. Jiménez,16,2,0,1,0,33,173,BAJA
+Portal Sur,11,6,0,0,0,21,622,BAJA
+Portal Norte,17,6,1,0,0,14,638,BAJA
+Calle 72,22,5,0,0,0,40,387,BAJA
+Calle 72,12,5,0,0,0,38,390,BAJA
+Av. Jiménez,10,3,0,0,0,22,490,BAJA
+Alcalá,12,2,1,0,0,23,414,BAJA
+Calle 72,20,1,1,0,0,23,595,BAJA
+Calle 72,8,6,0,0,0,15,604,BAJA
+Portal Norte,22,2,1,1,0,13,437,BAJA
+Calle 72,12,3,0,0,0,18,573,BAJA
+Portal Norte,20,0,1,0,0,21,711,MEDIA
+Museo del Oro,19,1,1,0,0,14,1060,ALTA
+Av. Jiménez,19,4,0,1,0,11,655,MEDIA
+Av. Jiménez,21,2,1,0,0,38,479,BAJA
+Portal Sur,8,4,0,0,0,37,850,MEDIA
+Museo del Oro,15,1,0,0,0,19,403,BAJA
+Portal Norte,6,0,0,0,0,29,883,MEDIA
+Av. Jiménez,10,6,1,0,0,14,788,MEDIA
+Calle 72,5,3,0,0,0,38,302,BAJA
+Portal Sur,17,2,0,0,0,35,895,MEDIA
+Calle 72,15,2,0,0,0,15,556,BAJA
+Portal Norte,18,4,1,0,1,16,1489,ALTA
+Portal Sur,8,3,0,0,1,20,1348,ALTA
+Av. Jiménez,10,2,0,0,0,12,653,MEDIA
+Portal Norte,17,6,0,0,1,20,844,MEDIA
+Portal Sur,19,6,1,0,0,30,695,MEDIA
+Calle 72,20,1,0,0,0,32,569,BAJA
+Alcalá,6,4,0,0,0,10,915,MEDIA
+Portal Sur,12,6,1,0,0,20,817,MEDIA
+Av. Jiménez,5,3,0,0,0,35,519,BAJA
+Museo del Oro,19,0,0,0,0,36,773,MEDIA
+Museo del Oro,7,0,1,0,0,27,782,MEDIA
+Museo del Oro,19,4,0,0,0,32,725,MEDIA
+Portal Norte,7,6,0,0,0,17,738,MEDIA
+Calle 72,5,0,0,0,1,36,692,MEDIA
+Calle 72,20,3,1,0,0,24,571,BAJA
+Portal Sur,12,3,1,0,0,31,815,MEDIA
+Portal Norte,12,1,0,0,0,18,642,BAJA
+Museo del Oro,16,4,0,0,0,15,490,BAJA
+Portal Sur,9,6,0,0,0,26,634,BAJA
+Alcalá,17,1,0,0,0,26,727,MEDIA
+Calle 72,12,0,0,1,0,27,187,BAJA
+Portal Norte,9,2,0,0,0,35,614,BAJA
+Portal Sur,12,2,0,0,0,33,676,MEDIA
+Portal Norte,5,5,0,0,0,19,570,BAJA
+Portal Norte,10,3,0,0,0,24,604,BAJA
+Alcalá,15,0,0,0,0,12,470,BAJA
+Alcalá,7,2,0,0,0,34,625,BAJA
+Portal Sur,7,5,0,0,0,14,571,BAJA
+Alcalá,16,3,0,0,0,12,295,BAJA
+Portal Norte,12,3,0,0,0,26,497,BAJA
+Portal Norte,7,1,0,0,0,38,855,MEDIA
+Calle 72,18,2,0,0,0,21,814,MEDIA
+Portal Norte,18,0,1,0,0,15,1232,ALTA
+Alcalá,5,0,1,0,0,15,448,BAJA
+Portal Norte,8,0,1,0,1,35,1381,ALTA
+Museo del Oro,11,4,0,0,0,30,250,BAJA
+Alcalá,18,1,1,0,0,25,782,MEDIA
+Portal Sur,6,4,0,0,0,38,940,MEDIA
+Calle 72,19,6,0,0,0,13,587,BAJA
+Av. Jiménez,10,4,0,0,0,29,557,BAJA
+Museo del Oro,7,4,0,0,0,21,751,MEDIA
+Portal Sur,20,0,0,0,0,17,737,MEDIA
+Av. Jiménez,6,3,0,0,0,38,677,MEDIA
+Calle 72,7,6,1,0,0,39,556,BAJA
+Portal Sur,22,2,0,0,0,35,443,BAJA
+Alcalá,14,5,0,0,0,14,392,BAJA
+Av. Jiménez,13,4,1,1,0,32,358,BAJA
+Portal Norte,17,1,0,0,0,21,1065,ALTA
+Museo del Oro,16,0,0,0,0,21,263,BAJA
+Alcalá,16,0,0,0,0,16,308,BAJA
+Alcalá,5,1,0,0,0,28,329,BAJA
+Av. Jiménez,14,2,1,0,0,36,599,BAJA
+Portal Norte,10,4,0,0,0,17,640,BAJA
+Museo del Oro,19,4,1,0,0,26,708,MEDIA
+Portal Sur,14,3,0,0,0,30,676,MEDIA
+Alcalá,7,5,1,0,0,29,496,BAJA
+Portal Norte,20,5,1,0,0,18,745,MEDIA
+Calle 72,10,4,0,0,0,10,558,BAJA
+Av. Jiménez,9,6,0,0,0,35,470,BAJA
+Portal Norte,21,2,0,0,0,28,669,MEDIA
+Alcalá,18,5,0,0,0,31,274,BAJA
+Portal Norte,20,2,1,1,0,26,369,BAJA
+Museo del Oro,16,1,0,0,1,21,675,MEDIA
+Alcalá,21,1,0,0,0,17,337,BAJA
+Portal Sur,7,0,1,0,0,30,1100,ALTA
+Portal Sur,15,6,0,0,0,35,409,BAJA
+Calle 72,10,1,0,0,0,20,522,BAJA
+Portal Sur,12,5,1,0,0,10,914,MEDIA
+Av. Jiménez,9,5,1,0,0,14,758,MEDIA
+Portal Norte,8,3,0,0,0,27,1034,ALTA
+Av. Jiménez,12,6,0,0,0,17,534,BAJA
+Av. Jiménez,21,6,1,0,0,35,562,BAJA
+Museo del Oro,16,6,1,0,0,18,627,BAJA
+Calle 72,11,3,0,0,0,25,519,BAJA
+Av. Jiménez,12,2,0,0,0,17,657,MEDIA
+Av. Jiménez,14,0,0,0,0,24,442,BAJA
+Calle 72,9,5,1,0,0,31,480,BAJA
+Portal Sur,14,6,1,0,0,34,649,BAJA
+Calle 72,17,3,0,0,0,32,733,MEDIA
+Portal Sur,9,0,0,0,0,25,504,BAJA
+Calle 72,15,5,0,0,0,24,493,BAJA
+Alcalá,17,2,0,0,1,20,1002,ALTA
+Av. Jiménez,14,3,0,0,0,40,420,BAJA
+Portal Norte,10,4,0,0,0,32,556,BAJA
+Portal Norte,14,1,0,0,0,37,381,BAJA
+Portal Sur,19,0,1,1,0,32,750,MEDIA
+Alcalá,8,0,0,0,0,12,745,MEDIA
+Calle 72,15,6,0,0,0,18,496,BAJA
+Museo del Oro,17,6,1,0,0,24,379,BAJA
+Museo del Oro,10,2,1,0,0,19,452,BAJA
+Portal Norte,11,2,0,0,0,38,457,BAJA
+Av. Jiménez,20,2,0,0,0,25,575,BAJA
+Portal Sur,11,2,1,0,0,16,805,MEDIA
+Alcalá,15,3,0,0,0,28,354,BAJA
+Alcalá,7,2,0,0,1,21,954,ALTA
+Portal Norte,21,4,0,0,0,13,642,BAJA
+Calle 72,15,2,0,0,0,39,406,BAJA
+Av. Jiménez,18,4,1,0,0,39,912,MEDIA
+Portal Norte,15,6,0,0,0,34,466,BAJA
+Museo del Oro,11,1,0,0,0,19,287,BAJA
+Portal Norte,11,0,0,0,0,35,462,BAJA
+Portal Norte,17,3,0,0,0,18,1079,ALTA
+Portal Norte,20,0,0,0,0,37,599,BAJA
+Calle 72,7,1,1,0,0,37,836,MEDIA
+Portal Sur,20,5,0,0,0,15,531,BAJA
+Calle 72,19,2,0,0,0,19,960,ALTA
+Alcalá,6,3,0,0,0,31,660,MEDIA
+Calle 72,6,5,1,0,0,17,510,BAJA
+Portal Norte,17,0,0,0,0,34,667,MEDIA
+Av. Jiménez,20,3,1,1,0,31,197,BAJA
+Portal Sur,12,0,0,0,0,17,621,BAJA
+Portal Norte,16,3,0,0,0,34,424,BAJA
+Portal Norte,22,1,0,0,1,11,959,ALTA
+Alcalá,10,6,0,0,0,21,249,BAJA
+Museo del Oro,9,1,1,1,0,15,251,BAJA
+Av. Jiménez,22,1,1,1,0,10,590,BAJA
+Portal Sur,10,0,0,0,0,32,577,BAJA
+Alcalá,13,0,0,0,0,14,347,BAJA
+Av. Jiménez,12,1,0,0,0,31,447,BAJA
+Museo del Oro,14,1,0,0,0,12,502,BAJA
+Portal Norte,9,5,1,0,0,37,662,MEDIA
+Calle 72,17,6,1,0,0,40,400,BAJA
+Museo del Oro,17,5,0,0,0,19,373,BAJA
+Calle 72,8,6,0,0,0,25,397,BAJA
+Alcalá,13,6,1,0,0,29,363,BAJA
+Alcalá,6,3,0,1,0,28,518,BAJA
+Calle 72,8,2,0,0,0,10,989,ALTA
+Av. Jiménez,22,4,0,0,0,40,394,BAJA
+Calle 72,14,2,1,1,0,38,292,BAJA
+Museo del Oro,16,4,1,0,0,25,505,BAJA
+Portal Norte,20,6,0,0,0,27,427,BAJA
+Av. Jiménez,17,1,0,0,0,15,1083,ALTA
+Museo del Oro,19,5,0,0,0,33,309,BAJA
+Museo del Oro,17,6,0,0,0,25,190,BAJA
+Museo del Oro,13,3,0,0,0,18,284,BAJA
+Calle 72,16,2,1,0,0,19,696,MEDIA
+Portal Sur,10,1,0,0,0,12,561,BAJA
+Portal Sur,21,1,0,0,0,34,664,MEDIA
+Portal Sur,8,2,0,0,0,11,1100,ALTA
+Av. Jiménez,20,5,0,0,0,27,535,BAJA
+Alcalá,20,3,1,1,1,35,279,BAJA
+Av. Jiménez,7,1,0,0,1,11,1266,ALTA
+Portal Sur,17,3,0,0,0,14,1101,ALTA
+Calle 72,22,5,1,0,0,33,519,BAJA
+Calle 72,15,0,0,0,1,35,555,BAJA
+Museo del Oro,11,0,0,0,0,12,477,BAJA
+Museo del Oro,20,6,0,0,0,18,267,BAJA
+Portal Sur,14,5,0,0,0,28,667,MEDIA
+Calle 72,7,4,0,0,0,26,860,MEDIA
+Alcalá,9,6,1,0,0,26,441,BAJA
+Calle 72,17,4,0,0,0,18,683,MEDIA
+Museo del Oro,13,3,0,0,0,26,274,BAJA
+Alcalá,8,1,1,1,0,11,554,BAJA
+Museo del Oro,19,5,0,0,0,37,352,BAJA
+Portal Sur,7,5,0,0,0,26,529,BAJA
+Alcalá,8,2,0,1,0,21,618,BAJA
+Alcalá,13,5,0,0,0,21,293,BAJA
+Av. Jiménez,5,5,0,0,0,21,433,BAJA
+Av. Jiménez,11,0,0,0,1,23,737,MEDIA
+Calle 72,21,1,0,0,0,15,434,BAJA
+Museo del Oro,21,4,0,0,0,28,257,BAJA
+Alcalá,20,4,0,0,0,15,431,BAJA
+Av. Jiménez,10,4,0,0,0,19,567,BAJA
+Av. Jiménez,6,2,0,0,0,36,865,MEDIA
+Portal Norte,19,5,0,0,0,27,660,MEDIA
+Av. Jiménez,11,3,0,0,0,37,457,BAJA
+Calle 72,18,1,0,0,0,30,735,MEDIA
+Alcalá,7,0,0,0,0,34,693,MEDIA
+Museo del Oro,17,6,0,0,0,12,358,BAJA
+Portal Norte,15,4,0,0,0,25,532,BAJA
+Portal Norte,21,3,0,0,0,20,596,BAJA
+Alcalá,6,1,1,0,0,10,888,MEDIA
+Alcalá,12,0,0,0,0,12,225,BAJA
+Portal Sur,22,1,0,0,0,15,593,BAJA
+Portal Norte,12,0,1,0,0,10,778,MEDIA
+Portal Norte,16,3,0,0,0,23,533,BAJA
+Calle 72,7,1,1,0,0,11,1144,ALTA
+Portal Sur,18,0,1,0,0,35,1174,ALTA
+Portal Sur,9,1,0,0,0,28,502,BAJA
+Alcalá,15,4,0,0,0,39,211,BAJA
+Portal Norte,20,3,0,0,1,12,1025,ALTA
+Portal Norte,16,1,1,0,0,12,757,MEDIA
+Alcalá,13,5,0,0,0,36,191,BAJA
+Alcalá,8,3,1,0,0,22,897,MEDIA
+Portal Sur,11,1,0,0,0,33,540,BAJA
+Portal Norte,20,4,0,0,0,15,732,MEDIA
+Portal Norte,8,6,0,0,0,10,612,BAJA
+Portal Norte,16,3,0,0,0,25,532,BAJA
+Portal Sur,13,1,0,1,0,27,361,BAJA
+Alcalá,10,2,1,0,0,13,490,BAJA
+Museo del Oro,17,4,0,0,0,10,869,MEDIA
+Calle 72,11,6,1,0,0,16,471,BAJA
+Portal Sur,10,6,1,0,0,13,774,MEDIA
+Portal Norte,14,6,0,1,0,40,249,BAJA
+Portal Sur,18,5,0,0,0,40,457,BAJA
+Alcalá,20,4,0,0,0,10,436,BAJA
+Portal Sur,16,4,0,0,0,24,637,BAJA
+Alcalá,16,5,1,0,0,21,418,BAJA
+Museo del Oro,19,5,1,0,0,10,689,MEDIA
+Av. Jiménez,9,4,1,0,0,30,553,BAJA
+Calle 72,9,0,0,0,0,36,362,BAJA
+Alcalá,13,6,0,0,0,28,255,BAJA
+Portal Sur,16,0,0,0,0,38,538,BAJA
+Calle 72,16,2,1,0,0,29,607,BAJA
+Alcalá,7,3,0,0,0,26,566,BAJA
+Portal Norte,19,6,0,0,0,39,555,BAJA
+Museo del Oro,11,0,0,0,0,31,339,BAJA
+Calle 72,20,3,0,0,0,33,446,BAJA
+Museo del Oro,18,2,0,0,0,34,907,MEDIA
+Av. Jiménez,22,0,0,0,0,10,539,BAJA
+Av. Jiménez,16,1,1,0,0,32,470,BAJA
+Portal Sur,14,2,1,0,0,33,698,MEDIA
+Portal Sur,8,6,0,0,0,25,638,BAJA
+Av. Jiménez,12,2,1,0,0,27,668,MEDIA
+Alcalá,20,6,0,0,0,35,187,BAJA
+Av. Jiménez,11,5,1,1,0,14,310,BAJA
+Portal Norte,5,5,0,0,0,26,441,BAJA
+Portal Norte,9,5,0,0,1,33,663,MEDIA
+Calle 72,15,4,0,0,0,18,459,BAJA
+Portal Sur,16,5,0,0,0,18,643,BAJA
+Museo del Oro,22,1,0,0,0,10,625,BAJA
+Av. Jiménez,21,5,1,0,0,19,511,BAJA
+Av. Jiménez,14,0,1,1,0,21,361,BAJA
+Alcalá,14,5,0,0,0,39,148,BAJA
+Museo del Oro,19,4,0,0,0,12,866,MEDIA
+Portal Norte,5,5,1,0,0,30,616,BAJA
+Portal Norte,15,4,0,0,0,11,737,MEDIA
+Av. Jiménez,13,2,0,0,0,34,518,BAJA
+Av. Jiménez,19,2,0,0,0,24,887,MEDIA
+Alcalá,19,4,0,0,0,23,817,MEDIA
+Museo del Oro,16,3,0,0,0,39,347,BAJA
+Portal Sur,16,2,0,0,0,33,673,MEDIA
+Museo del Oro,17,3,0,0,0,13,839,MEDIA
+Av. Jiménez,15,3,0,0,0,18,608,BAJA
+Museo del Oro,9,1,1,0,0,18,471,BAJA
+Museo del Oro,10,4,0,0,0,28,282,BAJA
+Portal Sur,18,2,0,0,0,35,1124,ALTA
+Calle 72,16,1,1,0,0,29,459,BAJA
+Museo del Oro,9,2,1,0,0,22,473,BAJA
+Calle 72,20,0,0,0,0,33,250,BAJA
+Portal Sur,22,4,0,0,0,33,494,BAJA
+Portal Sur,16,5,0,1,0,12,308,BAJA
+Museo del Oro,9,6,0,0,0,26,310,BAJA
+Alcalá,21,1,0,0,0,32,272,BAJA
+Museo del Oro,9,3,1,1,0,28,215,BAJA
+Portal Norte,12,3,1,0,0,17,657,MEDIA
+Museo del Oro,20,5,1,0,0,14,493,BAJA
+Portal Sur,14,4,0,0,0,19,733,MEDIA
+Portal Norte,9,5,1,0,0,20,856,MEDIA
+Portal Norte,6,5,1,0,0,38,712,MEDIA
+Calle 72,11,0,0,0,0,29,294,BAJA
+Alcalá,17,2,0,0,0,35,725,MEDIA
+Museo del Oro,17,4,0,0,0,10,1008,ALTA
+Alcalá,9,3,0,0,0,34,100,BAJA
+Alcalá,7,3,0,0,0,15,837,MEDIA
+Museo del Oro,17,1,0,0,0,27,776,MEDIA
+Portal Sur,7,4,0,0,0,21,1008,ALTA
+Calle 72,6,5,0,0,0,36,392,BAJA
+Portal Norte,13,0,0,0,0,30,575,BAJA
+Av. Jiménez,15,4,0,0,0,24,589,BAJA
+Museo del Oro,9,6,1,0,0,25,578,BAJA
+Calle 72,8,4,1,0,0,31,813,MEDIA
+Calle 72,9,6,0,0,0,32,356,BAJA
+Portal Norte,11,2,0,0,0,27,565,BAJA
+Portal Sur,5,0,1,0,0,32,814,MEDIA
+Alcalá,5,4,0,0,0,34,30,BAJA
+Portal Sur,11,1,1,0,0,10,771,MEDIA
+Av. Jiménez,5,0,1,0,0,21,512,BAJA
+Museo del Oro,10,1,0,0,0,37,188,BAJA
+Alcalá,15,6,0,0,0,19,405,BAJA
+Museo del Oro,5,5,0,0,0,35,267,BAJA
+Calle 72,16,1,0,0,0,27,251,BAJA
+Av. Jiménez,16,4,0,0,0,18,519,BAJA
+Portal Sur,15,2,1,0,0,20,923,MEDIA
+Av. Jiménez,16,1,0,0,0,25,345,BAJA
+Alcalá,19,6,0,0,0,13,405,BAJA
+Alcalá,6,5,0,0,0,19,451,BAJA
+Portal Norte,8,2,0,0,0,31,930,MEDIA
+Portal Sur,10,2,0,0,0,38,686,MEDIA
+Av. Jiménez,17,5,0,0,0,39,353,BAJA
+Museo del Oro,20,3,0,0,0,21,510,BAJA
+Calle 72,21,2,1,0,0,34,613,BAJA
+Av. Jiménez,15,2,0,0,0,22,505,BAJA
+Calle 72,12,3,0,0,0,35,271,BAJA
+Portal Norte,12,3,1,0,0,38,532,BAJA
+Portal Sur,6,0,0,1,0,23,534,BAJA
+Portal Norte,13,3,1,0,0,28,720,MEDIA
+Av. Jiménez,14,3,0,0,0,36,462,BAJA
+Calle 72,8,1,1,0,0,14,1042,ALTA
+Portal Norte,18,2,0,0,0,17,1008,ALTA
+Av. Jiménez,19,2,0,0,0,29,975,ALTA
+Alcalá,10,2,1,0,0,15,494,BAJA
+Alcalá,21,6,0,0,1,34,442,BAJA
+Av. Jiménez,6,3,1,0,0,18,1064,ALTA
+Museo del Oro,21,3,0,0,0,20,564,BAJA
+Alcalá,18,1,0,1,0,35,380,BAJA
+Calle 72,9,6,0,0,0,26,413,BAJA
+Alcalá,16,0,1,0,0,34,352,BAJA
+Portal Norte,10,3,1,0,0,29,703,MEDIA
+Calle 72,19,1,0,0,0,25,816,MEDIA
+Av. Jiménez,7,5,0,0,0,25,449,BAJA
+Portal Norte,9,2,0,0,0,34,515,BAJA
+Portal Sur,10,2,0,0,0,40,642,BAJA
+Alcalá,8,0,1,1,0,10,663,MEDIA
+Av. Jiménez,10,5,0,0,0,25,457,BAJA
+Alcalá,15,2,0,0,0,34,306,BAJA
+Portal Sur,16,1,0,0,0,29,587,BAJA
+Portal Sur,14,5,0,0,0,25,638,BAJA
+Portal Sur,8,0,0,0,0,34,976,ALTA
+Museo del Oro,8,3,0,0,0,24,607,BAJA
+Portal Norte,21,1,0,0,0,14,392,BAJA
+Alcalá,9,0,1,0,0,18,470,BAJA
+Museo del Oro,6,0,0,0,0,11,786,MEDIA
+Alcalá,13,1,1,0,0,31,243,BAJA
+Alcalá,5,6,0,0,0,40,134,BAJA
+Calle 72,11,3,0,0,0,21,548,BAJA
+Av. Jiménez,20,6,1,0,0,32,597,BAJA
+Calle 72,9,1,0,0,0,40,422,BAJA
+Portal Norte,17,5,0,0,0,22,624,BAJA
+Alcalá,13,0,0,0,0,37,144,BAJA
+Alcalá,11,0,0,0,0,10,442,BAJA
+Alcalá,16,0,1,0,0,31,421,BAJA
+Alcalá,15,6,0,0,0,15,341,BAJA
+Museo del Oro,10,4,0,0,0,34,321,BAJA
+Museo del Oro,9,5,0,0,0,10,523,BAJA
+Alcalá,21,6,0,0,0,35,170,BAJA
+Museo del Oro,8,2,1,0,0,22,995,ALTA
+Museo del Oro,22,5,0,0,1,17,713,MEDIA
+Calle 72,13,3,1,0,0,27,558,BAJA
+Portal Sur,22,3,0,0,0,40,642,BAJA
+Portal Sur,11,4,0,0,0,14,572,BAJA
+Portal Sur,15,3,0,0,0,19,609,BAJA
+Av. Jiménez,16,0,0,0,0,29,411,BAJA
