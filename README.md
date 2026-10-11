@@ -73,7 +73,7 @@ python3 src/pipeline_gtfs.py
 
 ## Requisitos
 
-- Python 3.8 o superior (no requiere librerías externas).
+- Python 3.8 o superior.
 - Dependencias descritas en requirements.txt.
 
 ## Ejecución (Interfaz de Línea de Comandos - CLI)
@@ -102,6 +102,24 @@ Ejemplos de uso:
 python3 src/main.py 49841 61235
 python3 src/main.py "Portal Norte" "Museo Nacional"
 ```
+
+**3. Subcomandos de consulta:**
+
+No hace falta conocer el id exacto: se puede buscar por fragmento de nombre y ver los ids disponibles.
+
+```sh
+python3 src/main.py paraderos [filtro]   # catálogo de paraderos e ids
+python3 src/main.py rutas [filtro]       # rutas disponibles y su detalle
+python3 src/main.py ruta <id>            # secuencia completa de una ruta
+python3 src/main.py buses [filtro]       # flota asignada por ruta
+python3 src/main.py stats                # estadísticas de la red
+python3 src/main.py --help               # ayuda
+```
+
+En el **menú interactivo** el usuario puede buscar por nombre parcial, navegar
+los resultados paginados y elegir un paradero **por número**, por lo que nunca
+necesita escribir el id o el nombre exactos. El menú además permite ver
+paraderos e ids, rutas y su detalle, la flota de buses y estadísticas de la red.
 
 ## ¿Cómo funciona el Sistema?
 
