@@ -1,0 +1,5227 @@
+[
+  {
+    "id_ruta": "10004",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10005",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10039",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10067",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10073",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10074",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10075",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10076",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10082",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10175",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10182",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10183",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10224",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10227",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10235",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10245",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10248",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10254",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10255",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10267",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10271",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10272",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10275",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10282",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10290",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10296",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10299",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10304",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10306",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10331",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10363",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10376",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10377",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10378",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10389",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10398",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10400",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10405",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10407",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10416",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10422",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10429",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10440",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10442",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10449",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10454",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10466",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10468",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10470",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10479",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10490",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10491",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10499",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10505",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10506",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10510",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10525",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10529",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10533",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10535",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10541",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10550",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10551",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10552",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10555",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10564",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10571",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10575",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10581",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10583",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10584",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10593",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10594",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10595",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10599",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10600",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10609",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10611",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10615",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10619",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10620",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10624",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10629",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10630",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10631",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10632",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10633",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10650",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10651",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10653",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10657",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10659",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10660",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10664",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10666",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10671",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10673",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10684",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10687",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10690",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10697",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10698",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10699",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10704",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10705",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10713",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10714",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10715",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10717",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10719",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10725",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10726",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10742",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10744",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10745",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10748",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10750",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10753",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10755",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10765",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10768",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10769",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10777",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10780",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10791",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10792",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10803",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10815",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10823",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10824",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10825",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10826",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10831",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10834",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10836",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10837",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10839",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10840",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10841",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10843",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10847",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10849",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10861",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10871",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10877",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10913",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10915",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10923",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10927",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10930",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10932",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10947",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10948",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10949",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10950",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10958",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10972",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10973",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10974",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10975",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10976",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10979",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10980",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10981",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10991",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10992",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "10993",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11001",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11002",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11003",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11004",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11011",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11016",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11018",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11027",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11028",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11033",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11035",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11037",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11038",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11050",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11068",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11076",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11081",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11091",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11093",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11101",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11102",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11122",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11136",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11150",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11151",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11152",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11153",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11163",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11181",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11192",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11193",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11204",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11205",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11207",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11208",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11209",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11231",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11248",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11272",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11382",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11386",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11388",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11419",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11453",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11463",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11470",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11471",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11485",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11488",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11517",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11518",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11538",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11540",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11542",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11547",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11548",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11627",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11668",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11675",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11705",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11712",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11724",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11725",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11728",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11747",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11764",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11765",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11824",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11825",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11826",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11827",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11828",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11829",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11832",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11836",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11837",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11838",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11849",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11853",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11856",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11868",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11875",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11876",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11884",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11885",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11887",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11888",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11907",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11908",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11913",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11914",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11932",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11955",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11956",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11967",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11968",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11969",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11998",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "11999",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12000",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12013",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12014",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12016",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12017",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12018",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12019",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12030",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12061",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12070",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12071",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12083",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12084",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12085",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12086",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12087",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12088",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12089",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12091",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12100",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12115",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12121",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12124",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12126",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12130",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12131",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12133",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12135",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12136",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12139",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12152",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12153",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12162",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12163",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12164",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12166",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12170",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12175",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12176",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12179",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12180",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12181",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12185",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12187",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12196",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12198",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12200",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12207",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12215",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12227",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12228",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12237",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12238",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12250",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12263",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12269",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12270",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12282",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12305",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12306",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12314",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12315",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12316",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12327",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12328",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12331",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12332",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12339",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12348",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12349",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12350",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12351",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12352",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12353",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12354",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12355",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12356",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12357",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12358",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12360",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12361",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12362",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12363",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12368",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12369",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12370",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12371",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12372",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12374",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12391",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12392",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12393",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12394",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12400",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12401",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12402",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12403",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12404",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12406",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12429",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12436",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12437",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12443",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12460",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12461",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12462",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12475",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12476",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12477",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12481",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12482",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12483",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12484",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12489",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12490",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12491",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12492",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12494",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12496",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12497",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12498",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12499",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12500",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12502",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12503",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12504",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12505",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12506",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12507",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12508",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12516",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12517",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12518",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12519",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12522",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12523",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12524",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12526",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12528",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12529",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12531",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12541",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12542",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12543",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12544",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12550",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12556",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12557",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12558",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12571",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12572",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12576",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12580",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12581",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12582",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12583",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12584",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12586",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12588",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12589",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12593",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12594",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12598",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12600",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12602",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12603",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12604",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12612",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12621",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12623",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12633",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12639",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12644",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12653",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12654",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12657",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12660",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12661",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12662",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12663",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12664",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12665",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12666",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12667",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12668",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12672",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12673",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12680",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12681",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12682",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12683",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12684",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12685",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12687",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12688",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12689",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12691",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12694",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12695",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12698",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12714",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12715",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12716",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12717",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12718",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12725",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12730",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12731",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12738",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12739",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12741",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12742",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12743",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12744",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12745",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12746",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12748",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12749",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12750",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12756",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12757",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12765",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12766",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12767",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12771",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12772",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12773",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12774",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12777",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12778",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12779",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12780",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12783",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12784",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12785",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12786",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12788",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12789",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12790",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12793",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12797",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12800",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12801",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12802",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12803",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12806",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12807",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12808",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12810",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12812",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12814",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12815",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12818",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12819",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12820",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12831",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12832",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12834",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12836",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12837",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12841",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12844",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12845",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12852",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12856",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12869",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12870",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12871",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12872",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12873",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12874",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12877",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12878",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12884",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12889",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12890",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12891",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12892",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12893",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12894",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12895",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12896",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12902",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12903",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12908",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12909",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12931",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12933",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12934",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12935",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12937",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12940",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12941",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12942",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12943",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12944",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12946",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12947",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12951",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12953",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12954",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12955",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12956",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12957",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12958",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12959",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12962",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12963",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12964",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12966",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12970",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12977",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12979",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12982",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12984",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12995",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "12996",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13002",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13005",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13006",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13007",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13008",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13013",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13014",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13015",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13016",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13019",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13020",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13022",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13023",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13024",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13026",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13027",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13028",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13030",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13031",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13035",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13036",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13038",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13040",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13041",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13042",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13044",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13050",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13051",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13052",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13054",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13055",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13057",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13058",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13059",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13070",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13086",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13087",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13090",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13091",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13092",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13093",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13094",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13095",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13096",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13098",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13099",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13100",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13101",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13102",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13106",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13108",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13110",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13117",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13118",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13119",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13121",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13122",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13123",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13124",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13132",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13133",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13134",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13135",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13138",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13139",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13140",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13141",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13142",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13143",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13146",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13147",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13148",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13149",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13151",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13152",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13153",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13154",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13155",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13156",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13160",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13161",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13162",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13163",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13167",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13168",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13171",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13172",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13173",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13175",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13176",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13177",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13178",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13179",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13180",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13181",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13182",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13183",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13184",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13190",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13191",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13192",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13193",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13194",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13195",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13196",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13197",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13199",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13200",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13201",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13202",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13203",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13204",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13205",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13206",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13207",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13208",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13209",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13210",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13211",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13212",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13213",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13214",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13215",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13216",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13217",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13218",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13219",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13220",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13221",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13222",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13223",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13224",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13225",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13227",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13228",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13229",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13230",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13231",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13232",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13233",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13234",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13238",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13239",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13240",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13241",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13242",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13243",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13244",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13245",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13246",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13247",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13248",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13249",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13252",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13253",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13254",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13255",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13256",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13257",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13258",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13259",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13260",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13261",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13262",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13263",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13264",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13265",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13266",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13267",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13268",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13269",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13270",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13271",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13272",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13273",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13275",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13276",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13277",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13278",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13279",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13280",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13281",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13282",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13283",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13284",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13285",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13286",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13288",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13289",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13290",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13291",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13292",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13294",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13297",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13298",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13300",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13301",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13302",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13303",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13304",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13305",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13306",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13307",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13308",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13309",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13310",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13311",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13312",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13313",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13314",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13315",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13316",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13318",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13319",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13323",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13324",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13325",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13326",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13327",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13328",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13329",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13331",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13332",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13333",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13334",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13335",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13336",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13339",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13340",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13341",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13342",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13343",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13354",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13355",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13356",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13357",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13358",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13359",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13360",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13361",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13362",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13368",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13370",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13371",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13372",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13373",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13374",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13375",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13378",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13379",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13380",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13381",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13382",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13383",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13384",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13385",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13386",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13387",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13388",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13389",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13390",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13391",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13392",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13404",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13405",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13406",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13407",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13408",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13409",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13410",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13411",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13412",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13413",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13414",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13415",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13416",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13419",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13420",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13422",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13423",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13424",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13425",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13426",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13427",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13428",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13429",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13430",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13431",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13432",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13433",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13434",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13435",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13436",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13437",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13438",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13439",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13440",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13441",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13442",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13443",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13444",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13445",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13449",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13450",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13451",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13471",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13472",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13473",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13475",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13476",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13477",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13478",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13489",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13490",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13491",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13494",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13496",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13497",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13498",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13501",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13502",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13503",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13504",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13505",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13507",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13508",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13509",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13510",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13511",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13512",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13513",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13514",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13515",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13516",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13517",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13518",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13519",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13520",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13521",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13523",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13524",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13526",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13527",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13528",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13529",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13530",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13531",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13533",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13535",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13536",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13538",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13539",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13540",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13541",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13542",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13543",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13544",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13545",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13546",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13547",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13548",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13550",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13551",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13552",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13553",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13554",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13555",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13556",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13558",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13559",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13560",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13561",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13562",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13563",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13565",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13566",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13567",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13568",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13569",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13570",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13572",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13573",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13574",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13575",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13576",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13577",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13578",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13582",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13583",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13584",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13585",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13592",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13593",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13672",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13678",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13681",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13683",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13698",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13719",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13720",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13723",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13726",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13727",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13739",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13740",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13755",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13756",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13757",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13758",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13759",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13760",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13761",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13762",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13763",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13764",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13765",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13766",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13767",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13768",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13770",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13771",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13772",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13773",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13774",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13775",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13776",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13777",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13778",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13779",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13780",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13781",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13787",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13788",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13789",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13790",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13791",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13792",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13803",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13804",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13805",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13806",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13809",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13821",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13822",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13825",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13827",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13832",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13833",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13834",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13835",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13836",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13838",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13839",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13841",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13842",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13843",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13844",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13857",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13858",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13859",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "13860",
+    "tipo_vehiculo": "Bus",
+    "capacidad_promedio": 80
+  },
+  {
+    "id_ruta": "C_1",
+    "tipo_vehiculo": "Teleférico",
+    "capacidad_promedio": 10
+  }
+]

@@ -1,3 +1,16 @@
+# gtfs files
+agency.txt
+calendar.txt
+calendar_dates.txt
+fare_attributes.txt
+feed_info.txt
+frequencies.txt
+routes.txt
+shapes.txt
+stop_times.txt
+stops.txt
+trips.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

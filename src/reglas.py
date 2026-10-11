@@ -1,30 +1,30 @@
 """
 reglas.py
 =========
-Sistema basado en reglas (capítulo 3 de Benítez) que infiere, a partir de
-los hechos declarados en hechos.py, todos los movimientos posibles dentro
-de la red de rutas del SITP.
+Sistema basado en reglas (capítulo 3 de Benítez) que infiere, a partir de los
+hechos declarados en hechos.py, todos los movimientos posibles dentro de la
+red de rutas del SITP, y ofrece consultas de conveniencia (conexiones
+directas) que la CLI usa para decidir si hace falta transbordar.
 
 Regla 1 (circulación directa):
     SI existe circula(A, B, Ruta, Tiempo)
     ENTONCES desde A se puede llegar a B usando Ruta en Tiempo minutos.
-    (Las rutas normales son bidireccionales; las rutas circulares —ver
-    RUTAS_CIRCULARES— solo se recorren en el sentido publicado).
+    (Las rutas normales son bidireccionales; las circulares —ver
+    RUTAS_CIRCULARES— solo se recorren en el sentido publicado.)
 
 Regla 2 (transbordo):
     SI el estado actual usa la Ruta_actual
     Y el siguiente movimiento usa una Ruta_nueva
     Y Ruta_actual != Ruta_nueva
-    ENTONCES sumar TIEMPO_TRANSBORDO al costo del movimiento (bajarse de un
-    bus y esperar el siguiente).
+    ENTONCES sumar TIEMPO_TRANSBORDO al costo del movimiento.
 
 Regla 3 (meta):
     SI el paradero actual es igual al paradero destino
     ENTONCES la ruta ha llegado a su meta.
 
-El motor construye una tabla de adyacencia (grafo lógico) que representa
-todos los hechos "circula" derivados, para que el motor de búsqueda
-(motor_busqueda.py) explore sobre ella.
+El grafo lógico es una tabla de adyacencia
+``{paradero: [(vecino, ruta, tiempo), ...]}`` que el motor de búsqueda
+(`motor_busqueda.py`) explora con A*.
 """
 
 from hechos import (
@@ -47,13 +47,11 @@ def regla_generar_conexiones(
 ):
     """
     Aplica la Regla 1 sobre la base de conocimiento: recorre cada ruta y
-    genera el predicado circula(A, B, Ruta, Tiempo) entre paraderos
-    consecutivos. Las rutas normales son bidireccionales; las rutas
-    circulares (RUTAS_CIRCULARES) solo se recorren en el sentido publicado.
+    genera el hecho circula(A, B, Ruta, Tiempo) entre paraderos consecutivos.
 
-    La función es pura: no lee estado global. Los parámetros `None` significan
-    "usar el valor de la base de conocimiento" (hechos.py), lo que permite
-    construir grafos alternativos para pruebas sin mutar los hechos.
+    La función es pura: no lee estado global mutable. Los parámetros `None`
+    significan "usar el valor de la base de conocimiento" (hechos.py), lo que
+    permite construir grafos alternativos para pruebas sin mutar los hechos.
 
     Args:
         rutas: {id_ruta: [id_paradero, ...]}. Por defecto, RUTAS.
@@ -74,19 +72,26 @@ def regla_generar_conexiones(
 
     grafo = {}
 
-    def agregar_arco(origen, destino, ruta, tiempo):
+    def agregar_arco(origen, destino, ruta):
+        # Un arco consigo mismo no mueve al viajero: se descarta siempre.
+        if origen == destino:
+            return
         grafo.setdefault(origen, []).append((destino, ruta, tiempo))
 
     for ruta, paraderos in rutas.items():
         es_circular = ruta in circulares
-        n = len(paraderos)
         for a, b in zip(paraderos, paraderos[1:]):
-            agregar_arco(a, b, ruta, tiempo)
+            agregar_arco(a, b, ruta)
             if not es_circular:
-                agregar_arco(b, a, ruta, tiempo)
-        if es_circular and n >= MIN_PARADEROS_RUTA_CIRCULAR:
-            # Cierra el ciclo: del último paradero de vuelta al primero.
-            agregar_arco(paraderos[-1], paraderos[0], ruta, tiempo)
+                agregar_arco(b, a, ruta)
+        if (
+            es_circular
+            and paraderos[0] != paraderos[-1]
+            and len(paraderos) >= MIN_PARADEROS_RUTA_CIRCULAR
+        ):
+            # Cierra el ciclo. Si el trazado ya termina donde empieza, el arco
+            # de cierre ya existe entre los pares consecutivos.
+            agregar_arco(paraderos[-1], paraderos[0], ruta)
 
     return grafo
 
@@ -97,12 +102,12 @@ def regla_costo_movimiento(ruta_actual, ruta_nueva, tiempo_base):
     anterior, se penaliza el movimiento con TIEMPO_TRANSBORDO adicional.
 
     Args:
-        ruta_actual: ruta con la que se llegó al estado actual (o None si
-                     es el punto de partida).
+        ruta_actual: ruta con la que se llegó al estado actual (o None si es el
+                     punto de partida).
         ruta_nueva:  ruta que se usaría para el siguiente movimiento.
         tiempo_base: tiempo de viaje entre los dos paraderos.
 
-    Retorna:
+    Returns:
         (costo_total, hubo_transbordo: bool)
     """
     if ruta_actual is not None and ruta_actual != ruta_nueva:
@@ -115,9 +120,46 @@ def regla_meta(paradero_actual, paradero_destino):
     return paradero_actual == paradero_destino
 
 
-# Grafo lógico derivado de los hechos. Se calcula una sola vez al importar el
-# módulo para que el resto del sistema no lo repita en cada consulta.
+def construir_indice_rutas(rutas=None):
+    """
+    Índice inverso ``{id_ruta: set(id_paradero)}`` para consultar pertenencia.
+
+    Se usa para detectar conexiones directas sin recorrer las secuencias en
+    cada consulta.
+    """
+    rutas = RUTAS if rutas is None else rutas
+    return {id_ruta: set(secuencia) for id_ruta, secuencia in rutas.items()}
+
+
+def rutas_directas(origen, destino, indice=None):
+    """
+    Regla 1 como consulta: rutas que unen origen y destino sin transbordo.
+
+    Una ruta conecta ambos paraderos si su trazado contiene a los dos. Como las
+    rutas normales son bidireccionales, no importa el orden.
+
+    Args:
+        indice: índice de `construir_indice_rutas`. Si es None se usa el global.
+
+    Returns:
+        list: ids de ruta (ordenados) que ofrecen conexión directa.
+    """
+    if origen == destino:
+        return []
+    indice = INDICE_RUTAS if indice is None else indice
+    return sorted(
+        id_ruta
+        for id_ruta, paraderos in indice.items()
+        if origen in paraderos and destino in paraderos
+    )
+
+
+# ---------------------------------------------------------------------------
+# Estado derivado de los hechos, calculado una vez al importar el módulo para
+# que el resto del sistema no lo repita en cada consulta.
+# ---------------------------------------------------------------------------
 GRAFO = regla_generar_conexiones()
+INDICE_RUTAS = construir_indice_rutas()
 
 
 def grafo_actual():
@@ -125,26 +167,32 @@ def grafo_actual():
     Devuelve el grafo lógico vigente.
 
     Se consulta por indirección (y no importando GRAFO directamente) para que
-    una llamada a `reconstruir_grafo` se refleje en los módulos que ya están
-    importados.
+    una llamada a `reconstruir_grafo` se refleje en los módulos ya importados.
     """
     return GRAFO
 
 
+def indice_rutas_actual():
+    """Devuelve el índice inverso de rutas vigente."""
+    return INDICE_RUTAS
+
+
 def reconstruir_grafo(rutas=None, circulares=None, tiempo_entre_paraderos=None):
     """
-    Vuelve a derivar el grafo lógico y reemplaza el global `GRAFO`.
+    Vuelve a derivar el grafo lógico y el índice, y reemplaza los globales.
 
-    Útil en pruebas o después de editar los hechos en caliente, sin tener que
-    reiniciar el proceso. Devuelve el grafo nuevo.
+    Útil en pruebas o tras editar los hechos en caliente, sin reiniciar el
+    proceso. Devuelve el grafo nuevo.
 
     Returns:
         dict: el grafo que quedó activo.
     """
-    global GRAFO
+    global GRAFO, INDICE_RUTAS
+    rutas = RUTAS if rutas is None else rutas
     GRAFO = regla_generar_conexiones(
         rutas=rutas,
         circulares=circulares,
         tiempo_entre_paraderos=tiempo_entre_paraderos,
     )
+    INDICE_RUTAS = construir_indice_rutas(rutas)
     return GRAFO
