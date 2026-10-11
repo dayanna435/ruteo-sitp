@@ -6,4 +6,3 @@
 #
 #   python3 src/main.py <id_origen> <id_destino>
 #
-# No agregues paquetes aquí salvo que realmente se importen en src/*.py.

@@ -1,6 +1,6 @@
 """
-Pruebas de la base de conocimiento que expone hechos.py y de su coherencia
-con data/data.json.
+Pruebas de la base de conocimiento que expone hechos.py y de su coherencia con
+los datos procesados en data/output/.
 """
 
 import sys
@@ -10,23 +10,29 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "src"))
 
 import hechos
-from hechos import PARADEROS, RUTAS, RUTAS_CIRCULARES
+from hechos import (
+    BUSES,
+    INFO_RUTAS,
+    PARADEROS,
+    RUTAS,
+    RUTAS_CIRCULARES,
+    TIPOS_PARADEROS,
+)
 
 
 class TestFormaDeLaBase(unittest.TestCase):
     """Lo que el resto del sistema da por hecho sobre hechos.py."""
 
     def test_no_esta_vacia(self):
-        # Importar hechos.py ya valida y carga data/data.json; si llegara aquí
-        # con la base vacía sería un problema de datos.
-        self.assertGreater(len(PARADEROS), 0)
-        self.assertGreater(len(RUTAS), 0)
+        self.assertGreater(len(PARADEROS), 1000)
+        self.assertGreater(len(RUTAS), 100)
 
     def test_constantes_positivas(self):
         for nombre in (
             "TIEMPO_ENTRE_PARADEROS",
             "TIEMPO_TRANSBORDO",
             "VELOCIDAD_PROMEDIO_KM_MIN",
+            "VELOCIDAD_COMERCIAL_KMH",
         ):
             valor = getattr(hechos, nombre)
             self.assertIsInstance(valor, float, nombre)
@@ -60,59 +66,28 @@ class TestFormaDeLaBase(unittest.TestCase):
         usados = {p for secuencia in RUTAS.values() for p in secuencia}
         self.assertEqual(set(PARADEROS), usados)
 
+    def test_info_rutas_cubre_todas_las_rutas(self):
+        self.assertEqual(set(INFO_RUTAS), set(RUTAS))
+        for id_ruta, info in INFO_RUTAS.items():
+            for campo in (
+                "nombre_largo",
+                "tipo",
+                "dias_operacion",
+                "horario_inicio",
+                "horario_fin",
+                "es_circular",
+            ):
+                self.assertIn(campo, info, id_ruta)
 
-class TestPuntosDeTransbordo(unittest.TestCase):
-    """
-    Los paraderos que comparten dos rutas son los únicos puntos donde se puede
-    cambiar de bus. Este test fija ese dato porque es fácil equivocarse: el
-    comentario antiguo de los datos señalaba solo el_campin, pero
-    chapinero_central también lo comparten la 14 y la C11.
-    """
+    def test_tipos_de_paradero_conocidos(self):
+        for id_paradero, tipo in TIPOS_PARADEROS.items():
+            self.assertIn(id_paradero, PARADEROS)
+            self.assertIn(tipo, ("", "troncal", "zonal"))
 
-    def compartidos(self):
-        en_rutas = {}
-        for ruta, secuencia in RUTAS.items():
-            for id_paradero in secuencia:
-                en_rutas.setdefault(id_paradero, set()).add(ruta)
-        return {p: rutas for p, rutas in en_rutas.items() if len(rutas) > 1}
-
-    def test_solo_dos_paraderos_comparten_ruta(self):
-        compartidos = self.compartidos()
-        self.assertEqual(
-            sorted(compartidos),
-            ["chapinero_central", "el_campin"],
-            f"cambió el conjunto de puntos de transbordo: {compartidos}",
-        )
-
-    def test_los_compartidos_son_de_la_14_y_la_c11(self):
-        for id_paradero, rutas in self.compartidos().items():
-            self.assertEqual(rutas, {"urbana_14", "c11"}, id_paradero)
-
-    def test_se_puede_transbordar_en_cada_punto_compartido(self):
-        from motor_busqueda import buscar_ruta
-
-        casos = {
-            "chapinero_central": ("can", "univ_pedagogica"),
-            "el_campin": ("univ_pedagogica", "can"),
-        }
-        for punto, (origen, destino) in casos.items():
-            resultado = buscar_ruta(origen, destino)
-            self.assertTrue(resultado["encontrada"], f"{origen} -> {destino}")
-            transbordos = [paso for paso in resultado["pasos"] if paso[4]]
-            self.assertEqual(len(transbordos), 1, f"{origen} -> {destino}")
-            self.assertEqual(
-                transbordos[0][0],
-                punto,
-                f"el transbordo de {origen} -> {destino} no ocurrió en {punto}",
-            )
-
-    def test_la_circular_no_tiene_puntos_de_transbordo(self):
-        from motor_busqueda import buscar_ruta
-
-        for destino in ("dg57_tv4e", "cl54_kr6"):
-            resultado = buscar_ruta("can", destino)
-            if resultado["encontrada"]:
-                self.assertFalse(any(paso[4] for paso in resultado["pasos"]))
+    def test_los_buses_referencian_rutas_existentes(self):
+        for id_ruta, registro in BUSES.items():
+            self.assertIn(id_ruta, RUTAS)
+            self.assertIn("tipo_vehiculo", registro)
 
 
 if __name__ == "__main__":

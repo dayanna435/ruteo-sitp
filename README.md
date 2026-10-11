@@ -1,98 +1,114 @@
-# Sistema Inteligente de Ruteo en el SITP (Bogotá)
+<div align="center">
 
-Sistema basado en conocimiento (reglas lógicas) + búsqueda heurística (A*)
-para calcular la ruta de menor tiempo entre dos paraderos del Sistema
-Integrado de Transporte Público (SITP) de Bogotá, componente zonal (buses
-urbanos, alimentadores y complementarios).
+  # Sistema Inteligente de Ruteo en el SITP (Bogotá)
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./docs/images/sir-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./docs/images/sir-light.png">
+    <img src="./docs/image/sir-light.png" alt="banner">
+  </picture>
+  <br>
+  <p>
+    <a href="https://github.com/dayanna435/ruteo-sitp/issues">
+      <img src="https://img.shields.io/github/issues/dayanna435/ruteo-sitp" alt="Issues">
+    </a>
+    <a href="https://github.com/dayanna435/ruteo-sitp/stargazers">
+      <img src="https://img.shields.io/github/stars/dayanna435/ruteo-sitp" alt="Stars">
+    </a>
+  </p>
+</div>
+
+## Sobre el proyecto:
+**Proyecto AcademicoAplicación de línea de comandos (CLI) basada en inteligencia artificial y procesamiento de datos para calcular la ruta óptima de transporte entre paraderos del Sistema Integrado de Transporte Público (SITP) de Bogotá, incluyendo sugerencias automáticas de transbordos cuando no existe una ruta directa.
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,python" />
+  </a>
+</p>
 
 ## Estructura del proyecto
 
-```
+```plaintext
 ruteo-sitp/
-├── data
-│   └── data.json
-├── docs
+├── data/
+│   ├── gtfs/                 # Archivos GTFS estáticos oficiales (2026-09-29)
+│   │   ├── agency.txt
+│   │   ├── calendar_dates.txt
+│   │   ├── calendar.txt
+│   │   ├── fare_attributes.txt
+│   │   ├── feed_info.txt
+│   │   ├── frequencies.txt
+│   │   ├── routes.txt
+│   │   ├── shapes.txt
+│   │   ├── stops.txt
+│   │   ├── stop_times.txt
+│   │   └── trips.txt
+│   └── output/               # Datos procesados listos para el motor
+│       ├── buses.json
+│       ├── constantes.json
+│       ├── paraderos.json
+│       └── rutas.json
+├── docs/
+├── src/                      # Lógica principal del sistema y CLI
+├── tests/                    # Pruebas unitarias del sistema
 ├── README.md
-├── requirements.txt
-├── src
-│   ├── cargador_datos.py
-│   ├── hechos.py
-│   ├── main.py
-│   ├── motor_busqueda.py
-│   ├── __pycache__
-│   │   ├── cargador_datos.cpython-314.pyc
-│   │   ├── hechos.cpython-314.pyc
-│   │   ├── main.cpython-314.pyc
-│   │   ├── motor_busqueda.cpython-314.pyc
-│   │   └── reglas.cpython-314.pyc
-│   └── reglas.py
-└── tests
-    ├── __pycache__
-    │   ├── test_cargador_datos.cpython-314.pyc
-    │   ├── test_hechos.cpython-314.pyc
-    │   ├── test_motor_busqueda.cpython-314.pyc
-    │   └── test_reglas.cpython-314.pyc
-    ├── README.md
-    ├── test_cargador_datos.py
-    ├── test_hechos.py
-    ├── test_motor_busqueda.py
-    └── test_reglas.py
+└── requirements.txt
 ```
 
-La base de conocimiento se lee de `data/data.json`, que es el único lugar donde hay que editar o ampliar paraderos,rutas y constantes. Al arrancar, `cargador_datos.py` valida el archivo (claves obligatorias, rangos de coordenadas, paraderos referenciados que existan, constantes positivas) y falla con un mensaje claro si algo no cuadra.
+## Fuentes de Datos (GTFS)
 
-## Datos utilizados
+El sistema utiliza los Datos Abiertos GTFS Estáticos de TransMilenio (versión del 29 de septiembre de 2026), ubicados en la carpeta data/gtfs/.
 
-Los códigos y trazados de las rutas **Urbana 14**, **C11** y **Complementaria 18-8** corresponden a rutas reales del SITP, divulgadas públicamente por la Alcaldía de Bogotá / Secretaría Distrital de Movilidad. Las coordenadas de los paraderos son **aproximadas** (ubicación general del barrio o cruce, no el poste exacto).
+Mediante `src/pipeline_gtfs.py`, estos archivos planos se transforman y normalizan en los archivos optimizados de la carpeta data/output/:
 
-Para reemplazarlas por coordenadas oficiales exactas, se puede usar los datasets abiertos de TransMilenio S.A.:
-- Rutas Zonales SITP: https://datosabiertos-transmilenio.hub.arcgis.com/datasets/rutas-zonales-sitp
-- Paraderos Zonales del SITP: https://datosabiertos-transmilenio.hub.arcgis.com/datasets/paraderos-zonales-del-sitp
-- Paraderos SITP (datos.gov.co): https://www.datos.gov.co/d/etwh-dt2e
+```sh
+python3 src/pipeline_gtfs.py
+```
+
+- buses.json: Información detallada de la flota y asignaciones.
+- constantes.json: Parámetros de configuración del sistema de ruteo.
+- paraderos.json: Catálogo completo de paraderos y estaciones con sus coordenadas y códigos únicos.
+- rutas.json: Trazados, días de disponibilidad y horarios de las rutas zonales y troncales.
 
 ## Requisitos
 
 - Python 3.8 o superior (no requiere librerías externas).
+- Dependencias descritas en requirements.txt.
 
-## Ejecución
+## Ejecución (Interfaz de Línea de Comandos - CLI)
 
-Todos los comandos se ejecutan **desde la raíz del repositorio**.
+Todos los comandos deben ejecutarse **desde la raíz del repositorio**.
 
-**Modo interactivo** (muestra la lista de paraderos y pide origen/destino):
-```bash
+**1. Modo interactivo:**
+
+El sistema despliega una interfaz de apoyo donde el usuario puede consultar paraderos y seleccionar su punto de partida y destino de forma guiada:
+
+```sh
 python3 src/main.py
 ```
 
-**Modo directo** (para pruebas rápidas o para el video):
-```bash
-python3 src/main.py <id_origen> <id_destino>
+**2. Modo directo:**
+
+Para consultas rápidas indicando el origen y el destino. Cada argumento puede ser el id del paradero o un fragmento único de su nombre:
+
+```sh
+python3 src/main.py <origen> <destino>
 ```
 
-Ejemplo:
-```bash
-python3 src/main.py chapinero_central portal_americas
+Ejemplos de uso:
+
+```sh
+python3 src/main.py 49841 61235
+python3 src/main.py "Portal Norte" "Museo Nacional"
 ```
 
-## Cómo funciona? (resumen del video)
+## ¿Cómo funciona el Sistema?
 
-1. **Base de conocimiento** (`hechos.py`): declara los paraderos (id, nombre,
-   coordenadas) y las rutas SITP como secuencias de paraderos. Esto equivale
-   al predicado lógico `circula(ParaderoA, ParaderoB, Ruta, Tiempo)`.
-2. **Reglas** (`reglas.py`):
-   - Regla de circulación directa: genera automáticamente todas las
-     conexiones entre paraderos consecutivos de una misma ruta (bidireccional,
-     salvo las rutas circulares como la 18-8, que solo van en un sentido).
-   - Regla de transbordo: si el siguiente tramo usa una ruta distinta a la
-     actual, se penaliza el costo con un tiempo adicional (bajarse y esperar
-     el siguiente bus).
-   - Regla de meta: determina cuándo se llegó al destino.
-3. **Motor de búsqueda** (`motor_busqueda.py`): aplica A*, usando como
-   heurística la distancia geográfica en línea recta hasta el destino
-   (dividida entre la velocidad comercial promedio del sistema), acotada por
-   el costo del tramo más barato. Ese acotamiento hace que la heurística sea
-   **admisible** (nunca sobreestima el tiempo restante), que es la condición
-   para que A* devuelva siempre la ruta más rápida.
+1. **Procesamiento de Datos:** Ingiere y valida el formato GTFS normalizado, estructurándolo en JSON eficientes para su consulta rápida en memoria.
 
-## Adaptar a datos reales completos
+2. **Asesoría de Rutas:** Analiza la red de transporte disponible evaluando tiempos, frecuencias y días de operación válidos.
 
-Este proyecto incluye solo 3 rutas como muestra representativa (el SITP tiene cientos). Para ampliar la cobertura, modificar `data/data.json` (el formato está documentado al inicio de `src/cargador_datos.py`) y, si se prefiere, generen ese archivo desde los datasets oficiales en lugar de escribirlo a mano: `cargador_datos.py` es el único módulo que abre archivos, así que también puede leer el GeoJSON/CSV original y convertirlo a las mismas estructuras sin tocar `hechos.py`, `reglas.py` ni `motor_busqueda.py`.
+3. **Optimización y Transbordos:** Calcula el trayecto óptimo. Si no existe una ruta directa que conecte el origen con el destino, el sistema procesa automáticamente las combinaciones posibles y sugiere las opciones de transbordo más eficientes para completar el viaje.
+
+---
